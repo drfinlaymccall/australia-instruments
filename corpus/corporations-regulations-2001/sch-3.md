@@ -8,8 +8,8 @@ Item | Office | Law | Jurisdiction
 3 | Chairperson of the Australian Securities and Investments Commission | Australian Securities and Investments Commission Act 2001 | Commonwealth
 4 | Deputy Chairperson of the Australian Securities and Investments Commission | Australian Securities and Investments Commission Act 2001 | Commonwealth
 5 | Member of the Australian Securities and Investments Commission | Australian Securities and Investments Commission Act 2001 | Commonwealth
-6 | President of the Corporations and Securities Panel | Australian Securities and Investments Commission Act 2001 | Commonwealth
-7 | Member of the Corporations and Securities Panel | Australian Securities and Investments Commission Act 2001 | Commonwealth
+6 | President of the Takeovers Panel | Australian Securities and Investments Commission Act 2001 | Commonwealth
+7 | Member of the Takeovers Panel | Australian Securities and Investments Commission Act 2001 | Commonwealth
 8 | Treasurer |  | Western Australia
 9 | Commissioner for Corporate Affairs |  | Western Australia
 10 | Public Trustee | Public Trustee Act 1941 | Western Australia

@@ -81,46 +81,7 @@ Chapter 6 Acquisition of shares
 96 | Subsection 671B (4) | Notice of initial substantial holder | 603
 97 | Subsection 671B (4) | Notice of change of interests of substantial holder | 604
 98 | Subsection 671B (4) | Notice of ceasing to be a substantial holder | 605
-Chapter 7 Securities
-110 | Subregulation 7.3.06 (2) | Notice of application for discharge of security | 702
-111 | Section 790 | Notice of particulars of cessation or change in relation to the holder of a licence | 703
-112 | Section 790 | Notice of person becoming director of or secretary to body corporate | 704
-113 | Section 791 | Annual statement by a dealer or investment adviser that is not a body corporate | 705
-115 | Section 811 | Notice of *place/ *change of place where register of holders of proper authorities is kept | 707
-116 | Section 811 | Notice of *holding/ *ceasing to hold a proper authority | 708
-117 | Paragraph 857 (3) (b) | Return of members of firm of auditors | 709
-118 | Subsection 860 (2) | Accounts prepared by a dealer who is not a body corporate | 710
-119 | Subsection 860 (2) | Statement relating to accounts of a dealer that is a body corporate | 711
-120 | Subsection 860 (2) | Auditor’s report | 712
-121 | Subsection 872 (3) | Disclosure document | 713
-122 | Subsection 881 (1) | Register of securities | 714
-123 | Sections 882 and 883 | Notification of register of interests in securities or change of details of register | 715
-124 | Subsection 910 (1) | Notice calling for claims for compensation from a securities industry fidelity fund | 716
-125 | Subsection 909 (2) | Notice of appeal | 717
-126 | Subsection 911 (4) | Notice of disallowance of claim for compensation from a securities exchange fidelity fund | 718
-127 | Section 947 | Statement about payments out of a development account | 719
-127A | Paragraph 959 (4) (a) | Notice of compensation for losses resulting from the unauthorised execution of a document of transfer of rights, shares, debentures or other securities by dealer | 719A
-127B | Subsection 961E (4) | Notice calling for claims against Securities Exchanges Guarantee Corporation | 719B
-128 | Subsection 969 (1) | Notice calling for claims against SEGC | 720
-129 | Section 975 | Notice of disallowance of claim against SEGC | 721
-129A | Subsection 1001B (1) | Disclosure notice for unlisted disclosing entity | 1003
-Chapter 8 The futures industry
-132 | Section 1156 | Notice of cessation/change in relation to the holder of a licence | 802
-133 | Section 1156 | Particulars of a change in relation to the holder of a licence due to a change of a director or the secretary | 802A
-134 | Subsection 1157 (1) | Annual statement by a licensee or former licensee | 803
-136 | Paragraph 1206 (1) (b) | Agreement to waive the operation of paragraph 1206 (1) (b) of the Act in relation to the issue of contract notes | 803C
-137 | Subparagraph 1210 (a) (iii) | Risk disclosure statement | 804
-138 | Paragraph 1215 (3) (e) | Return of members of firm of auditors | 805
-139 | Subsection 1218 (2) | Profit and loss account and balance sheet of a futures broker that is a body corporate | 806
-140 | Subsection 1218 (2) | Profit and loss account and balance sheet of a futures broker who is not a body corporate | 807
-141 | Subsection 1218 (2) | Auditor’s report | 807A
-142 | Subsection 1241 (2) | Notice of appeal | 808
-143 | Subsection 1242 (1) | Notice calling for claims for compensation from the fidelity fund of a relevant organisation | 809
-144 | Subsection 1243 (4) | Notice of disallowance of claims for compensation from the fidelity fund of a futures organisation | 810
-145 | Regulation 8.3.06 | Notice of *place/ *change of place where register of holders of proper authorities is kept | 811
-146 | Regulation 8.3.06 | Notice of *holding/ *ceasing to hold a proper authority or *particulars of holders of proper authorities to be entered in register of holders of proper authorities | 812
 Chapter 9 Miscellaneous
-146A | Paragraph 1274 (8) (h) | Notification of information supplementary to a form or document previously lodged | 902
 147 | Subsection 1279 (2) | Application for registration as an auditor under subsection 1279 (2) | 903A
 148 | Subsection 1279 (2) | Application for registration *as a liquidator or *as a liquidator of a specified body corporate under subsection 1279 (9) | 903B
 149 | Subsection 1284 (3) | Notice of application for discharge of security under subsection 1284 (3) | 904

@@ -1,6 +1,6 @@
 # Schedule 9 Authorised trustee corporations
 
-(regulation 7.1.01)
+(regulation 7.11.02)
 Column 1 | Column 2
 Item | Authorised trustee corporations
 1 | ANZ Executors Nominees Limited

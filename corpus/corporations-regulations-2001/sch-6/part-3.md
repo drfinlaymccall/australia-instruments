@@ -7,14 +7,14 @@ Item | Word or phrase
 6304 | Chamber of Commerce
 6305 | Chamber of Manufactures
 6306 | Chartered
-6307 | College of Advanced Education
 6308 | Consumer
 6309 | Co-operative
 6311 | Executor
 6312 | Friendly Society (other than in relation to the conduct of a financial business)
+6312A | GST
+6312B | G.S.T.
 6313 | Guarantee
 6314 | Incorporated
-6315 | Institute of Advanced Education
 6316 | Made in Australia
 6317 | R.S.L.
 6317A | RSL
@@ -23,4 +23,3 @@ Item | Word or phrase
 6320 | Torres Strait Islander Corporation
 6321 | Trust
 6322 | Trustee
-6323 | University

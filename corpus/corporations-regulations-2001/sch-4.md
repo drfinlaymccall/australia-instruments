@@ -25,5 +25,12 @@ Item | Matter | Amount ($)
  | for each page, or part of a page, not exceeding international sheet size A4 of the copy supplied or, at the option of the supplier, for each 100 words or part of 100 words | 0.50
 4 | Payment for each name and address provided under subsection 641 (5) | 0.10
 5 | For compliance with a direction under section 672A | 5.00
-6 | Replacement of lost or destroyed certificate for subsection 1089 (1) | 10.00
+6 | Replacement of lost or destroyed certificate for paragraph 1070D (4) (a) | 10.00
 7 | Fee for supply by a responsible entity of a copy of the constitution of a registered scheme under subsection 601GC (4) | 10.00
+8 | Inspection of register for subsection 919E (3): | 
+ | (a) if the register is not kept on a computer — for each inspection | 12.50
+ | (b) if the register is kept on a computer — for each inspection | a reasonable amount that does not exceed the marginal cost to the declared professional body of providing an inspection
+ | (c) despite paragraphs (a) and (b), if the inspection is by a member of the declared professional body | No fee
+9 | Making copies of, or taking extracts from, a register for subsection 919E (3): | 
+ | (a) if the register is not kept on a computer — for each page, or part of a page, not exceeding international sheet size A4 of the copy supplied or, at the option of the supplier, for each 100 words or part of 100 words | 1.25
+ | (b) if a register is kept on a computer — for each copy or extract | a reasonable amount that does not exceed the marginal cost to the declared professional body of providing a copy or extract
