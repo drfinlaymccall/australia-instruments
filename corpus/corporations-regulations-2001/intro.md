@@ -3,7 +3,7 @@
 Statutory Rules 2001 No. 193 as amended
 made under the
 Corporations Act 2001
-This compilation was prepared on 8 April 2003 taking into account amendments up to SR 2003 No. 48
+This compilation was prepared on 8 May 2003 taking into account amendments up to SR 2003 No. 85
 [Note: Subregulation 10.2.44A (2) ceases to have effect on 11 March 2004, see subregulation 10.2.44A (3)]
 This document has been split into eleven volumes Volume 1 contains Chapters 1, 2A–2C, 2K, 2M, 5, 5B, 5C, 6, 6A, 6CA and 6D, Volume 2 contains Chapter 7 (Parts 7.1 to 7.6), Volume 3 contains Chapter 7 (Parts 7.7 to 7.12), Volume 4 contains Chapters 9 and 10,
 Volume 5 contains Chapter 12 and Schedules 1 and 2 (Forms 1003, 105, 207Z, 2501, 309–312, 314–316, 350 and 501),
