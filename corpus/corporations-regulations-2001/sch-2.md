@@ -1,4 +1,4 @@
-# Schedule 2 Forms [see Note 2]
+# Schedule 2 Forms
 
 (regulations 1.0.02 and 1.0.03)
 
@@ -83,7 +83,9 @@ NOTES:
 2 Under subsection 419A (5), this notice ceases to have effect if the controller:
 (a) revokes the notice, by writing to the owner/lessor; or
 (b) exercises or purports to exercise a right in relation to the specified property the controller.
-Form 507A Statement verifying report
+
+# Form 507A Statement verifying report
+
 (subsections 430 (1), 475 (1) and (2))
 Australian Company Number:
 Corporations Act 2001
