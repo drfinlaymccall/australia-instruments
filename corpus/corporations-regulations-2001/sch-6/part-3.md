@@ -1,0 +1,26 @@
+# Part 3 Restricted words and phrases
+
+Column 1 | Column 2
+Item | Word or phrase
+6301 | Aboriginal Corporation
+6302 | Aboriginal Council
+6304 | Chamber of Commerce
+6305 | Chamber of Manufactures
+6306 | Chartered
+6307 | College of Advanced Education
+6308 | Consumer
+6309 | Co-operative
+6311 | Executor
+6312 | Friendly Society (other than in relation to the conduct of a financial business)
+6313 | Guarantee
+6314 | Incorporated
+6315 | Institute of Advanced Education
+6316 | Made in Australia
+6317 | R.S.L.
+6317A | RSL
+6318 | Starr Bowkett
+6319 | Stock Exchange
+6320 | Torres Strait Islander Corporation
+6321 | Trust
+6322 | Trustee
+6323 | University
