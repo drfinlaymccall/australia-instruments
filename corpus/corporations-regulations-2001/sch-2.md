@@ -691,7 +691,7 @@ Dated
 Form 719A Compensation for losses resulting from the unauthorised transfer of rights, shares, debentures or other securities by dealer
 (subregulation 7.5.56 (4))
 Corporations Regulations 2001
-This notice relates to the unauthorised transfer of securities by (insert name of dealer who is claimed to have executed the document of transfer of securities without authority of transferor) (in this notice called ‘the dealer’) of (insert residential address of the dealer) *formerly carrying on / *carrying on business at (insert address of the principal place of business of the dealer, including State or Territory).
+This notice relates to the unauthorised transfer of securities by (insert name of the dealer who is claimed to have transferred securities without authority of transferor) (in this notice called ‘the dealer’) of (insert residential address of the dealer) *formerly carrying on / *carrying on business at (insert address of the principal place of business of the dealer, including State or Territory).
 A person wishing to make a claim under regulation 7.5.54 or 7.5.55 of the Corporations Regulations 2001 in respect of loss suffered as a result of a transfer of securities executed between (insert date of first day of applicable period) and (insert date of last day of applicable period, being a date before the date on which the notice is first to be published) (inclusive) by the dealer without authority must lodge his or her claim with:
 Securities Exchanges Guarantee Corporation
 (insert address, including State or Territory and postcode).
@@ -751,7 +751,7 @@ Form 721 Notice of disallowance of claim against the securities exchanges guaran
 (regulation 7.5.80)
 Corporations Regulations 2001
 (Set out the name and address of the claimant or the claimant’s solicitor and an appropriate form of salutation)
-In relation to (insert name of the dealer to whom the claim relates/the TDS nominee), *formerly carrying on / *carrying on business at (insert business address of the dealer or the nominee).
+In relation to (insert name of the dealer to whom the claim relates), *formerly carrying on / *carrying on business at (insert business address of the dealer).
 The *Board of the Securities Exchanges Guarantee Corporation / *delegate of the Board of the Securities Exchanges Guarantee Corporation under section 890C of the Corporations Act 2001 has considered your claim against the Corporation in respect of (insert description of the circumstances giving rise to the claim and the loss allegedly suffered by the claimant).
 After considering all the available evidence, the Corporation has decided that the claim under *regulation (insert relevant regulation number) / *regulations (insert relevant regulation numbers) should be *disallowed / *partly disallowed to the extent set out below.
 If you are not satisfied with this decision, you may bring proceedings within 3 months after service of this notice (see section 888H of the Act).

@@ -8,7 +8,7 @@ Item | Authorised trustee corporations
 3 | ANZ Executors & Trustee Company Limited
 4 | ANZ Executors & Trustee Company (Canberra) Limited
 5 | ANZ Executors & Trustee Company (South Australia) Limited
-5A | Tower Trust Limited
+5A | AXA Trustees Limited
 6 | Bagot’s Executor and Trustee Company Limited
 7 | Bank of New South Wales Nominees Pty Limited
 8 | Burns Philp Trustee Company (Canberra) Limited
@@ -23,7 +23,6 @@ Item | Authorised trustee corporations
 15AB | IOOF Australia Trustees (N.S.W.) Limited
 15A | Inteq Custodians Limited
 16 | National Australia Trustees Limited
-17 | AXA Trustees Limited
 18 | National Nominees Limited
 19 | P.T.A. Nominees Limited
 19A | Permanent Custodians Limited
@@ -57,6 +56,7 @@ Item | Authorised trustee corporations
 45 | The Equity Trustees Executors and Agency Company Limited
 46 | The Perpetual Executors and Trustees Association of Australia Limited
 47 | The Union Fidelity Trustee Company of Australia Limited
+47AA | Tower Trust Limited
 47A | Trustees of Western Australia Limited
 48 | Union Trustee Company (Canberra) Limited
 49 | Westpac Custodian Nominees Limited

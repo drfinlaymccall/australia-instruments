@@ -67,7 +67,7 @@ Note See paragraph 1013D (1) (g) of the Act.
 (i) expressed as a fixed amount; or
 (ii) if it is not practicable to express fixed amount, expressed as a percentage of:
 (A) the contributions made in respect of a member; or
-(B) the member’s benefits in the fund; or
+(B) the product holder’s benefits in the fund; or
 (C) the assets of the fund; and
 (c) against what, or to whom, the amount or percentage will be charged (for example, against contributions made in respect of the product holder to the fund or against the assets of the fund); and
 (d) if the amount or percentage varies for different classes of product holders, the minimum or maximum limit for each amount or percentage.
