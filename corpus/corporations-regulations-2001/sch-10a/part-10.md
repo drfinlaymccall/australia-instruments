@@ -9,11 +9,11 @@ Provision of advice before event
 before it occurs, the responsible person must give the product holder information about the event as soon as practicable after it becomes reasonable for the responsible person to expect that the event will happen (except that the information does not need to be given more than 3 months before the expected date of the event).
 Changes to governing rules or terms and conditions
 (5B) For subsections 1017B (5), (6) and (7) a reference to an event includes the following:
-(a) a change to the governing rules of a superannuation entity of a kind that has an adverse effect on:
+(a) a change to the governing rules of a superannuation entity (other than a change that gives effect to a payment split) of a kind that has an adverse effect on:
 (i) the amount of the relevant financial product; or
 (ii) the benefits to which the holder of the relevant financial product may become entitled; or
 (iii) the circumstances in which the benefits to which the holder of the relevant financial product may become entitled would become payable;
-(b) a change to the terms and conditions of an RSA of a kind that has an adverse effect on:
+(b) a change to the terms and conditions of an RSA (other than a change that gives effect to a payment split) of a kind that has an adverse effect on:
 (i) the amount of the RSA; or
 (ii) the benefits to which the RSA holder may become entitled; or
 (iii) the circumstances in which the benefits to which the RSA holder may become entitled would become payable;
@@ -27,7 +27,15 @@ Notice of non-compliance
 (b) a statement of the effect on the fund of the issue of the notice (including details of the effect on the entity’s taxation position); and
 (c) details of action that the responsible person has taken, or proposes to take, to have the entity become a complying fund or a pooled superannuation trust for the purposes of Division 2 of Part 5 of the Act.
 (5D) For subsection (5C), a notice of non-compliance means a notice issued under section 40 of the SIS Act to the trustee of a fund stating that the fund is not a complying fund or a pooled superannuation trust.
-Fund transfers
-(5E) For subsections 1017B (5), (6) and (7), a reference to an event, in relation to a superannuation product, includes:
-(a) the transfer of a member to a different category of membership or to a different fund; and
-(b) the transfer of the benefits of a member to an RSA or to an EPSSS.
+Fund and RSA transfers
+(5E) For subsections (5), (6) and (7), a reference to an event includes:
+(a) in relation to a superannuation product:
+(i) the transfer of a member to a different category of membership or to a different fund; and
+(ii) the transfer of the benefits of a member to an RSA or EPSSS (otherwise than under a payment split); and
+(b) in relation to an RSA product — the transfer of an amount of an RSA (otherwise than under a payment split) to:
+(i) another RSA offered by an RSA product issuer; or
+(ii) a superannuation entity; or
+(iii) an EPSSS.
+10.2 After subsection 1017B (9)
+insert
+(10) This section does not apply to a change or event in relation to a superannuation product or an RSA product that relates to a payment split in respect of the product.
