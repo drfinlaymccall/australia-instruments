@@ -18,7 +18,6 @@ Chapter 3 Internal administration
 28 | Subsection 269 (1) | Notification of discharge or release of property from a charge | 312
 30 | Paragraph 324 (2) (e) | Return of members of firm of auditors | 314
 31 | Paragraph 319 (5) (a) Subsections 324 (1) & (2) Subsections 327 (4) & (15) Paragraph 329 (11) (c) Section 330 | Notice of resignation or removal of auditor | 315
-32 | Sections 345, 346, 347 & 348 | Annual return | 316
 Chapter 4 Various corporations
 Chapter 5 External administration
 43 | Subsection 414 (2) | Notice to dissenting shareholder | 501

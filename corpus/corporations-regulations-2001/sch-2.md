@@ -23,7 +23,10 @@ Corporations Act 2001
 (Note that in this form “dissenting shareholder” means a shareholder who has not assented to the scheme or contract mentioned in paragraph B, or who has failed or refused to transfer his or her shares to the transferee in accordance with that scheme or contract)
 1. To
 of
-A. (insert name of person giving notice, in this form called “the transferee”) The transferee on (insert date) made an offer to the holders of *shares in Limited/ *shares included in class of shares in Limited for the transfer of those shares to the transferee, not being an offer made under a scheme or contract arising out of the making of takeover offers or a takeover announcement under the law relating to the acquisition of shares; and
+A. (insert name of person giving notice, in this form called “the transferee”) The transferee on (insert date) made
+an offer to the holders of *shares in Limited/
+*shares included in class of shares
+in Limited for the transfer of those shares to the transferee, not being an offer made under a scheme or contract arising out of the making of takeover offers or a takeover announcement under the law relating to the acquisition of shares; and
 B. the scheme or contract involving the transfer of those shares to the transferee was on or before (insert date) approved by the holders of not less than nine-tenths in nominal value of the shares *in that company/*included in that class of shares, other than shares already held at the date of the offer by, or by a nominee for, the transferee (or, if the transferee is a company, its subsidiary); and
 C. you are a dissenting shareholder of shares *in the company/ *included in that class of shares.
 2. The transferee gives you notice under subsection 414 (2) that the transferee desires to acquire those shares held by you.
