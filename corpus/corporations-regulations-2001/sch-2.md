@@ -1,7 +1,9 @@
 # Schedule 2 Forms [see Note 2]
 
 (regulations 1.0.02 and 1.0.03)
-Form 314 Return of members of firm of auditors
+
+# Form 314 Return of members of firm of auditors
+
 (paragraph 324 (2) (e))
 Corporations Act 2001
 Name of firm:
@@ -16,7 +18,9 @@ DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
 NOTE
 The completion of this form does not relieve members of the firm from any obligation under the law relating to business names.
-Form 501 Notice to dissenting shareholder
+
+# Form 501 Notice to dissenting shareholder
+
 (subsection 414 (2))
 Australian Company Number:
 Corporations Act 2001
@@ -38,7 +42,9 @@ Dated
 *Omit if not applicable
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
-Form 502 Notice to remaining shareholder
+
+# Form 502 Notice to remaining shareholder
+
 (subsection 414(9) (a))
 Australian Company Number:
 Corporations Act 2001
@@ -61,7 +67,9 @@ Dated
 *Omit if not applicable
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
-Form 503 Notice of controller’s intention not to exercise property rights
+
+# Form 503 Notice of controller’s intention not to exercise property rights
+
 (subsection 419A (3))
 Corporations Act 2001
 To: (name), of (address), the *owner/*lessor of property (“the specified property”) being:
@@ -86,7 +94,9 @@ Dated
 (signature)
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
-Form 509A Notice to deliver books of company to the administrator
+
+# Form 509A Notice to deliver books of company to the administrator
+
 (subsection 438C (3))
 A.C.N. or A.R.B.N.
 Corporations Act 2001
@@ -98,7 +108,9 @@ SCHEDULE
 (insert specified books)
 Dated
 (administrator’s signature)
-Form 509B Notice of administrator’s intention not to exercise property rights
+
+# Form 509B Notice of administrator’s intention not to exercise property rights
+
 (subsection 443B 3))
 Corporations Act 2001
 Limited (administrator appointed)
@@ -113,7 +125,9 @@ NOTES
 2. Under subsection 443B (5), this notice ceases to have effect if:
 (a) the administrator revokes the notice, by writing to the owner/lessor; or
 (b) the company exercises or purports to exercise a right in relation to the specified property.
-Form 509C Notice of meeting of creditors to vary or terminate deed of company arrangement
+
+# Form 509C Notice of meeting of creditors to vary or terminate deed of company arrangement
+
 (paragraph 445F (2) (a))
 A.C.N. or A.R.B.N.
 Corporations Act 2001
@@ -124,7 +138,9 @@ Limited (subject to deed of company arrangement)
 Dated
 (signature of administrator)
 *Delete if not applicable
-Form 509E Notice to creditors of execution of a deed of company arrangement
+
+# Form 509E Notice to creditors of execution of a deed of company arrangement
+
 (paragraph 450B (a))
 Corporations Act 2001
 Limited (subject to deed of company arrangement)
@@ -135,7 +151,9 @@ Limited (subject to deed of company arrangement)
 Dated
 (Signature of administrator of the deed of company arrangement)
 *Delete if not applicable
-Form 509H Creditor’s statutory demand for payment of debt
+
+# Form 509H Creditor’s statutory demand for payment of debt
+
 (paragraph 459E (2) (e))
 Corporations Act 2001
 To (name and A.C.N. or A.R.B.N. of debtor company) of (address of the company’s registered office)
@@ -168,7 +186,9 @@ NOTES:
 (b) complies with the rules.
 4. A person may make a demand relating to a debt that is owed to the person as assignee.
 *Delete if not applicable
-Form 521 Notice of meeting of creditors under section 496
+
+# Form 521 Notice of meeting of creditors under section 496
+
 (subsection 496 (2), subregulation 5.6.12 (6))
 Corporations Act 2001
 Limited
@@ -182,7 +202,9 @@ Dated
 *Omit if not applicable
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
-Form 525 Notice of disclaimer of onerous property
+
+# Form 525 Notice of disclaimer of onerous property
+
 (subsection 568A (1))
 Corporations Act 2001
 Limited (in liquidation)
@@ -198,7 +220,9 @@ Dated
 NOTES:
 1. A person claiming an interest in the disclaimed property may apply to the Court, within the time permitted by subsection 568B (1), for the disclaimer to be set aside.
 2. A disclaimer, as from the day on which it takes effect under subsection 568C (3), is taken to have terminated the company’s rights, interests, liabilities and property in or in respect of the disclaimed property, but does not affect any other person’s rights or liabilities except in so far as is necessary in order to release the company and its property from liability.
-Form 527 Application requiring liquidator to decide whether to disclaim property
+
+# Form 527 Application requiring liquidator to decide whether to disclaim property
+
 (paragraph 568 (8) (a))
 Australian Company Number:
 Corporations Act 2001
@@ -209,7 +233,9 @@ The applicant has the following interest in the property:
 SCHEDULE
 Dated
 (signature of applicant)
-Form 529A Notice of first meeting of creditors of company under administration
+
+# Form 529A Notice of first meeting of creditors of company under administration
+
 (subregulation 5.6.12 (6))
 Corporations Act 2001
 Limited (administrator appointed)
@@ -232,7 +258,9 @@ Limited (administrator appointed)
 Dated
 (administrator’s signature)
 *Delete if not applicable
-Form 529B Notice of first meeting of creditors to ratify appointment of administrator
+
+# Form 529B Notice of first meeting of creditors to ratify appointment of administrator
+
 (subsection 449C (5))
 Corporations Act 2001
 Limited (administrator appointed)
@@ -254,7 +282,9 @@ appointed (insert name) of (insert address) as the administrator of the company 
 Dated
 (signature of convenor of the meeting)
 *Delete if not applicable
-Form 530 Statement in writing of posting of notice of meeting
+
+# Form 530 Statement in writing of posting of notice of meeting
+
 (regulation 5.6.13)
 A.C.N. or A.R.B.N.:
 Corporations Law
@@ -268,7 +298,9 @@ I (name) of (address) state:
 Signature
 * Omit if inapplicable.
 Note: Requirements relating to annexures are set out in regulation 1.0.06.
-Form 531A List of persons present at meeting of: *members/*contributories
+
+# Form 531A List of persons present at meeting of: *members/*contributories
+
 (paragraph 5.6.27 (2) (a))
 Corporations Regulations
 A.C.N. or A.R.B.N.:
@@ -285,7 +317,9 @@ No. | Name | Represented by | *Number of shares | *Number of votes
  |  |  |  | 
 (NOTE: If a joint meeting of creditors and members is held, both Form 531A and 531B should be completed)
 *Delete if not applicable
-Form 531B List of persons present at meeting of: *creditors/*debenture holders
+
+# Form 531B List of persons present at meeting of: *creditors/*debenture holders
+
 (paragraph 5.6.27 (2) (b))
 Corporations Regulations
 A.C.N. or A.R.B.N.:
@@ -303,7 +337,9 @@ No. | Name | Represented by (signature of person attending) | Amount of proof lo
 (NOTE: If a joint meeting of creditors and members is held, both Form 531A and 531B should be completed)
 * Delete if not applicable
 **Do not complete in the case of a meeting convened under Part 5.3A of the Corporations Act 2001
-Form 531C List of persons present at meeting of: *committee of inspection/*committee of creditors
+
+# Form 531C List of persons present at meeting of: *committee of inspection/*committee of creditors
+
 (paragraph 5.6.27 (2) (c))
 Corporations Regulations
 A.C.N. or A.R.B.N.
@@ -318,7 +354,9 @@ No. | Name | Represented by (Signature of person attending)
  |  | 
  |  | 
 * Delete if not applicable
-Form 532 Appointment of proxy
+
+# Form 532 Appointment of proxy
+
 (regulation 5.6.29)
 A.C.N. or A.R.B.N.
 Corporations Act 2001
@@ -333,7 +371,9 @@ Signature of witness
 Description
 Place of residence
 * Omit if inapplicable.
-Form 533 Notice inviting formal proof of debt or claim
+
+# Form 533 Notice inviting formal proof of debt or claim
+
 (subregulation 5.6.39 (3))
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -344,7 +384,9 @@ Take notice that creditors of the company, whose debts or claims have not alread
 Dated
 Signature of liquidator
 Address
-Form 534 Notice inviting formal proof of debt or claim
+
+# Form 534 Notice inviting formal proof of debt or claim
+
 (subregulation 5.6.48 (3))
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -356,7 +398,9 @@ Form of proof may be obtained from me.
 Dated
 Signature of liquidator
 Address
-Form 535 Formal proof of debt or claim (general form)
+
+# Form 535 Formal proof of debt or claim (general form)
+
 (subregulation 5.6.49 (2)
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -386,7 +430,9 @@ Signature
 Occupation
 Address
 *Do not complete if this proof is made by the creditor personally
-Form 536 Formal proof of debt or claim on behalf of employees
+
+# Form 536 Formal proof of debt or claim on behalf of employees
+
 (subregulation 5.6.49 (2))
 A.C.N. or A.R.B.N:
 Corporations Act 2001
@@ -409,7 +455,9 @@ Signature |  |  |  |  |
  |  |  |  |  | 
  |  |  |  |  | 
 Note: In case of a claim for annual leave or long service leave, insert a description of the claim.
-Form 537 Notice of rejection of formal proof of debt or claim
+
+# Form 537 Notice of rejection of formal proof of debt or claim
+
 (subregulation 5.6.54 (1))
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -423,7 +471,9 @@ Dated
 Signature of liquidator
 Address
 * Omit if inapplicable
-Form 538 Provisional list of contributories
+
+# Form 538 Provisional list of contributories
+
 (regulation 5.6.58)
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -445,7 +495,9 @@ Serial No. | Name | Address | Description of class of contributory and in what c
  |  |  |  |  |  |  | 
 Dated
 Signature of liquidator
-Form 539 Notice to contributories of appointment to settle list of contributories
+
+# Form 539 Notice to contributories of appointment to settle list of contributories
+
 (subregulation 5.6.59 (1))
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -464,7 +516,9 @@ NOTES
 1. Contributories do not have to attend the appointment referred to in this notice if they are satisfied that the particulars contained in the notice are correct.
 2. A shareholder’s name cannot be omitted from the list of contributories because he or she is unable to pay calls; this question will be dealt with when application is made for payment of the calls.
 3. A change of address may be notified by giving notice to the liquidator by post before the date fixed for the appointment.
-Form 540 Statement in writing of posting of notices of appointment to settle list or supplementary list of contributories
+
+# Form 540 Statement in writing of posting of notices of appointment to settle list or supplementary list of contributories
+
 (subregulation 5.6.59 (2))
 Corporations Act 2001
 Limited
@@ -475,7 +529,9 @@ Name of person completing the statement
 Address
 * Strike out whichever is inapplicable.
 Note: Requirements relating to annexures are set out in regulation 1.0.06.
-Form 541 Certificate of liquidator of final settlement of list of contributories
+
+# Form 541 Certificate of liquidator of final settlement of list of contributories
+
 (subregulation 5.6.60 (2))
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
@@ -484,7 +540,6 @@ I (name), the liquidator of the company, certify that the result of the settleme
 1. The persons named in Column 2 of Schedule 1 have been included in the list of contributories as contributories of the company in respect of the number of shares or extent of interest set out opposite their names. I have listed in Part 1 of Schedule 1, contributories in their own right and, in Part 2 of Schedule 1, contributories who are representatives of, or liable for the debts of, others.
 2. The persons named in Column 2 of Schedule 2 were included in the provisional list of contributories, but have been excluded from the settled list of contributories.
 3. In Column 6 of Schedule 1 and in Column 6 of Schedule 2, I have set out opposite the name of each person the date when that person was included in or excluded from the list of contributories.
-4. In Columns 7 and 8 of Schedule 1, I have set out opposite the name of each person the amount called up at the date of the commencement of the winding up and the amount paid up at that date in respect of the shares, or interest, of that person.
 SCHEDULE 1
 PERSONS INCLUDED IN THE LIST OF CONTRIBUTORIES
 PART 1: CONTRIBUTIONS IN THEIR OWN RIGHT
@@ -502,7 +557,9 @@ No. | Name | Address | Description of class of contributory and in what characte
  |  |  |  |  | 
 Dated
 Signature of liquidator
-Form 542 Provisional supplementary list of contributories
+
+# Form 542 Provisional supplementary list of contributories
+
 (subregulation 5.6.61 (1))
 A.C.N or A.R.B.N.:
 Corporations Act 2001
@@ -512,7 +569,9 @@ The following is a list of persons that I have found, since making out the annex
 Dated
 Signature of liquidator
 *Omit if inapplicable
-Form 543 Certificate of liquidator of settlement of supplementary list of contributories
+
+# Form 543 Certificate of liquidator of settlement of supplementary list of contributories
+
 (subregulation 5.6.61 (1))
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
@@ -521,7 +580,9 @@ I (name), the liquidator of the company, certify that the result of the settleme
 (set out the Certificate and Schedules as in Form 541)
 Dated
 Signature of liquidator
-Form 544 Notice to contributory of final settlement of list or supplementary list of contributories and of inclusion in list
+
+# Form 544 Notice to contributory of final settlement of list or supplementary list of contributories and of inclusion in list
+
 (subregulation 5.6.62 (4))
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
@@ -540,7 +601,9 @@ No. | Name | Address | Description of class of contributory and in what characte
 Dated
 Signature of liquidator
 * Omit if not applicable
-Form 545 Statement in writing of giving notice to persons placed on the list or supplementary list of contributories
+
+# Form 545 Statement in writing of giving notice to persons placed on the list or supplementary list of contributories
+
 (subregulation 5.6.62 (5))
 Corporations Act 2001
 Limited
@@ -552,7 +615,9 @@ Signature
 Address
 *Omit if inapplicable
 Note: Requirements relating to annexures are set out in regulation 1.0.06.
-Form 546 Notice of intention to declare a dividend
+
+# Form 546 Notice of intention to declare a dividend
+
 (subregulation 5.6.65 (1))
 Corporations Act 2001
 Limited
@@ -561,7 +626,9 @@ Creditors whose debts or claims have not already been admitted are required on o
 Dated
 Signature of liquidator
 Address
-Form 547 Notice to creditor or person claiming to be a creditor of intention to declare a dividend
+
+# Form 547 Notice to creditor or person claiming to be a creditor of intention to declare a dividend
+
 (subregulation 5.6.65 (1))
 Corporations Act 2001
 Limited
@@ -573,7 +640,9 @@ Dated
 Signature of liquidator
 Address
 *Omit if inapplicable.
-Form 548 Notice to creditor or person claiming to be a creditor of intention to declare a dividend
+
+# Form 548 Notice to creditor or person claiming to be a creditor of intention to declare a dividend
+
 (subregulation 5.6.65 (1))
 Corporations Act 2001
 Limited
@@ -582,7 +651,9 @@ You are required formally to prove your debt or claim on or before (date).
 If you do not, I will exclude your claim from participation, and I will proceed to make a final dividend without having regard to it.
 Signature of liquidator
 Address
-Form 549 Notice of declaration of dividend
+
+# Form 549 Notice of declaration of dividend
+
 (subregulation 5.6.67 (3))
 Corporations Act 2001
 Limited
@@ -591,7 +662,9 @@ A dividend at the rate of in the dollar has been declared for the company and a 
 Dated
 Signature of liquidator
 Address
-Form 550 Authority to liquidator to pay dividend to a person named
+
+# Form 550 Authority to liquidator to pay dividend to a person named
+
 (regulation 5.6.70)
 Corporations Act 2001
 Limited
@@ -603,7 +676,9 @@ Date
 Signature of creditor
 Name of creditor
 *Omit if inapplicable
-Form 551
+
+# Form 551
+
 (subregulation 5.6.71 (1))
 Corporations Act 2001
 (Note: Before completing this schedule please read carefully the “Direction for completing Form 551” at the end of this form)
@@ -627,7 +702,9 @@ If the Articles:
 (a) provide that the amount divisible among members or any class of members must be dividable in proportion to the amount paid up or that ought to have been paid up at the date of winding up; or
 (b) contain any other provision that requires further information before a distribution can be made;
 columns should be added showing the amount called up and the amount paid up a that date in respect of shares then held by those members or that class of members, or any other facts that may be required.
-Form 552 Notice of distribution of surplus to contributories or other persons
+
+# Form 552 Notice of distribution of surplus to contributories or other persons
+
 (subregulation 5.6.71 (2))
 Corporations Act 2001
 Limited
@@ -635,7 +712,9 @@ A distribution of surplus at the rate of per share has been declared for the com
 Dated
 Signature of liquidator
 Address
-Form 553 Authority to liquidator to pay distribution of surplus to a person named
+
+# Form 553 Authority to liquidator to pay distribution of surplus to a person named
+
 (regulation 5.6.72)
 Corporations Act 2001
 Limited
@@ -647,7 +726,9 @@ Dated
 Signature
 Name(s) of person(s) completing this authority
 *Omit if inapplicable.
-Form 719 Statement about payments out of financial industry development account
+
+# Form 719 Statement about payments out of financial industry development account
+
 (regulations 7.5.90 and 7.5.92)
 Corporations Regulations 2001
 1. The name of the market licensee to which this statement relates is (insert name of market licensee).
@@ -675,7 +756,9 @@ I (insert name of officer of the market licensee and the office he or she occupi
 Dated
 (signature of officer of the market licensee)
 (under the signature add the name of the person signing)
-Form 719A Compensation for losses resulting from the unauthorised transfer of rights, shares, debentures or other securities by dealer
+
+# Form 719A Compensation for losses resulting from the unauthorised transfer of rights, shares, debentures or other securities by dealer
+
 (subregulation 7.5.56 (4))
 Corporations Regulations 2001
 This notice relates to the unauthorised transfer of securities by (insert name of dealer who is claimed to have executed the document of transfer of securities without authority of transferor) (in this notice called ‘the dealer’) of (insert residential address of the dealer) *formerly carrying on / *carrying on business at (insert address of the principal place of business of the dealer, including State or Territory).
@@ -700,7 +783,9 @@ Under regulation 7.5.55 of the Corporations Regulations 2001, the following pers
 (under the signature add the words ‘for the Securities Exchanges Guarantee Corporation’)
 (add the date of signature)
 * Omit if not applicables
-Form 719B Notice calling for claims against securities exchanges guarantee corporation
+
+# Form 719B Notice calling for claims against securities exchanges guarantee corporation
+
 (subregulation 7.5.61 (4))
 Corporations Regulations 2001
 This notice relates to claims for pecuniary loss suffered in respect of a contravention of the ASTC certificate cancellation provisions by (insert name of dealer who is claimed to have contravened SCH certificate cancellation provisions) (in this notice called ‘the dealer’) *formerly carrying on business / *carrying on business at (insert business address of the dealer).
@@ -718,7 +803,9 @@ A person may not make a claim under regulation 7.5.60 of the Corporations Regula
 for the Securities Exchanges Guarantee Corporation
 (add the date of signature)
 * Omit if not applicable
-Form 720 Notice calling for claims against the securities exchanges guarantee corporation
+
+# Form 720 Notice calling for claims against the securities exchanges guarantee corporation
+
 (subregulation 7.5.70 (1))
 Corporations Regulations 2001
 In relation to (insert name of dealer who has become insolvent) (in this notice called ‘the dealer’) of (insert residential address of the dealer), *formerly / carrying on business at (insert address of the principal place of business of the dealer, including State or Territory), a dealer who has become insolvent.
@@ -734,7 +821,9 @@ Subregulation 7.5.64 (1) of the Corporations Regulations 2001 provides to the ef
 (under the signature add the words ‘For the Securities Exchanges Guarantee Corporation’)
 (add the date of signature)
 * Omit if not applicable
-Form 721 Notice of disallowance of claim against the securities exchanges guarantee corporation
+
+# Form 721 Notice of disallowance of claim against the securities exchanges guarantee corporation
+
 (regulation 7.5.80)
 Corporations Regulations 2001
 (Set out the name and address of the claimant or the claimant’s solicitor and an appropriate form of salutation)
@@ -750,7 +839,9 @@ Yours sincerely,
 ‘PARTICULARS OF PARTIAL DISALLOWANCE’
 and specify the necessary particulars under it)
 * Omit if not applicable
-Form 904 Notice of application for discharge of security under subsection 1284 (3)
+
+# Form 904 Notice of application for discharge of security under subsection 1284 (3)
+
 Registration no:
 Corporations Act 2001
 1. Notice is given that an application has been made to Australian Securities & Investments Commission (ASIC) for the discharge, wholly or in part, of the security lodged by (insert name and address of liquidator) in relation to the performance of his or her duties as *liquidator/*liquidator of (insert name of specified body corporate, if liquidator of specified body corporate).
@@ -759,7 +850,9 @@ Corporations Act 2001
 Dated
 (signature of the applicant)
 *Omit if not applicable
-Form 905 Particulars of cessation or change relating to a person registered as an auditor under subsection 1287(1)
+
+# Form 905 Particulars of cessation or change relating to a person registered as an auditor under subsection 1287(1)
+
 Registration no:
 Corporations Act 2001
  |  | 
@@ -791,7 +884,9 @@ to:
 Dated: (insert date)
 (signature of the registered company auditor)
 * Omit if not applicable
-Form 905A Particulars of cessation or change relating to a person registered *as a liquidator under subsection 1287 (2) *as a liquidator of a specified body corporate under subsection 1287 (3)
+
+# Form 905A Particulars of cessation or change relating to a person registered *as a liquidator under subsection 1287 (2) *as a liquidator of a specified body corporate under subsection 1287 (3)
+
 Registration no:
 Corporations Act 2001
  |  | 
@@ -835,7 +930,9 @@ to:
 Dated (insert date)
 (signature of the *registered liquidator/*liquidator of specified body corporate)
 * Omit if not applicable
-Form 910 Penalty notice
+
+# Form 910 Penalty notice
+
 (section 1313)
 Corporations Act 2001
 To (insert name of person alleged to have committed offence and, if a corporation, its Australian Company Number or its Australian Registered Body Number)

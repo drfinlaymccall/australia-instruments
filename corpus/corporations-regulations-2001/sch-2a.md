@@ -135,4 +135,3 @@ Full name(s) of transferor(s): |
 PART 2
 Full name(s) and address(es) of transferee(s): | Transferor hereby certifies that, the Division 3 rights set out in Part 1 above having been transferred to the person(s) for or on whose behalf the transferor held them, either alone or together with another person or other persons, in the ordinary course of business immediately before the transfer, the Division 3 assets to which the Division 3 rights relate are to be issued to the transferee(s) named in this Part, and hereby requests that the Division 3 assets be issued by the company to the transferee(s) and that such entries be made in the register as are necessary to give effect to this renunciation and transfer.
 I [or We] hereby renounce and transfer the above Division 3 rights in favour of the transferee(s) named in Part 2 hereof. Execution by the transferor(s): Date of execution:
-
