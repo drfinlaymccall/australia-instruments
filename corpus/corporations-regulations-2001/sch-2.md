@@ -15,7 +15,6 @@ Signature2
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
 NOTE
-The completion of this form does not relieve members of the firm from any obligation under the law relating to business names.
 Form 501 Notice to dissenting shareholder
 (subsection 414 (2))
 Australian Company Number:
@@ -192,7 +191,6 @@ Dated
 (signature of liquidator)
 *Omit if not applicable
 DIRECTION
-Requirements relating to annexures are set out in regulation 1.0.06.
 Form 525 Notice of disclaimer of onerous property
 (subsection 568A (1))
 Corporations Act 2001
@@ -725,7 +723,7 @@ Securities Exchanges Guarantee Corporation
 The claim must be made in writing and served on or before the end of (specify last application day — at least 3 months after last day of publication of notice).
 (NOTES:
 1. Under subregulation 7.5.61 (3) of the Corporations Regulations 2001, a claim that is not served before the end of the day specified will be barred, unless the Board of the Securities Exchanges Guarantee Corporation (‘SEGC’) otherwise determines.
-2. Regulation 7.5.60 of the Corporations Regulations 2001 provides that a person who suffers pecuniary loss in respect of a contravention, by a dealer, of the ASTC certificate cancellation provisions may make a claim in respect of the loss. ASTC certificate cancellation provisions are provisions of the ASTC operating rules that deal with brokers cancelling certificates or other documents of title to Part 4 financial products or with matters incidental to that function.
+2. Regulation 7.5.60 of the Corporations Regulations 2001 provides that a person who suffers pecuniary loss in respect of a contravention, by a dealer, of the ASTC certificate cancellation provisions may make a claim in respect of the loss. ASTC certificate cancellation provisions are provisions of the ASTC operating rules that deal with brokers cancelling certificates or other documents of title to Part 4 financial products or with matters incidental to that function.)
 A person may not make a claim under regulation 7.5.60 of the Corporations Regulations 2001 if:
 (a) the loss is in respect of an unauthorised execution (within the meaning of regulation 7.5.53 of those Regulations) in respect of which the person has made, or is entitled to make a claim under Subdivision 4.7 of Part 7.5 of those Regulations; or
 (b) the person was involved in the contravention of the ASTC certificate cancellation provisions.
@@ -853,7 +851,6 @@ from:
 to:
 Dated (insert date)
 (signature of the *registered liquidator/*liquidator of specified body corporate)
-* Omit if not applicable
 Form 910 Penalty notice
 (section 1313)
 Corporations Act 2001

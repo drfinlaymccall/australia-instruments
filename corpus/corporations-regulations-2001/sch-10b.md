@@ -1,4 +1,4 @@
-# Schedule 10B Information in Product Disclosure Statement for certain funds [see Note 2]
+# Schedule 10B Information in Product Disclosure Statement for certain funds
 
 (regulation 7.9.11)
 1 On front or cover page, or first page, of document
