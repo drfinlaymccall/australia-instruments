@@ -1,8 +1,7 @@
-## Chapter 2C Registers
+## Chapter 2C—Registers
+## Part 2C.1—Registers generally
+## Division 2C.1.1—Location of register
 
-# 2C.1.01  Prescribed financial market (Act s 170 (3))
+# 2C.1.01  Form of notice
 
-For subsection 170 (3) of the Act, prescribed financial market means any of the following:
-(a) Australian Stock Exchange Limited;
-(b) Bendigo Stock Exchange Ltd;
-(c) Stock Exchange of Newcastle Limited.
+A notice to be lodged under subsection 172(2) of the Act must be in a form approved by ASIC (if a form has been approved).

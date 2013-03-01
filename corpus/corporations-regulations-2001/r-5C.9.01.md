@@ -1,4 +1,4 @@
-## Part 5C.9 Winding up
+## Part 5C.9—Winding up
 
 # 5C.9.01  Notice of commencement of winding up
 

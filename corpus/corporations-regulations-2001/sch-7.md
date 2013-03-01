@@ -1,11 +1,11 @@
-# Schedule 7 Exemptions from requirements to set out certain corporate particulars
+# Schedule 7—Exemptions from requirements to set out certain corporate particulars
 
 (regulations 2B.6.03 and 5B.3.03)
 7001 Definitions for Schedule 7
 In this Schedule:
 IATA means the International Air Transport Association.
 IATA body means a company, registered Australian body or registered foreign company that is a member of IATA, or participates in the program conducted by IATA known as BSP Australia.
-relevant information means the information that is required under subsection 153 (2), or paragraph 601DE (1) (b), (c) or (d), of the Act to be set out on a public document or negotiable instrument.
+relevant information means the information that is required under subsection 153(2), or paragraph 601DE(1)(b), (c) or (d), of the Act to be set out on a public document or negotiable instrument.
 7002 Exemption for certain IATA documents
 An IATA Body is exempt from the requirement to set out the relevant information on a document if:
 (a) it is a document of one of the following kinds:
@@ -39,3 +39,16 @@ The following companies, registered Australian bodies and registered foreign com
 (o) Tasman Express Line Limited;
 (p) Wilhelmsen Lines Australia Pty Ltd;
 (q) Wills Shipping Pty Limited.
+7004 Exemptions—quotation of ACNs and ARBNs
+(1) A company is exempt from the requirement to set out the relevant information on a public document, or a negotiable instrument, of the company if:
+(a) the company is registered on the Australian Business Register; and
+(b) the last 9 digits of its ABN are the same, and in the same order, as the last 9 digits of its ACN; and
+(c) ‘Australian Business Number’ or ‘ABN’ is displayed with the name of the company, or with 1 of the references to that name:
+(i) in the case of a document or instrument in which the name appears on only 1 page—on that page; and
+(ii) in the case of a document or instrument in which the name appears on 2 or more pages—on the first of those pages.
+(2) A registered Australian body or registered foreign body is exempt from the requirement to set out information mentioned in paragraph 601DE(1)(b) and subsection 601DE(2) of the Act on a public document, or a negotiable instrument, of the registered body or foreign company if:
+(a) the body or company is also registered on the Australian Business Register; and
+(b) the last 9 digits of its ABN are the same, and in the same order, as the last 9 digits of its ARBN; and
+(c) ‘Australian Business Number’ or ‘ABN’ is displayed with the name of the body or company, or with 1 of the references to that name:
+(i) in the case of a document or instrument in which the name appears on only 1 page—on that page; and
+(ii) in the case of a document or instrument in which the name appears on 2 or more pages—on the first of those pages.

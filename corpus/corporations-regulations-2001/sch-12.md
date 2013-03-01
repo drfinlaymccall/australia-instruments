@@ -1,4 +1,4 @@
-# Schedule 12 ASIC transitional standards
+# Schedule 12—ASIC transitional standards
 
 (regulation 12.7.01)
 1. The following provisions of Book 3 of the Prudential Notes and Prudential Standards issued by AFIC under Part 4 of the AFIC Code of a State or Territory, as in force immediately before the transfer date:

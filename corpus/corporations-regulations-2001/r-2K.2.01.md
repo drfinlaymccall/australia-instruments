@@ -1,11 +1,12 @@
-## Chapter 2K Charges
-## Part 2K.2 Registration
+## Chapter 2K—Charges
+## Part 2K.2—Registration
 
-# 2K.2.01  Lien or charge on crop, wool or stock mortgage that is a registrable security: prescribed law
+# 2K.2.01  Lien or charge on crop or wool, or stock mortgage, that is a registrable security: prescribed law—subsection 262(5) of the Act
 
-For subsection 262 (5) of the Act, each of the following laws is a prescribed law of a State or Territory:
+For subsection 262(5) of the Act, each of the following laws is a prescribed law of a State or Territory:
 NEW SOUTH WALES
 Parts II and III of the Liens on Crops and Wool and Stock Mortgages Act 1898
+Parts 2 and 3 (to the extent that Part 3 applies to agricultural goods mortgages) of the Security Interests in Goods Act 2005
 VICTORIA
 Parts VII and VIII of the Instruments Act 1958
 QUEENSLAND

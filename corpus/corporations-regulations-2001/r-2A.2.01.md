@@ -1,4 +1,4 @@
-## Part 2A.2 Change of place of registration of company (Act s 119A (3))
+## Part 2A.2—Change of place of registration of company (Act s 119A(3))
 
 # 2A.2.01  Approval of application for change of place of registration
 

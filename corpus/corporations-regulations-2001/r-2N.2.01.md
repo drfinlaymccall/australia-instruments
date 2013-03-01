@@ -1,5 +1,5 @@
-## Chapter 2N Updating ASIC information about companies and registered schemes
-## Part 2N.2 Extract of particulars
+## Chapter 2N—Updating ASIC information about companies and registered schemes
+## Part 2N.2—Extract of particulars
 
 # 2N.2.01  Particulars ASIC may require in an extract of particulars (Act s 346B)
 
@@ -10,7 +10,7 @@
 (d) address of principal place of business in this jurisdiction;
 (e) for each director and company secretary:
 (i) the person’s name; and
-(ii) the person’s usual residential address, or, if the person is entitled to have an alternative address under subsection 205D (2) of the Act, that alternative address; and
+(ii) the person’s usual residential address, or, if the person is entitled to have an alternative address under subsection 205D(2) of the Act, that alternative address; and
 (iii) the person’s date and place of birth;
 (f) the date of appointment or cessation of each director, secretary or alternate director;
 (g) for issued shares:
@@ -19,13 +19,13 @@
 (A) the number of shares in the class; and
 (B) the total amount paid up for the class; and
 (C) the total amount unpaid for the class;
-(h) the names and addresses of:
-(i) if the company has 20 or fewer members — all members; or
-(ii) if the company has more than 20 members — the top 20 members in each class;
-(i) if the company has a share capital:
+(h) for a proprietary company—the names and addresses of:
+(i) if the company has 20 or fewer members—all members; or
+(ii) if the company has more than 20 members—the top 20 members in each class;
+(i) for a proprietary company that has a share capital:
 (i) the total number of shares in each class held by each of the members mentioned in paragraph (h); and
 (ii) whether or not the shares are fully paid; and
-(iii) unless the company is a listed corporation — whether or not the shares are beneficially owned;
+(iii) whether or not the shares are beneficially owned;
 (j) for the ultimate holding company:
 (i) its name; and
 (ii) either:
@@ -47,11 +47,5 @@
 (ii) a description of the nature of the interests (for example, interest in a limited partnership, right to participate in a timesharing scheme); and
 (iii) the number of the interests; and
 (iv) the total amount paid for the interests; and
-(v) the total amount unpaid for the interests;
-(f) the names and addresses of:
-(i) if the scheme has 20 or fewer interest holders — all interest holders; or
-(ii) if the scheme has more than 20 interest holders — the top 20 interest holders in each class;
-(g) for each interest holder mentioned in paragraph (f):
-(i) the total number of interests in each class held; and
-(ii) whether or not the interests are fully paid.
-Note Under section 346B of the Act, ASIC may require a company or responsible entity to provide a prescribed particular in response to an extract of particulars given by ASIC under section 346A.
+(v) the total amount unpaid for the interests.
+Note: Under section 346B of the Act, ASIC may require a company or responsible entity to provide a prescribed particular in response to an extract of particulars given by ASIC under section 346A.

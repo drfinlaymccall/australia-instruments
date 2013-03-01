@@ -1,4 +1,4 @@
-## Part 2M.6 Modification of the operation of Chapter 2M of the Act
+## Part 2M.6—Modification of the operation of Chapter 2M of the Act
 
 # 2M.6.01  Modifications (Act s 343)
 

@@ -1,8 +1,8 @@
-## Chapter 6CA Continuous disclosure
+## Chapter 6CA—Continuous disclosure
 
 # 6CA.1.01  Continuous disclosure: other disclosing entities
 
-For paragraph 675 (2) (d) of the Act, the disclosure of information under section 675 of the Act is not required if:
+For paragraph 675(2)(d) of the Act, the disclosure of information under section 675 of the Act is not required if:
 (a) a reasonable person would not expect the information to be disclosed; and
 (b) the information is confidential; and
 (c) at least 1 of the following applies:

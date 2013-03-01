@@ -1,4 +1,4 @@
-# Schedule 3 Specified offices
+# Schedule 3—Specified offices
 
 (regulation 6.2.02)
 Column 1 | Column 2 | Column 3 | Column 4
@@ -8,7 +8,6 @@ Item | Office | Law | Jurisdiction
 3 | Chairperson of the Australian Securities and Investments Commission | Australian Securities and Investments Commission Act 2001 | Commonwealth
 4 | Deputy Chairperson of the Australian Securities and Investments Commission | Australian Securities and Investments Commission Act 2001 | Commonwealth
 5 | Member of the Australian Securities and Investments Commission | Australian Securities and Investments Commission Act 2001 | Commonwealth
-6 | President of the Takeovers Panel | Australian Securities and Investments Commission Act 2001 | Commonwealth
 7 | Member of the Takeovers Panel | Australian Securities and Investments Commission Act 2001 | Commonwealth
 8 | Treasurer |  | Western Australia
 9 | Commissioner for Corporate Affairs |  | Western Australia

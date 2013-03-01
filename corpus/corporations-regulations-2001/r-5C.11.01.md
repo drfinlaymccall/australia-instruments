@@ -1,5 +1,5 @@
-## Part 5C.11 Exemptions and modifications
-## Division 1 Exemptions
+## Part 5C.11—Exemptions and modifications
+## Division 1—Exemptions
 
 # 5C.11.01  Certain funds not managed investment funds
 

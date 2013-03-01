@@ -1,13 +1,13 @@
-# Schedule 8B Option contract — prescribed indexes
+# Schedule 8B—Option contract—prescribed indexes
 
 (regulation 7.1.03)
 1 All Ordinaries Accumulation Index
 2 CAC 40 Index
 3 Deutscher Aktienindex (DAX)
-4 Dow Jones Asia-Pacific Extra Liquid Series — Australia Equity Index
-5 Dow Jones Asia-Pacific Extra Liquid Series — Hong Kong Equity Index
-6 Dow Jones Asia-Pacific Extra Liquid Series — Japan Equity Index
-7 Dow Jones Asia-Pacific Extra Liquid Series — Pan Pacific Equity Index
+4 Dow Jones Asia-Pacific Extra Liquid Series—Australia Equity Index
+5 Dow Jones Asia-Pacific Extra Liquid Series—Hong Kong Equity Index
+6 Dow Jones Asia-Pacific Extra Liquid Series—Japan Equity Index
+7 Dow Jones Asia-Pacific Extra Liquid Series—Pan Pacific Equity Index
 8 Dow Jones Composite
 9 Dow Jones Euro STOXX 50 Index
 10 Dow Jones Global Titans 50 Index
