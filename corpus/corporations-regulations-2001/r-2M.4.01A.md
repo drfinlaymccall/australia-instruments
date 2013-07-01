@@ -1,7 +1,10 @@
 ## Part 2M.4—Auditor
 
-# 2M.4.01A  Specified practising certificates (Act s 324BE)
+# 2M.4.01A  Membership designations (Act s 324BE)
 
-For paragraph 324BE(1)(b) of the Act, the following kinds of practising certificates are specified:
-(a) the Certificate of Public Practice issued by The Institute of Chartered Accountants in Australia;
-(b) the Public Practice Certificate issued by CPA Australia Ltd or the National Institute of Accountants.
+For paragraph 324BE(1)(b) of the Act, a designation mentioned in an item of the table is prescribed for membership of the professional accounting body mentioned in the item.
+Membership designations
+Item | Professional accounting body | Designation
+1 | Institute of Chartered Accountants in Australia | CA; or FCA
+2 | CPA Australia | CPA; or FCPA
+3 | Institute of Public Accountants | FIPA; or MIPA
