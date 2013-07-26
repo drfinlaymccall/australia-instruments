@@ -61,6 +61,7 @@ Example: A non-recourse loan is a loan that is a transaction in relation to an o
 (a) the transaction occurs within a normal employee, customer or supplier relationship on terms and conditions no more favourable than those that it is reasonable to expect the entity would have adopted if dealing at arms-length with an unrelated person; or
 (b) information about the transaction does not have the potential to affect adversely decisions about the allocation of scarce resources made by users of the financial statements, or the discharge of accountability by the key management person; or
 (c) the transaction is trivial or domestic in nature.
+(3C) Items 17 to 24 of the table in subregulation (1) apply in relation to a directors’ report for a financial year commencing on or after 1 July 2013.
 (4) For subregulation (1), a company must apply the requirements of relevant accounting standards when disclosing the information mentioned in the subregulation.
 (5) In subregulation (1), an expression that is:
 (a) used in the subregulation; and

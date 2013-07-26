@@ -3,8 +3,8 @@
 Statutory Rules No. 193, 2001 as amended
 made under the
 Corporations Act 2001
-Compilation start date: 12 July 2013
-Includes amendments up to: SLI No. 155, 2013
+Compilation start date: 26 July 2013
+Includes amendments up to: SLI No. 192, 2013
 This compilation has been split into 7 volumes
 Volume 1: regulations 1.0.01–6D.5.02
 Volume 2: regulations 7.1.02–7.6.08E
@@ -15,16 +15,16 @@ Volume 6: Schedules 3–12
 Volume 7: Endnotes
 Each volume has its own contents
 About this compilation
-The compiled instrument
-This is a compilation of the Corporations Regulations 2001 as amended and in force on 12 July 2013. It includes any amendment affecting the compiled instrument to that date.
-This compilation was prepared on 19 July 2013.
-The notes at the end of this compilation (the endnotes) include information about amending Acts and instruments and the amendment history of each amended provision.
-Uncommenced provisions and amendments
-If a provision of the compiled instrument is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-Application, saving and transitional provisions for amendments
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is identified in the endnotes.
+This compilation
+This is a compilation of the Corporations Regulations 2001 as in force on 26 July 2013. It includes any commenced amendment affecting the legislation to that date.
+This compilation was prepared on 26 July 2013.
+The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of each amended provision.
+Uncommenced amendments
+The effect of uncommenced amendments is not reflected in the text of the compiled law but the text of the amendments is included in the endnotes.
+Application, saving and transitional provisions for provisions and amendments
+If the operation of a provision or amendment is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
 Modifications
-If a provision of the compiled instrument is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes.
+If a provision of the compiled law is affected by a modification that is in force, details are included in the endnotes.
 Provisions ceasing to have effect
-If a provision of the compiled instrument has expired or otherwise ceased to have effect in accordance with a provision of the instrument, details of the provision are set out in the endnotes.
+If a provision of the compiled law has expired or otherwise ceased to have effect in accordance with a provision of the law, details are included in the endnotes.
 Note about these Regulations
