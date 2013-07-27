@@ -3,7 +3,7 @@
 Statutory Rules No. 193, 2001 as amended
 made under the
 Corporations Act 2001
-Compilation start date: 26 July 2013
+Compilation start date: 27 July 2013
 Includes amendments up to: SLI No. 192, 2013
 This compilation has been split into 7 volumes
 Volume 1: regulations 1.0.01–6D.5.02
@@ -16,8 +16,8 @@ Volume 7: Endnotes
 Each volume has its own contents
 About this compilation
 This compilation
-This is a compilation of the Corporations Regulations 2001 as in force on 26 July 2013. It includes any commenced amendment affecting the legislation to that date.
-This compilation was prepared on 26 July 2013.
+This is a compilation of the Corporations Regulations 2001 as in force on 27 July 2013. It includes any commenced amendment affecting the legislation to that date.
+This compilation was prepared on 6 August 2013.
 The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of each amended provision.
 Uncommenced amendments
 The effect of uncommenced amendments is not reflected in the text of the compiled law but the text of the amendments is included in the endnotes.

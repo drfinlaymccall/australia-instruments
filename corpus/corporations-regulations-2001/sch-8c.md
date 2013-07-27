@@ -26,9 +26,9 @@ substitute
 5 Section 885D, heading
 substitute
 885D Certain losses that are or are not Division 3 losses
-6 Subsection 885D(2)
-substitute
-(2) If, in relation to a loss suffered by a person:
+6 After subsection 885D(2)
+Insert:
+(2A) Despite subsection (2), if, in relation to a loss suffered by a person:
 (a) the requirements of subsection 885C(1) are satisfied in relation to a participant and a financial market, except that it is not reasonably apparent whether the compensation regime constituted by Division 3 or by Division 4 covered the transaction, or proposed transaction; and
 (b) the relevant financial market has both Division 3 and Division 4 arrangements; and
 (c) either:
@@ -36,6 +36,14 @@ substitute
 (ii) if the participant had authority to enter into transactions on the person’s behalf without specific authority, there is no evidence that the participant decided to use the money or other property to enter into a transaction that would be covered by the compensation regime constituted by Division 3 or by Division 4; and
 (d) the participant was permitted to trade in products that would be covered by the compensation regimes constituted by Division 3 and by Division 4; and
 (e) it is not reasonably apparent from the usual business practice of the participant which of those transactions the participant proposed to undertake;
+the loss is taken to be a Division 3 loss and not to be a loss that is connected with a financial market to which Division 4 applies.
+(2B) Despite subsection (2), if:
+(a) the requirements of subsection 885C(1) are satisfied in relation to a participant and a financial market; and
+(b) the loss is also connected (see section 888A) with a financial market to which Division 4 applies; and
+(c) the person did not (expressly or impliedly) instruct the participant to use a particular one of those markets; and
+(d) it is not reasonably apparent from the usual business practice of the participant which of those markets the participant would use when acting for the person; and
+(e) the loss is connected with a transaction effected through a financial market to which Division 3 applies; and
+(f) a claim cannot be made, or has been disallowed, under Division 4 (see subsection 888A(1));
 the loss is taken to be a Division 3 loss and not to be a loss that is connected with a financial market to which Division 4 applies.
 7 Subsection 885J(1)
 omit
