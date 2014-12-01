@@ -1,11 +1,13 @@
 # Corporations Regulations 2001
 
-Statutory Rules No. 193, 2001 as amended
+Statutory Rules No. 193, 2001
 made under the
 Corporations Act 2001
-Compilation start date: 19 November 2014
-Includes amendments up to: SLI No. 102, 2014 (disallowed)
-This compilation has been split into 7 volumes
+Compilation No. 107
+Compilation date: 1 December 2014
+Includes amendments up to: SLI No. 185, 2014
+Registered: 15 December 2014
+This compilation is in 7 volumes
 Volume 1: regulations 1.0.01–6D.5.02
 Volume 2: regulations 7.1.02–7.6.08E
 Volume 3: regulations 7.7.01–8.4.02
@@ -16,15 +18,15 @@ Volume 7: Endnotes
 Each volume has its own contents
 About this compilation
 This compilation
-This is a compilation of the Corporations Regulations 2001 as in force on 19 November 2014. It includes any commenced amendment affecting the legislation to that date.
-This compilation was prepared on 20 November 2014.
-The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of each amended provision.
+This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 1 December 2014 (the compilation date).
+This compilation was prepared on 12 December 2014.
+The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
 Uncommenced amendments
-The effect of uncommenced amendments is not reflected in the text of the compiled law but the text of the amendments is included in the endnotes.
+The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on ComLaw (www.comlaw.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the series page on ComLaw for the compiled law.
 Application, saving and transitional provisions for provisions and amendments
-If the operation of a provision or amendment is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
 Modifications
-If a provision of the compiled law is affected by a modification that is in force, details are included in the endnotes.
-Provisions ceasing to have effect
-If a provision of the compiled law has expired or otherwise ceased to have effect in accordance with a provision of the law, details are included in the endnotes.
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the series page on ComLaw for the compiled law.
+Self-repealing provisions
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
 Note about these Regulations
