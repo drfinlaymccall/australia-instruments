@@ -19,6 +19,6 @@ Liens on Fruit Act, 1923
 Stock Mortgages and Wool Liens Act, 1924
 TASMANIA
 Sections 36 of the Bills of Sale Act 1900
-Stock,Wool and Crop Mortgages Act 1930
+Stock, Wool and Crop Mortgages Act 1930
 AUSTRALIAN CAPITAL TERRITORY
 Parts IV and V of the Instruments Act 1933.

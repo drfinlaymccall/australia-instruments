@@ -3,7 +3,7 @@
 5A.1 Section 1011B, after definition of regulated person
 insert
 Regulations means the Corporations Regulations 2001.
-5A.2 Subsection 1013C (1)
+5A.2 Subsection 1013C(1)
 substitute
 (1) A Product Disclosure Statement for a margin loan to which Subdivision 4.2A of Division 4 of Part 7.9 of the Corporations Regulations 2001 applies must:
 (a) include the statements and information required by regulations made for this paragraph; and
@@ -33,5 +33,5 @@ A Product Disclosure Statement may consist of 2 or more documents, only if:
 (b) the other document or documents contain a matter in writing that is applied, adopted or incorporated by the document mentioned in paragraph (a).
 5A.6 Subdivision D, Division 2
 omit
-5A.7 Subsection 1015D (3)
+5A.7 Subsection 1015D(3)
 omit

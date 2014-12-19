@@ -3,10 +3,10 @@
 Statutory Rules No. 193, 2001
 made under the
 Corporations Act 2001
-Compilation No. 109
-Compilation date: 16 December 2014
-Includes amendments up to: SLI No. 208, 2014
-Registered: 9 January 2015
+Compilation No. 110
+Compilation date: 19 December 2014
+Includes amendments up to: SLI No. 209, 2014
+Registered: 6 February 2015
 This compilation is in 7 volumes
 Volume 1: regulations 1.0.01–6D.5.02
 Volume 2: regulations 7.1.02–7.6.08E
@@ -18,8 +18,8 @@ Volume 7: Endnotes
 Each volume has its own contents
 About this compilation
 This compilation
-This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 16 December 2014 (the compilation date).
-This compilation was prepared on 24 December 2014.
+This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 19 December 2014 (the compilation date).
+This compilation was prepared on 30 January 2015.
 The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
 Uncommenced amendments
 The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on ComLaw (www.comlaw.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the series page on ComLaw for the compiled law.
@@ -30,3 +30,4 @@ If the compiled law is modified by another law, the compiled law operates as mod
 Self-repealing provisions
 If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
 Note about these Regulations
+These Regulations are made under the Corporations Act 2001. To assist users of these Regulations, these Regulations follow, as far as possible, the drafting style, structure and numbering of the Corporations Regulations 1990 that were made under the Corporations Act 1989. Because some provisions of the Corporations Regulations 1990 are not remade in these Regulations, some gaps appear in the numbering of these Regulations. Also, the drafting style departs in minor ways from that used in the Corporations Regulations 1990.

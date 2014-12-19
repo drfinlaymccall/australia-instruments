@@ -6,8 +6,7 @@ General
 1 |  | The person’s name
 2 |  | Each position held by the person in the financial year
 3 | If the person has held a position mentioned in item 2 for less than the whole financial year | (a) The date on which the person began holding the position (b) The date (if any) on which the person ceased to hold the position
-4 | If there has been a change in the chief executive officer or a director of the entity during the period: (a) starting immediately after the reporting date; and | (a) The name of each person involved in the change (b) The position involved (c) The date on which the change occurred
- | (b) ending immediately before the date on which the financial report is authorised for issue | 
+4 | If there has been a change in the chief executive officer or a director of the entity during the period: (a) starting immediately after the reporting date; and (b) ending immediately before the date on which the financial report is authorised for issue | (a) The name of each person involved in the change (b) The position involved (c) The date on which the change occurred
 5 | If a person (other than a director or chief executive officer) has retired during the period: (a) starting immediately after the reporting date; and (b) ending immediately before the date on which the financial report is authorised for issue | (a) The person’s name (b) The position involved (c) The date on which the retirement took effect
 Payments and benefits
 6 | Note: See subregulation (2). | The person’s short-term employee benefits, divided into at least the following components: (a) cash salary, fees and short-term compensated absences; (b) short-term cash profit-sharing and other bonuses; (c) non-monetary benefits; (d) other short-term employee benefits

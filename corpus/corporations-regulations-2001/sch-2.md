@@ -1,8 +1,10 @@
 # Schedule 2—Forms
 
 (regulations 1.0.02 and 1.0.03)
-Form 314
-(paragraph 324 (2) (e))
+
+# Form 314
+
+(paragraph 324(2)(e))
 Corporations Act 2001
 RETURN OF MEMBERS OF FIRM OF AUDITORS
 Name of firm:
@@ -17,8 +19,10 @@ DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
 NOTE
 The completion of this form does not relieve members of the firm from any obligation under the law relating to business names.
-Form 501
-(subsection 414 (2))
+
+# Form 501
+
+(subsection 414(2))
 Australian Company Number:
 Corporations Act 2001
 NOTICE TO DISSENTING SHAREHOLDER
@@ -31,10 +35,10 @@ an offer to the holders of *shares in Limited/
 in Limited for the transfer of those shares to the transferee, not being an offer made under a scheme or contract arising out of the making of takeover offers or a takeover announcement under the law relating to the acquisition of shares; and
 B. the scheme or contract involving the transfer of those shares to the transferee was on or before (insert date) approved by the holders of not less than nine-tenths in nominal value of the shares *in that company/*included in that class of shares, other than shares already held at the date of the offer by, or by a nominee for, the transferee (or, if the transferee is a company, its subsidiary); and
 C. you are a dissenting shareholder of shares *in the company/ *included in that class of shares.
-2. The transferee gives you notice under subsection 414 (2) that the transferee desires to acquire those shares held by you.
-3. You are entitled under subsection 414 (7) to require the transferee, by a demand in writing served on the transferee within one month after the date on which this notice is given, to furnish to you a statement in writing of the names and addresses of all other dissenting shareholders shown in the register of members.
-*4. You are entitled not later than the expiration of one month after the date on which this notice is given or 14 days after the date on which a statement is supplied to you under subsection 414 (7), whichever is the later, to elect, by notice to the transferee, which of the alternative terms offered to the approving shareholders under the scheme or contract you prefer. The alternative terms are as follows:
-5. Unless, on application made by you within one month after the date on which this notice is given or within 14 days after a statement is supplied to you under subsection 414 (7), the Federal Court of Australia or the Supreme Court of (State or Territory) orders otherwise, the transferee will be entitled and bound subject to subsection 414 (7) to acquire your shares:
+2. The transferee gives you notice under subsection 414(2) that the transferee desires to acquire those shares held by you.
+3. You are entitled under subsection 414(7) to require the transferee, by a demand in writing served on the transferee within one month after the date on which this notice is given, to furnish to you a statement in writing of the names and addresses of all other dissenting shareholders shown in the register of members.
+*4. You are entitled not later than the expiration of one month after the date on which this notice is given or 14 days after the date on which a statement is supplied to you under subsection 414(7), whichever is the later, to elect, by notice to the transferee, which of the alternative terms offered to the approving shareholders under the scheme or contract you prefer. The alternative terms are as follows:
+5. Unless, on application made by you within one month after the date on which this notice is given or within 14 days after a statement is supplied to you under subsection 414(7), the Federal Court of Australia or the Supreme Court of (State or Territory) orders otherwise, the transferee will be entitled and bound subject to subsection 414(7) to acquire your shares:
 (a) on the terms on which under the scheme or contract the shares of the approving shareholders are to be transferred to the transferee; or
 (b) if alternative terms were offered — on the terms for which you have elected; or
 (c) if you have not so elected — on whichever of those terms the transferee determines unless the Court otherwise orders.
@@ -43,8 +47,10 @@ Dated
 *Omit if not applicable
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
-Form 502
-(subsection 414 (9) (a))
+
+# Form 502
+
+(subsection 414(9)(a))
 Australian Company Number:
 Corporations Act 2001
 NOTICE TO REMAINING SHAREHOLDER
@@ -53,10 +59,10 @@ of
 A. (insert name of person giving notice, in this form called “the transferee”) The transferee in (insert date) made offers to the holders of shares *in Limited/*included in class of shares in Limited for the transfer of those shares to the transferee, not being offers made under a scheme or contract arising out of the making of takeover offers or a takeover announcement under the law relating to the acquisition of shares; and
 B. under the scheme or contract the transferee became an (insert date) beneficially entitled to shares in that company which together with any other shares in that company to which the transferee, or the transferee and any corporation related to the transferee, is beneficially entitled, comprise or include nine-tenths in nominal value of the shares *in Limited/*included in that class of shares
 in Limited; and
-C. you are the holder of remaining shares *in that company/*included in that class of shares in that company and have not assented to the scheme or contract or been given notice in respect of those shares by the transferee under subsection 414 (2).
-2. The transferee gives you notice under subsection 414 (9) that under that scheme or contract the transferee on (insert date) become beneficially entitled to shares in Limited and those shares together with any other shares in that company to which the transferee, or the transferee and any corporation related to the transferee, is beneficially entitled, comprise or included nine-tenths in nominal value of the shares (in that company/*included in that class of shares in that company.
-3. You are entitled under subsection 414 (9) within 3 months after the date on which this notice is given by notice to the transferee to require the transferee to acquire your shares.
-*3. You are entitled under subsection 414 (9) within 3 months after the date on which this notice is given to elect by notice to the transferee which of the alternative terms offered to the approving shareholders under the scheme or contract you will accept. The alternative terms are as follows:
+C. you are the holder of remaining shares *in that company/*included in that class of shares in that company and have not assented to the scheme or contract or been given notice in respect of those shares by the transferee under subsection 414(2).
+2. The transferee gives you notice under subsection 414(9) that under that scheme or contract the transferee on (insert date) become beneficially entitled to shares in Limited and those shares together with any other shares in that company to which the transferee, or the transferee and any corporation related to the transferee, is beneficially entitled, comprise or included nine-tenths in nominal value of the shares (in that company/*included in that class of shares in that company.
+3. You are entitled under subsection 414(9) within 3 months after the date on which this notice is given by notice to the transferee to require the transferee to acquire your shares.
+*3. You are entitled under subsection 414(9) within 3 months after the date on which this notice is given to elect by notice to the transferee which of the alternative terms offered to the approving shareholders under the scheme or contract you will accept. The alternative terms are as follows:
 4. If you require the transferee to acquire the shares held by you the transferee will be entitled and bound to acquire those shares:
 (a) on the terms that under the scheme or contract were offered to the approving shareholders; or
 (b) if alternative terms were offered—on the terms for which you have elected;
@@ -68,7 +74,9 @@ Dated
 *Omit if not applicable
 DIRECTION
 Requirements relating to annexures are set out in regulation 1.0.06.
-Form 503
+
+# Form 503
+
 (subsection 419A(3))
 Corporations Act 2001
 NOTICE OF CONTROLLER’S INTENTION NOT TO EXERCISE PROPERTY RIGHTS
@@ -79,25 +87,29 @@ Dated
 (Controller’s signature)
 *Delete if not applicable
 NOTES:
-1. Under subsection 419A (4) the controller is not liable for rent or other amounts by the corporation in relation to the specified property while this notice in force, but the notice does not affect a liability of the corporation.
-2 Under subsection 419A (5), this notice ceases to have effect if the controller:
+1. Under subsection 419A(4) the controller is not liable for rent or other amounts by the corporation in relation to the specified property while this notice in force, but the notice does not affect a liability of the corporation.
+2 Under subsection 419A(5), this notice ceases to have effect if the controller:
 (a) revokes the notice, by writing to the owner/lessor; or
 (b) exercises or purports to exercise a right in relation to the specified property the controller.
-Form 509A
-(subsection 438C (3))
+
+# Form 509A
+
+(subsection 438C(3))
 A.C.N. or A.R.B.N.
 Corporations Act 2001
 NOTICE TO DELIVER BOOKS OF COMPANY TO THE ADMINISTRATOR
 Limited (administrator appointed)
 To: (name) of (address)
-1. I (name), of (address), the administrator of the company, give you notice under subsection 438C (3) that I require you to deliver to me, at the above address, within (insert number being not less than 3) business days of the date of this notice, the books specified in the Schedule, being books of the company, that are in your possession.
-2. Note that under subsection 438C (5), you must comply with this notice except so far as you are entitled as against the company and the administrator, to retain possession of the books.
+1. I (name), of (address), the administrator of the company, give you notice under subsection 438C(3) that I require you to deliver to me, at the above address, within (insert number being not less than 3) business days of the date of this notice, the books specified in the Schedule, being books of the company, that are in your possession.
+2. Note that under subsection 438C(5), you must comply with this notice except so far as you are entitled as against the company and the administrator, to retain possession of the books.
 SCHEDULE
 (insert specified books)
 Dated
 (administrator’s signature)
-Form 509B
-(subsection 443B (3))
+
+# Form 509B
+
+(subsection 443B(3))
 Corporations Act 2001
 NOTICE OF ADMINISTRATOR’S INTENTION NOT TO EXERCISE PROPERTY RIGHTS
 Limited (administrator appointed)
@@ -108,24 +120,28 @@ Dated
 (administrator’s signature)
 *Delete if not applicable
 NOTES
-1. Under subsection 443B (4), the administrator is not liable for rent or other amounts payable by the company in relation to the specified property while this notice is in force, but the notice does not affect a liability of the company.
-2. Under subsection 443B (5), this notice ceases to have effect if:
+1. Under subsection 443B(4), the administrator is not liable for rent or other amounts payable by the company in relation to the specified property while this notice is in force, but the notice does not affect a liability of the company.
+2. Under subsection 443B(5), this notice ceases to have effect if:
 (a) the administrator revokes the notice, by writing to the owner/ lessor; or
 (b) the company exercises or purports to exercise a right in relation to the specified property.
-Form 509C
-(paragraph 445F (2) (a))
+
+# Form 509C
+
+(paragraph 445F(2)(a))
 A.C.N. or A.R.B.N.
 Corporations Act 2001
 NOTICE OF MEETING OF CREDITORS TO VARY OR TERMINATE DEED OF COMPANY ARRANGEMENT
 Limited (subject to deed of company arrangement)
 1. Notice is given that a meeting of the creditors of the company will be held at (insert address and place of meeting) on (insert date) at (insert time) *a.m./*p.m.
 2. The purpose of the meeting is to consider and vote on the following resolutions:
-(Set out each resolution under section 445A or paragraph 445C (b) that the administrator of the deed of company arrangement proposes to be voted on at the meeting or, as the case may be, that creditors, in a request made under paragraph 445F (1) (b), have proposed to be voted on at the meeting.)
+(Set out each resolution under section 445A or paragraph 445C(b) that the administrator of the deed of company arrangement proposes to be voted on at the meeting or, as the case may be, that creditors, in a request made under paragraph 445F(1)(b), have proposed to be voted on at the meeting.)
 Dated
 (signature of administrator)
 *Delete if not applicable
-Form 509E
-(paragraph 450B (a))
+
+# Form 509E
+
+(paragraph 450B(a))
 Corporations Act 2001
 NOTICE TO CREDITORS OF EXECUTION OF A DEED OF COMPANY ARRANGEMENT
 Limited (subject to deed of company arrangement)
@@ -136,8 +152,10 @@ Limited (subject to deed of company arrangement)
 Dated
 (Signature of administrator of the deed of company arrangement)
 *Delete if not applicable
-Form 509H
-(paragraph 459E (2) (e))
+
+# Form 509H
+
+(paragraph 459E(2)(e))
 Corporations Act 2001
 CREDITOR’S STATUTORY DEMAND FOR PAYMENT OF DEBT
 To (name and A.C.N. or A.R.B.N. of debtor company) of (address of the company’s registered office)
@@ -149,7 +167,7 @@ To (name and A.C.N. or A.R.B.N. of debtor company) of (address of the company’
 3. The creditor requires the company, within 21 days after service on the company of this demand:
 (a) to pay to the creditor the *amount of the debt/*total of the amounts of the debts; or
 (b) to secure or compound for the *amount of the debt/*total of the amounts of the debts, to the creditor’s reasonable satisfaction.
-4. The creditor may rely on a failure to comply with this demand within the period for compliance set out in subsection 459F (2) as grounds for an application to a court having jurisdiction under the Corporations Act 2001 for the winding up of the company.
+4. The creditor may rely on a failure to comply with this demand within the period for compliance set out in subsection 459F(2) as grounds for an application to a court having jurisdiction under the Corporations Act 2001 for the winding up of the company.
 5. Section 459G of the Corporations Act 2001 provides that a company served with a demand may apply to a court having jurisdiction under the Corporations Act 2001 for an order setting the demand aside. An application must be made within 21 days after the demand is served and, within the same period:
 (a) an affidavit supporting the application must be filed with the court; and
 (b) a copy of the application and a copy of the affidavit must be served on the person who served the demand.
@@ -170,41 +188,49 @@ NOTES:
 (a) verifies that the debt, or the total of the amounts of the debts, is due and payable by the company; and
 (b) complies with the rules.
 4. A person may make a demand relating to a debt that is owed to the person as assignee.
-5. This form was amended in 2006 as part of amendments of the Corporations Regulations 2001. For the period of 12 months after the commencement of those amendments a person may comply with paragraph 459E (2) (e) of the Corporations Act 2001 in relation to a statutory demand for payment of debt by using:
+5. This form was amended in 2006 as part of amendments of the Corporations Regulations 2001. For the period of 12 months after the commencement of those amendments a person may comply with paragraph 459E(2)(e) of the Corporations Act 2001 in relation to a statutory demand for payment of debt by using:
 (a) the version of this form that was in force immediately before the commencement of the amendments; or
 (b) this version of the form.
 *Omit if inapplicable
-Form 521
-(subsection 496 (2), subregulation 5.6.12 (6))
+
+# Form 521
+
+(subsection 496(2), subregulation 5.6.12(6))
 Corporations Act 2001
 NOTICE OF MEETING OF CREDITORS UNDER SECTION 496
 Limited
 I, (insert name) of insert address)
-give notice that, under subsection 496 (1), a meeting of the creditors of the company will be held at (insert place of meeting) on (insert date
+give notice that, under subsection 496(1), a meeting of the creditors of the company will be held at (insert place of meeting) on (insert date
 of meeting) at *a.m./p.m.
 The winding up of the company commenced on and I was appointed liquidator by resolution of the members of the company. As the directors declared that the company would be able to pay its debts in full within a period not exceeding 12 months after the commencement of the winding up, the liquidation is proceeding as a members’ voluntary winding up.
-A list of creditors prepared in accordance with subsection 496 (2) is annexed.
-I have formed the opinion that the company will not be able to pay or provide for the payment of its debts in full within that period and this meeting is summoned in order that the creditors may, if they so wish, exercise their right under subsection 496 (5) to appoint some person other than myself to be the liquidate of the company for the purpose of winding up the affairs and distributing the property of the company.
+A list of creditors prepared in accordance with subsection 496(2) is annexed.
+I have formed the opinion that the company will not be able to pay or provide for the payment of its debts in full within that period and this meeting is summoned in order that the creditors may, if they so wish, exercise their right under subsection 496(5) to appoint some person other than myself to be the liquidate of the company for the purpose of winding up the affairs and distributing the property of the company.
 A statement of the assets and liabilities of the company will be laid before the meeting.
 Dated
 (signature of liquidator)
 *Omit if not applicable
 DIRECTION
-Form 5249
-Form 527
-(paragraph 568 (8) (a))
+Requirements relating to annexures are set out in regulation 1.0.06.
+
+# Form 5249
+
+# Form 527
+
+(paragraph 568(8)(a))
 Australian Company Number:
 Corporations Act 2001
 APPLICATION REQUIRING LIQUIDATOR TO DECIDE WHETHER TO DISCLAIM PROPERTY
 Limited
 To (insert name), the liquidator of the company.
-Under paragraph 568 (8) (a), application is made to you by (full name, address and occupation of applicant) requiring you to decide whether you will disclaim the property described in the Schedule to this notice or not.
+Under paragraph 568(8)(a), application is made to you by (full name, address and occupation of applicant) requiring you to decide whether you will disclaim the property described in the Schedule to this notice or not.
 The applicant has the following interest in the property:
 SCHEDULE
 Dated
 (signature of applicant)
-Form 529A
-(subregulation 5.6.12 (6))
+
+# Form 529A
+
+(subregulation 5.6.12(6))
 Corporations Act 2001
 NOTICE OF FIRST MEETING OF CREDITORS OF COMPANY UNDER ADMINISTRATION
 Limited (administrator appointed)
@@ -227,17 +253,19 @@ Limited (administrator appointed)
 Dated
 (administrator’s signature)
 *Delete if not applicable
-Form 529B
-(subsection 449C (5))
+
+# Form 529B
+
+(subsection 449C(5))
 Corporations Act 2001
 NOTICE OF FIRST MEETING OF CREDITORS TO RATIFY APPOINTMENT OF ADMINISTRATOR
 Limited (administrator appointed)
 1. On (insert date)
-*the company under section 449C (1) and subparagraph 449C (2) (b) (i),
-*the liquidator/provisional liquidator of the company under section 449C (2) (b) (ii),
-*a chargee of property of the company, under subsection 449C (1) and subparagraph 449C (2) (b) (iii),
+*the company under section 449C(1) and subparagraph 449C(2)(b)(i),
+*the liquidator/provisional liquidator of the company under section 449C(2)(b)(ii),
+*a chargee of property of the company, under subsection 449C(1) and subparagraph 449C(2)(b)(iii),
 appointed (insert name) of (insert address) as the administrator of the company in place of the previous administrator of the company.
-2. The new administrator was appointed because the previous administrator (here set out the applicable circumstances under paragraph 449C (1) (a), (b) or (c), as the case may be).
+2. The new administrator was appointed because the previous administrator (here set out the applicable circumstances under paragraph 449C(1)(a), (b) or (c), as the case may be).
 3. Notice is now given that a meeting of the creditors of the company will be held at (insert address and place of meeting) on (insert date) at (insert time) *a.m./*p.m.
 4. The purpose of the meeting is:
 (a) to determine whether to remove the person appointed from office; and
@@ -250,7 +278,9 @@ appointed (insert name) of (insert address) as the administrator of the company 
 Dated
 (signature of convenor of the meeting)
 *Delete if not applicable
-Form 530
+
+# Form 530
+
 (regulation 5.6.13)
 A.C.N. or A.R.B.N.:
 Corporations Law
@@ -265,8 +295,10 @@ I (name) of (address) state:
 Signature
 * Omit if inapplicable.
 Note: Requirements relating to annexures are set out in regulation 1.0.06.
-Form 531A
-(paragraph 5.6.27 (2) (a))
+
+# Form 531A
+
+(paragraph 5.6.27(2)(a))
 Corporations Regulations
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
@@ -283,8 +315,10 @@ No. | Name | Represented by | *Number of shares | *Number of votes
  |  |  |  | 
 (NOTE: If a joint meeting of creditors and members is held, both Form 531A and 531B should be completed)
 *Delete if not applicable
-Form 531B
-(paragraph 5.6.27 (2) (b))
+
+# Form 531B
+
+(paragraph 5.6.27(2)(b))
 Corporations Regulations
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
@@ -302,8 +336,10 @@ No. | Name | Represented by (signature of person attending) | Amount of proof lo
 (NOTE: If a joint meeting of creditors and members is held, both Form 531A and 531B should be completed)
 * Delete if not applicable
 **Do not complete in the case of a meeting convened under Part 5.3A of the Corporations Act 2001
-Form 531C
-(paragraph 5.6.27 (2) (c))
+
+# Form 531C
+
+(paragraph 5.6.27(2)(c))
 Corporations Regulations
 A.C.N. or A.R.B.N.
 Corporations Act 2001
@@ -318,7 +354,9 @@ No. | Name | Represented by (Signature of person attending)
  |  | 
  |  | 
 * Delete if not applicable
-Form 532
+
+# Form 532
+
 (regulation 5.6.29)
 A.C.N. or A.R.B.N.
 Corporations Act 2001
@@ -334,8 +372,10 @@ Signature of witness
 Description
 Place of residence
 * Omit if inapplicable.
-Form 535
-(subregulation 5.6.49 (2)
+
+# Form 535
+
+(subregulation 5.6.49(2)
 A.C.N or A.R.B.N:
 Corporations Act 2001
 FORMAL PROOF OF DEBT OR CLAIM (GENERAL FORM)
@@ -365,8 +405,10 @@ Signature
 Occupation
 Address
 *Do not complete if this proof is made by the creditor personally
-Form 536
-(subregulation 5.6.49 (2))
+
+# Form 536
+
+(subregulation 5.6.49(2))
 A.C.N. or A.R.B.N:
 Corporations Act 2001
 FORMAL PROOF OF DEBT OR CLAIM ON BEHALF OF EMPLOYEES
@@ -389,8 +431,10 @@ Signature |  |  |  |  |
  |  |  |  |  | 
  |  |  |  |  | 
 Note: In case of a claim for annual leave or long service leave, insert a description of the claim.
-Form 537
-(subregulation 5.6.54 (1))
+
+# Form 537
+
+(subregulation 5.6.54(1))
 A.C.N or A.R.B.N:
 Corporations Act 2001
 NOTICE OF REJECTION OF FORMAL PROOF OF DEBT OR CLAIM
@@ -404,7 +448,9 @@ Dated
 Signature of liquidator
 Address
 * Omit if inapplicable
-Form 538
+
+# Form 538
+
 (regulation 5.6.58)
 A.C.N or A.R.B.N:
 Corporations Act 2001
@@ -427,8 +473,10 @@ Serial No. | Name | Address | Description of class of contributory and in what c
  |  |  |  |  |  |  | 
 Dated
 Signature of liquidator
-Form 539
-(subregulation 5.6.59 (1))
+
+# Form 539
+
+(subregulation 5.6.59(1))
 A.C.N or A.R.B.N:
 Corporations Act 2001
 NOTICE TO CONTRIBUTORIES OF APPOINTMENT TO SETTLE LIST OF CONTRIBUTORIES
@@ -447,8 +495,10 @@ NOTES
 1. Contributories do not have to attend the appointment referred to in this notice if they are satisfied that the particulars contained in the notice are correct.
 2. A shareholder’s name cannot be omitted from the list of contributories because he or she is unable to pay calls; this question will be dealt with when application is made for payment of the calls.
 3. A change of address may be notified by giving notice to the liquidator by post before the date fixed for the appointment.
-Form 541
-(subregulation 5.6.60 (2))
+
+# Form 541
+
+(subregulation 5.6.60(2))
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
 CERTIFICATE OF LIQUIDATOR OF FINAL SETTLEMENT OF LIST OF CONTRIBUTORIES
@@ -475,8 +525,10 @@ No. | Name | Address | Description of class of contributory and in what characte
  |  |  |  |  | 
 Dated
 Signature of liquidator
-Form 542
-(subregulation 5.6.61 (1))
+
+# Form 542
+
+(subregulation 5.6.61(1))
 A.C.N or A.R.B.N.:
 Corporations Act 2001
 PROVISIONAL SUPPLEMENTARY LIST OF CONTRIBUTORIES
@@ -486,8 +538,10 @@ The following is a list of persons that I have found, since making out the annex
 Dated
 Signature of liquidator
 *Omit if inapplicable
-Form 543
-(subregulation 5.6.61 (1))
+
+# Form 543
+
+(subregulation 5.6.61(1))
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
 CERTIFICATE OF LIQUIDATOR OF SETTLEMENT OF SUPPLEMENTARY LIST OF CONTRIBUTORIES
@@ -496,8 +550,10 @@ I (name), the liquidator of the company, certify that the result of the settleme
 (set out the Certificate and Schedules as in Form 541)
 Dated
 Signature of liquidator
-Form 544
-(subregulation 5.6.62 (4))
+
+# Form 544
+
+(subregulation 5.6.62(4))
 A.C.N. or A.R.B.N.:
 Corporations Act 2001
 NOTICE TO CONTRIBUTORY OF FINAL SETTLEMENT OF LIST OR SUPPLEMENTARY LIST OF CONTRIBUTORIES AND OF INCLUSION IN LIST
@@ -516,8 +572,10 @@ No. | Name | Address | Description of class of contributory and in what characte
 Dated
 Signature of liquidator
 * Omit if not applicable
-Form 547
-(subregulation 5.6.65 (1))
+
+# Form 547
+
+(subregulation 5.6.65(1))
 Corporations Act 2001
 NOTICE TO CREDITOR OR PERSON CLAIMING TO BE A CREDITOR OF INTENTION TO DECLARE A DIVIDEND
 Limited
@@ -529,8 +587,10 @@ Dated
 Signature of liquidator
 Address
 *Omit if inapplicable.
-Form 548
-(subregulation 5.6.65 (1))
+
+# Form 548
+
+(subregulation 5.6.65(1))
 Corporations Act 2001
 NOTICE TO CREDITOR OR PERSON CLAIMING TO BE A CREDITOR OF INTENTION TO DECLARE A DIVIDEND
 Limited
@@ -539,8 +599,10 @@ You are required formally to prove your debt or claim on or before (date).
 If you do not, I will exclude your claim from participation, and I will proceed to make a final dividend without having regard to it.
 Signature of liquidator
 Address
-Form 549
-(subregulation 5.6.67 (3))
+
+# Form 549
+
+(subregulation 5.6.67(3))
 Corporations Act 2001
 NOTICE OF DECLARATION OF DIVIDEND
 Limited
@@ -549,7 +611,9 @@ A dividend at the rate of in the dollar has been declared for the company and a 
 Dated
 Signature of liquidator
 Address
-Form 550
+
+# Form 550
+
 (regulation 5.6.70)
 Corporations Act 2001
 AUTHORITY TO LIQUIDATOR TO PAY DIVIDEND TO A PERSON NAMED
@@ -562,8 +626,10 @@ Date
 Signature of creditor
 Name of creditor
 *Omit if inapplicable
-Form 551
-(subregulation 5.6.71 (1))
+
+# Form 551
+
+(subregulation 5.6.71(1))
 Corporations Act 2001
 (Note: Before completing this schedule please read carefully the “Direction for completing Form 551” at the end of this form)
 SCHEDULE OF CONTRIBUTORIES OR OTHER PERSONS TO WHOM A DISTRIBUTION OF SURPLUS IS TO BE PAID
@@ -586,8 +652,10 @@ If the Articles:
 (a) provide that the amount divisible among members or any class of members must be dividable in proportion to the amount paid up or that ought to have been paid up at the date of winding up; or
 (b) contain any other provision that requires further information before a distribution can be made;
 columns should be added showing the amount called up and the amount paid up a that date in respect of shares then held by those members or that class of members, or any other facts that may be required.
-Form 552
-(subregulation 5.6.71 (2))
+
+# Form 552
+
+(subregulation 5.6.71(2))
 Corporations Act 2001
 NOTICE OF DISTRIBUTION OF SURPLUS TO CONTRIBUTORIES OR OTHER PERSONS
 Limited
@@ -595,7 +663,9 @@ A distribution of surplus at the rate of per share has been declared for the com
 Dated
 Signature of liquidator
 Address
-Form 553
+
+# Form 553
+
 (regulation 5.6.72)
 Corporations Act 2001
 AUTHORITY TO LIQUIDATOR TO PAY DISTRIBUTION OF SURPLUS TO A PERSON NAMED
@@ -608,7 +678,9 @@ Dated
 Signature
 Name(s) of person(s) completing this authority
 *Omit if inapplicable.
-Form 701
+
+# Form 701
+
 Data on intermediated business with APRA-authorised general insurers, Lloyd’s underwriters and unauthorised foreign insurers
 Australian business number | 
  | 
@@ -625,8 +697,8 @@ Business placed directly, or indirectly through a foreign intermediary, by the g
 Business placed directly, or indirectly through a foreign intermediary, by the general insurance intermediary with unauthorised foreign insurers |  |  |  | 
 Business placed indirectly through another general insurance intermediary, by the general insurance intermediary with: APRA-authorised general insurers; or Lloyds underwriters; or unauthorised foreign insurers |  |  |  | 
 Total |  |  |  | 
-General insurer is defined in subsection 3 (1) of the Insurance Act 1973.
-Lloyd’s underwriter is defined in subsection 3 (1) of the Insurance Act 1973.
+General insurer is defined in subsection 3(1) of the Insurance Act 1973.
+Lloyd’s underwriter is defined in subsection 3(1) of the Insurance Act 1973.
 Unauthorised foreign insurer is defined in regulation 4 of the Insurance Regulations 2002.
 table 2: Transaction level data on intermediated business placed directly, or indirectly through a foreign intermediary, with unauthorised foreign insurers
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
@@ -677,8 +749,10 @@ Name |
 Signature | 
 Capacity | 
 Entity name (if entity acting as local agent) | 
-Date signed | 
-Form 719
+Date signed |
+
+# Form 719
+
 (regulations 7.5.90 and 7.5.92)
 Corporations Regulations 2001
 STATEMENT ABOUT PAYMENTS OUT OF FINANCIAL INDUSTRY DEVELOPMENT ACCOUNT
@@ -707,8 +781,10 @@ I (insert name of officer of the market licensee and the office he or she occupi
 Dated
 (signature of officer of the market licensee)
 (under the signature add the name of the person signing)
-Form 719A
-(subregulation 7.5.56 (4))
+
+# Form 719A
+
+(subregulation 7.5.56(4))
 Corporations Regulations 2001
 COMPENSATION FOR LOSSES RESULTING FROM THE UNAUTHORISED TRANSFER OF RIGHTS, SHARES, DEBENTURES OR OTHER SECURITIES BY DEALER
 This notice relates to the unauthorised transfer of securities by (insert name of the dealer who is claimed to have transferred securities without authority of transferor) (in this notice called ‘the dealer’) of (insert residential address of the dealer) *formerly carrying on / *carrying on business at (insert address of the principal place of business of the dealer, including State or Territory).
@@ -716,13 +792,13 @@ A person wishing to make a claim under regulation 7.5.54 or 7.5.55 of the Corpor
 Securities Exchanges Guarantee Corporation
 (insert address, including State or Territory and postcode).
 The claim must be made in writing before the end of (specify last application day, at least 3 months after last day of publication of notice).
-Under subregulation 7.5.56 (3) of the Corporations Regulations 2001, a claim that is not made before the end of that day is barred unless the Board of the Securities Exchanges Guarantee Corporation otherwise determines.
+Under subregulation 7.5.56(3) of the Corporations Regulations 2001, a claim that is not made before the end of that day is barred unless the Board of the Securities Exchanges Guarantee Corporation otherwise determines.
 The effect of regulation 7.5.54 of the Corporations Regulations 2001 is to allow a person who:
 (a) owned securities that were transferred by a dealer; and
 (b) did not authorise the dealer to transfer those securities; and
 (c) suffered loss as a result of the transfer;
 to make a claim for compensation for the loss suffered in respect of the securities.
-The effect of subregulation 7.5.55 (1) of the Corporations Regulations 2001 is to allow:
+The effect of subregulation 7.5.55(1) of the Corporations Regulations 2001 is to allow:
 (a) a person to whom securities were transferred by the dealer without the authority of the owner of the securities; or
 (b) a successor in title of that person;
 to make a claim for compensation for the loss suffered in respect of the securities.
@@ -733,17 +809,19 @@ Under regulation 7.5.55 of the Corporations Regulations 2001, the following pers
 (under the signature add the words ‘for the Securities Exchanges Guarantee Corporation’)
 (add the date of signature)
 * Omit if not applicable
-Form 719B
-(subregulation 7.5.61 (4))
+
+# Form 719B
+
+(subregulation 7.5.61(4))
 Corporations Regulations 2001
 NOTICE CALLING FOR CLAIMS AGAINST SECURITIES EXCHANGES GUARANTEE CORPORATION
 This notice relates to claims for pecuniary loss suffered in respect of a contravention of the ASTC certificate cancellation provisions by (insert name of dealer who is claimed to have contravened SCH certificate cancellation provisions) (in this notice called ‘the dealer’) *formerly carrying on business / *carrying on business at (insert business address of the dealer).
-A person wishing to make a claim under subregulation 7.5.60 (1) of the Corporations Regulations 2001 for pecuniary loss suffered in respect of a contravention by the dealer of the SCH certificate cancellation provisions during the period beginning on and ending on (insert dates) is required to serve the claim on:
+A person wishing to make a claim under subregulation 7.5.60(1) of the Corporations Regulations 2001 for pecuniary loss suffered in respect of a contravention by the dealer of the SCH certificate cancellation provisions during the period beginning on and ending on (insert dates) is required to serve the claim on:
 Securities Exchanges Guarantee Corporation
 (insert address including relevant State or Territory and postcode).
 The claim must be made in writing and served on or before the end of (specify last application day — at least 3 months after last day of publication of notice).
 (NOTES:
-1. Under subregulation 7.5.61 (3) of the Corporations Regulations 2001, a claim that is not served before the end of the day specified will be barred, unless the Board of the Securities Exchanges Guarantee Corporation (‘SEGC’) otherwise determines.
+1. Under subregulation 7.5.61(3) of the Corporations Regulations 2001, a claim that is not served before the end of the day specified will be barred, unless the Board of the Securities Exchanges Guarantee Corporation (‘SEGC’) otherwise determines.
 2. Regulation 7.5.60 of the Corporations Regulations 2001 provides that a person who suffers pecuniary loss in respect of a contravention, by a dealer, of the ASTC certificate cancellation provisions may make a claim in respect of the loss. ASTC certificate cancellation provisions are provisions of the ASTC operating rules that deal with brokers cancelling certificates or other documents of title to Part 4 financial products or with matters incidental to that function.)
 A person may not make a claim under regulation 7.5.60 of the Corporations Regulations 2001 if:
 (a) the loss is in respect of an unauthorised execution (within the meaning of regulation 7.5.53 of those Regulations) in respect of which the person has made, or is entitled to make a claim under Subdivision 4.7 of Part 7.5 of those Regulations; or
@@ -752,24 +830,28 @@ A person may not make a claim under regulation 7.5.60 of the Corporations Regula
 for the Securities Exchanges Guarantee Corporation
 (add the date of signature)
 * Omit if not applicable
-Form 720
-(subregulation 7.5.70 (1))
+
+# Form 720
+
+(subregulation 7.5.70(1))
 Corporations Regulations 2001
 NOTICE CALLING FOR CLAIMS AGAINST THE SECURITIES EXCHANGES GUARANTEE CORPORATION
 In relation to (insert name of dealer who has become insolvent) (in this notice called ‘the dealer’) of (insert residential address of the dealer), *formerly / carrying on business at (insert address of the principal place of business of the dealer, including State or Territory), a dealer who has become insolvent.
-Persons wishing to make a claim under subregulation 7.5.64 (1) of the Corporations Regulations 2001 in respect of property that was, in the course of, or in connection with, the dealer’s business of dealing in securities, entrusted to or received by the dealer (or another person as provided under that subregulation) are required to lodge their claim with:
+Persons wishing to make a claim under subregulation 7.5.64(1) of the Corporations Regulations 2001 in respect of property that was, in the course of, or in connection with, the dealer’s business of dealing in securities, entrusted to or received by the dealer (or another person as provided under that subregulation) are required to lodge their claim with:
 The Securities Exchanges Guarantee Corporation
 (insert address, including State or Territory and postcode).
 The claim must be made in writing on or before (insert date).
 Subject to regulation 7.5.70 of the Corporations Regulations 2001, claims not made on or before that date are barred unless the Board of the Securities Exchanges Guarantee Corporation otherwise determines.
-Subregulation 7.5.64 (1) of the Corporations Regulations 2001 provides to the effect that, where the requirements of that provision are otherwise met, a person may make a claim in respect of property that was, in the course of, or in connection with, the dealer’s business of dealing in securities, entrusted to or received by:
+Subregulation 7.5.64(1) of the Corporations Regulations 2001 provides to the effect that, where the requirements of that provision are otherwise met, a person may make a claim in respect of property that was, in the course of, or in connection with, the dealer’s business of dealing in securities, entrusted to or received by:
 (a) unless paragraph (b) applies, the dealer or an employee of the dealer; or
 (b) if the dealer was, at the time the property was so entrusted or received, a partner in a participant, the participant, or a partner in, or an employee of, the participant.
 (signature of an officer of the SEGC)
 (under the signature add the words ‘For the Securities Exchanges Guarantee Corporation’)
 (add the date of signature)
 * Omit if not applicable
-Form 721
+
+# Form 721
+
 (regulation 7.5.80)
 Corporations Regulations 2001
 NOTICE OF DISALLOWANCE OF CLAIM AGAINST THE SECURITIES EXCHANGES GUARANTEE CORPORATION
@@ -785,10 +867,13 @@ Yours sincerely,
 (If the claim has been partly disallowed, insert a heading
 ‘PARTICULARS OF PARTIAL DISALLOWANCE’
 and specify the necessary particulars under it)
-Form 905
+* Omit if not applicable
+
+# Form 905
+
 Registration no:
 Corporations Act 2001
-PARTICULARS OF CESSATION OR CHANGE RELATING TO A PERSON REGISTERED AS AN AUDITOR UNDER SUBSECTION 1287 (1)
+PARTICULARS OF CESSATION OR CHANGE RELATING TO A PERSON REGISTERED AS AN AUDITOR UNDER SUBSECTION 1287(1)
  |  | 
 Surname | First or given names | 
  |  | 
@@ -796,7 +881,7 @@ Surname | First or given names |
 Residential address |  | 
  |  | 
 *1. CESSATION
-On (insert date) , I ceased to practise as an auditor. I request ASIC to exercise its discretion under subsection 1290 (1) and cancel my registration as an auditor.
+On (insert date) , I ceased to practise as an auditor. I request ASIC to exercise its discretion under subsection 1290(1) and cancel my registration as an auditor.
 *2. CHANGE OF NAME
 On (insert date) , I changed my name
 from:
@@ -818,7 +903,9 @@ to:
 Dated: (insert date)
 (signature of the registered company auditor)
 * Omit if not applicable
-Form 910
+
+# Form 910
+
 (section 1313)
 Corporations Act 2001
 PENALTY NOTICE
@@ -841,6 +928,7 @@ proceedings may be instituted against you.
 *3. APPLIES IF THE PENALTY NOTICE RELATES TO AN OFFENCE OTHER THAN ONE CONSTITUTED BY A FAILURE TO DO A PARTICULAR ACT OR THING
 Take notice that if, within 21 days after the date of service of this notice, you pay the prescribed penalty to the authority specified in paragraph 2, no further action will be taken against you in relation to the offence described in paragraph 1.
 If, at the end of 21 days after the date of service of this notice, you have not paid the prescribed penalty to the authority specified in paragraph 2, proceedings may be instituted against you.
-4. Payment of the penalty is not an admission of liability: see subsection 1313 (6).
+4. Payment of the penalty is not an admission of liability: see subsection 1313(6).
 Given by on behalf of the Australian Securities and Investments Commission at on
 * Omit if not applicable
+Note: insert a description of the particular act or thing that the person allegedly failed to do in committing the alleged offence.
