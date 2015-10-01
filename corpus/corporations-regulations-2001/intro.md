@@ -3,10 +3,10 @@
 Statutory Rules No. 193, 2001
 made under the
 Corporations Act 2001
-Compilation No. 118
-Compilation date: 9 September 2015
+Compilation No. 119
+Compilation date: 1 October 2015
 Includes amendments up to: SLI No. 157, 2015
-Registered: 18 September 2015
+Registered: 14 October 2015
 This compilation is in 7 volumes
 Volume 1: regulations 1.0.01–6D.5.02
 Volume 2: regulations 7.1.02–7.6.08E
@@ -18,8 +18,8 @@ Volume 7: Endnotes
 Each volume has its own contents
 About this compilation
 This compilation
-This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 9 September 2015 (the compilation date).
-This compilation was prepared on 11 September 2015.
+This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 1 October 2015 (the compilation date).
+This compilation was prepared on 2 October 2015.
 The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
 Uncommenced amendments
 The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on ComLaw (www.comlaw.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the series page on ComLaw for the compiled law.
