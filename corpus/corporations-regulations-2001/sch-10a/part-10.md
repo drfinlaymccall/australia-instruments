@@ -39,3 +39,4 @@ Fund and RSA transfers
 10.2 After subsection 1017B(9)
 insert
 (10) This section does not apply to a change or event in relation to a superannuation product or an RSA product that relates to a payment split in respect of the product.
+(11) This section does not apply to a change or event in relation to a superannuation product or an RSA product if the change or event happens because of a transfer in accordance with paragraph 6.29(1)(ba) of the Superannuation Industry (Supervision) Regulations 1994 in respect of the product.
