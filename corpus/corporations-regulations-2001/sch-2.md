@@ -651,7 +651,7 @@ DIRECTION FOR COMPLETING FORM 551
 If the Articles:
 (a) provide that the amount divisible among members or any class of members must be dividable in proportion to the amount paid up or that ought to have been paid up at the date of winding up; or
 (b) contain any other provision that requires further information before a distribution can be made;
-columns should be added showing the amount called up and the amount paid up a that date in respect of shares then held by those members or that class of members, or any other facts that may be required.
+columns should be added showing the amount called up and the amount paid up at that date in respect of shares then held by those members or that class of members, or any other facts that may be required.
 
 # Form 552
 
