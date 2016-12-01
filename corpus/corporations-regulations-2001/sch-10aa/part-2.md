@@ -16,9 +16,7 @@ insert
 (3B) A provider is not required to give a client a Product Disclosure Statement for a financial product if:
 (a) the provider reasonably believes there is a recognised offer under Chapter 8 in relation to the financial product; and
 (b) the financial product is an interest in a managed investment scheme governed by the laws of New Zealand; and
-(c) the provider has provided the client the documents and information required to accompany that offer by either:
-(i) the Securities Act 1978 of New Zealand (in accordance with Schedule 4 to the Financial Markets Conduct Act 2013 of New Zealand) and the Securities Regulations 2009 of New Zealand; or
-(ii) the Financial Markets Conduct Act 2013 of New Zealand and the Financial Markets Conduct Regulations 2014 of New Zealand; and
+(c) the provider has provided the client the documents and information required to accompany that offer by the Financial Markets Conduct Act 2013 of New Zealand and the Financial Markets Conduct Regulations 2014 of New Zealand; and
 (d) the provider has provided the client any warning statement or details prescribed under section 1200E in relation to the offer.
 (3C) For paragraph (3B)(c), section 1015C applies to the providing of documents and information, as if the documents and information were a Statement.
 (3D) For paragraph (3B)(d), section 1015C applies to the providing of warning statement or details prescribed under section 1200E, as if the warning statement or details were a Statement.
