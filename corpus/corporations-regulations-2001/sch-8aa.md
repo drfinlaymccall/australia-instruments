@@ -8,6 +8,7 @@ Item | Trustee companies
 4 | Australian Executor Trustees (Canberra) Limited
 5 | Australian Executor Trustees (NSW) Limited
 6 | Australian Executor Trustees (SA) Limited
+6A | Australian Unity Trustees Limited
 7 | Bagot’s Executor and Trustee Company Limited
 8 | Elders Trustees Limited
 9 | Equity Trustees Limited
