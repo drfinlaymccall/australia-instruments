@@ -21,7 +21,7 @@
 (v) a person (the funder) provides funds, indemnities or both under a funding agreement (including an agreement under which no fee is payable to the funder or lawyer if the scheme is not successful in seeking remedies) to enable the general members of the scheme to seek remedies;
 (vi) the funder is not a lawyer or legal practice that provides a service for which some or all of the fees, disbursements or both are payable only on success;
 (c) a scheme (a litigation funding scheme) that has all of the following features:
-(i) the scheme relates to an externally-administered body corporate;
+(i) the scheme relates to a Chapter 5 body corporate;
 (ii) the creditors or members of the body corporate provide funds (including through a trust), indemnities or both to the body corporate or external administrator;
 (iii) the funds, indemnities or both enable the external administrator or the body corporate to:
 (A) conduct investigations; or
