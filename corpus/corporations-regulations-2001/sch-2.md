@@ -125,20 +125,6 @@ NOTES
 (a) the administrator revokes the notice, by writing to the owner/ lessor; or
 (b) the company exercises or purports to exercise a right in relation to the specified property.
 
-# Form 509C
-
-(paragraph 445F(2)(a))
-A.C.N. or A.R.B.N.
-Corporations Act 2001
-NOTICE OF MEETING OF CREDITORS TO VARY OR TERMINATE DEED OF COMPANY ARRANGEMENT
-Limited (subject to deed of company arrangement)
-1. Notice is given that a meeting of the creditors of the company will be held at (insert address and place of meeting) on (insert date) at (insert time) *a.m./*p.m.
-2. The purpose of the meeting is to consider and vote on the following resolutions:
-(Set out each resolution under section 445A or paragraph 445C(b) that the administrator of the deed of company arrangement proposes to be voted on at the meeting or, as the case may be, that creditors, in a request made under paragraph 445F(1)(b), have proposed to be voted on at the meeting.)
-Dated
-(signature of administrator)
-*Delete if not applicable
-
 # Form 509E
 
 (paragraph 450B(a))
@@ -193,25 +179,6 @@ NOTES:
 (b) this version of the form.
 *Omit if inapplicable
 
-# Form 521
-
-(subsection 496(2), subregulation 5.6.12(6))
-Corporations Act 2001
-NOTICE OF MEETING OF CREDITORS UNDER SECTION 496
-Limited
-I, (insert name) of insert address)
-give notice that, under subsection 496(1), a meeting of the creditors of the company will be held at (insert place of meeting) on (insert date
-of meeting) at *a.m./p.m.
-The winding up of the company commenced on and I was appointed liquidator by resolution of the members of the company. As the directors declared that the company would be able to pay its debts in full within a period not exceeding 12 months after the commencement of the winding up, the liquidation is proceeding as a members’ voluntary winding up.
-A list of creditors prepared in accordance with subsection 496(2) is annexed.
-I have formed the opinion that the company will not be able to pay or provide for the payment of its debts in full within that period and this meeting is summoned in order that the creditors may, if they so wish, exercise their right under subsection 496(5) to appoint some person other than myself to be the liquidate of the company for the purpose of winding up the affairs and distributing the property of the company.
-A statement of the assets and liabilities of the company will be laid before the meeting.
-Dated
-(signature of liquidator)
-*Omit if not applicable
-DIRECTION
-Requirements relating to annexures are set out in regulation 1.0.06.
-
 # Form 5249
 
 # Form 527
@@ -227,151 +194,6 @@ The applicant has the following interest in the property:
 SCHEDULE
 Dated
 (signature of applicant)
-
-# Form 529A
-
-(subregulation 5.6.12(6))
-Corporations Act 2001
-NOTICE OF FIRST MEETING OF CREDITORS OF COMPANY UNDER ADMINISTRATION
-Limited (administrator appointed)
-1. On (insert date)
-*the company under section 436A
-*The liquidator/provisional liquidator of the company under section 436B
-*a chargee of property of the company under section 436C appointed (insert name) of (insert address) as the administrator of the company.
-2. Notice is now given that a meeting of the creditors of the company will be held at (insert address and place of meeting) on (insert date) at (insert time) *a.m./*p.m.
-3. The purpose of the meeting is to determine:
-(a) whether to appoint a committee of creditors; and
-(b) if so, who are to be the committee’s members.
-4. At the meeting, creditors may also, by resolution:
-(a) remove the administrator from office; and
-(b) appoint someone else as administrator of the company.
-*5. Details of the instrument under the terms of which the administrator was appointed are:
-(a) date of the instrument: (insert date)
-(b) nature of instrument: (insert type of instrument, eg mortgage)
-(c) place of registration: (insert, if applicable)
-(d) registered charge number: (insert, if applicable)
-Dated
-(administrator’s signature)
-*Delete if not applicable
-
-# Form 529B
-
-(subsection 449C(5))
-Corporations Act 2001
-NOTICE OF FIRST MEETING OF CREDITORS TO RATIFY APPOINTMENT OF ADMINISTRATOR
-Limited (administrator appointed)
-1. On (insert date)
-*the company under section 449C(1) and subparagraph 449C(2)(b)(i),
-*the liquidator/provisional liquidator of the company under section 449C(2)(b)(ii),
-*a chargee of property of the company, under subsection 449C(1) and subparagraph 449C(2)(b)(iii),
-appointed (insert name) of (insert address) as the administrator of the company in place of the previous administrator of the company.
-2. The new administrator was appointed because the previous administrator (here set out the applicable circumstances under paragraph 449C(1)(a), (b) or (c), as the case may be).
-3. Notice is now given that a meeting of the creditors of the company will be held at (insert address and place of meeting) on (insert date) at (insert time) *a.m./*p.m.
-4. The purpose of the meeting is:
-(a) to determine whether to remove the person appointed from office; and
-(b) if so, to appoint someone else as administrator of the company.
-*5. Details of the instrument under the terms of which the previous administrator was appointed are:
-(a) date of the instrument: (insert date)
-(b) nature of instrument: (insert type of instrument, eg mortgage)
-(c) place of registration: (insert, if applicable)
-(d) registered charge number: (insert, if applicable)
-Dated
-(signature of convenor of the meeting)
-*Delete if not applicable
-
-# Form 530
-
-(regulation 5.6.13)
-A.C.N. or A.R.B.N.:
-Corporations Law
-STATEMENT IN WRITING OF POSTING OF NOTICE OF MEETING
-Limited
-I (name) of (address) state:
-1. on (date) a notice of the time and place of the meeting (insert a description of the meeting) in the form of the annexure marked “A” (see note below) was sent by prepaid post to each person appearing in the books of the company, or otherwise known to *me/*the convener of the meeting, as a creditor/*contributory/ *member/*debenture holder;
-*2. the notices were addressed to the creditors according to their names and addresses appearing in the books of the company or to their last known addresses;
-*2 the notices were addressed to the contributories according to their names and addresses appearing in the books of the company or to their last known addresses;
-*2 the notices were addressed to the debenture holders according to their names and addresses appearing in the books of the company or to their last known addresses;
-*3 the persons notified and their addresses specified in the notices sent to them are *set out in the annexed list (see note below) / *identifiable by reference to the books of the company.
-Signature
-* Omit if inapplicable.
-Note: Requirements relating to annexures are set out in regulation 1.0.06.
-
-# Form 531A
-
-(paragraph 5.6.27(2)(a))
-Corporations Regulations
-A.C.N. or A.R.B.N.:
-Corporations Act 2001
-LIST OF PERSONS PRESENT AT MEETING OF: *MEMBERS/*CONTRIBUTORIES
-Limited
-Meeting held at (place of meeting) on (date).
- |  |  |  | 
-No. | Name | Represented by | *Number of shares | *Number of votes
- |  | (Signature of person attending) |  | 
- |  |  |  | 
- |  |  |  | 
- |  |  |  | 
- |  |  |  | 
- |  |  |  | 
-(NOTE: If a joint meeting of creditors and members is held, both Form 531A and 531B should be completed)
-*Delete if not applicable
-
-# Form 531B
-
-(paragraph 5.6.27(2)(b))
-Corporations Regulations
-A.C.N. or A.R.B.N.:
-Corporations Act 2001
-LIST OF PERSONS PRESENT AT MEETING OF: *CREDITORS/*ELIGIBLE EMPLOYEE CREDITORS/*DEBENTURE HOLDERS
-Limited
-Meeting held at (place of meeting) on (date).
- |  |  |  |  |  | 
-No. | Name | Represented by (signature of person attending) | Amount of proof lodged or Amount of debentures held | Nature of any security | Value of any security, as estimated by the creditor | **Balance of creditor’s debt after deducting the value of the security
- |  |  |  |  |  | 
- |  |  |  |  |  | 
- |  |  |  |  |  | 
- |  |  |  |  |  | 
- |  |  |  |  |  | 
- |  |  |  |  |  | 
-(NOTE: If a joint meeting of creditors and members is held, both Form 531A and 531B should be completed)
-* Delete if not applicable
-**Do not complete in the case of a meeting convened under Part 5.3A of the Corporations Act 2001
-
-# Form 531C
-
-(paragraph 5.6.27(2)(c))
-Corporations Regulations
-A.C.N. or A.R.B.N.
-Corporations Act 2001
-LIST OF PERSONS PRESENT AT MEETING OF: *COMMITTEE OF INSPECTION/*COMMITTEE OF CREDITORS
-Limited
-Meeting held at (place of meeting) on (date).
- |  | 
-No. | Name | Represented by (Signature of person attending)
- |  | 
- |  | 
- |  | 
- |  | 
- |  | 
-* Delete if not applicable
-
-# Form 532
-
-(regulation 5.6.29)
-A.C.N. or A.R.B.N.
-Corporations Act 2001
-APPOINTMENT OF PROXY
-*I/*We (if a firm, strike out “I” and set out the full name of the firm) of (address), a creditor/*contributory/ *debenture holder/*member of Limited, appoint (name, address and description of the person appointed) or in his or her absence as *my/*our *general/*special proxy to vote at the *meeting of *creditors/*contributories*debenture holders/*members/*joint meeting of members and creditors to be held on (date), or at any adjournment of that meeting (if a special proxy add the words “to vote for” or the words “to vote against” and specify the particular resolutions).
-Dated
-Signature
-CERTIFICATE OF WITNESS
-(This certificate is to be completed only if the person giving the proxy is blind or incapable of writing. The signature of the creditor, contributory, debenture holder or member must not be witnessed by the person nominated as proxy)
-I (name), of (address), certify that the above instrument appointing a proxy was completed by me in the presence of and at the request of the person appointing the proxy and read to him or her before she signed or marked at the instrument.
-Dated
-Signature of witness
-Description
-Place of residence
-* Omit if inapplicable.
 
 # Form 535
 

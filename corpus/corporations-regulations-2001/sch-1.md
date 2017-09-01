@@ -21,21 +21,11 @@ Chapter 5 External administration
 44A | Subsection 419A(3) | Notice of controller’s intention not to exercise property rights | 503
 51A | Subsection 438C(3) | Notice to deliver books of company to the administrator | 509A
 51B | Subsection 443B(3) | Notice of administrator’s intention not to exercise property rights | 509B
-51C | Paragraph 445F(2)(a) | Notice of meeting of creditors to vary or terminate deed of company arrangement | 509C
 51E | Paragraph 450B(a) | Notice to creditors of execution of a deed of company arrangement | 509E
 51H | Paragraph 459E(2)(e) | Creditor’s statutory demand for payment of debt | 509H
 61 | Subsections 494(1) & (2) | Declaration of solvency | 520
-62 | Subsection 496(2) Subregulation 5.6.12(2) | Notice of meeting of creditors under section 496 | 521
 68 | Paragraph 568(8)(a) | Application requiring liquidator to decide whether to disclaim property | 527
 69 | Subsection 601AA(2) | De-registration—voluntary | 6010
-71 | Subregulation 5.6.12(2) | Notice of meeting | 529
-71A | Paragraph 5.6.12(2)(aa) | Notice of first meeting of creditors of company under administration | 529A
-71B | Subsection 449C(5) | Notice of meeting of creditors to ratify appointment of administrator | 529B
-72 | Regulation 5.6.13 | Statement in writing of posting of notice of meeting | 530
-73 | Paragraph 5.6.27(2)(a) | List of persons present at meeting of members or contributories | 531A
-73A | Paragraph 5.6.27(2)(b) | List of persons present at meeting of creditors or debenture holders | 531B
-73B | Paragraph 5.6.27(2)(c) | List of persons present at meeting of committee of inspection or committee of creditors | 531C
-74 | Regulation 5.6.29 | Appointment of proxy | 532
 75 | Subregulation 5.6.39(3) | Notice to submit particulars of debt or claim | 533
 76 | Subregulation 5.6.48(3) | Notice inviting formal proof of debt or claim | 534
 77 | Subregulation 5.6.49(2) | Formal proof of debt or claim (General form) | 535
