@@ -16,6 +16,7 @@ Item | Word or phrase
 6313 | Guarantee
 6314 | Incorporated
 6316 | Made in Australia
+6316AA | passport fund
 6316A | police
 6316B | policing
 6317 | R.S.L.

@@ -10,8 +10,12 @@ Product Disclosure Statement must be given in certain circumstances
 (2) However, if the regulated person is requested by the other person to provide the Product Disclosure Statement the regulated person must provide the Product Disclosure Statement.
 Responsible person
 (3) The responsible person for a Short-Form PDS for a financial product is the person who is the responsible person for the Product Disclosure Statement for the product.
-Application of subsection (1)
-(4) Subsection (1) does not apply to a general insurance product.
+Short-Form PDS not to be given for certain products
+(4) Subsection (1) does not apply in relation to the following:
+(a) a general insurance product;
+(b) a managed investment product in relation to an Australian passport fund;
+(c) a foreign passport fund product.
+(5) To avoid doubt, nothing in Division 5AB of Part 7.9 of the regulations or in Part 3 of Schedule 10BA to the regulations permits a regulated person to give a Short-Form PDS or a Supplementary Short-Form PDS in relation to a financial product mentioned in subsection (4).
 1017I Contents of a Short-Form PDS
 Contents
 (1) The Short-Form PDS for a financial product must contain the following:

@@ -1,7 +1,7 @@
 # Part 1—Rules for ascertaining whether names are identical
 
 6101
-In comparing one name with another for paragraph 147(1)(a) or (b) or 601DC(1)(a) or (b) of the Act, the following matters are to be disregarded:
+In comparing one name with another for paragraph 147(1)(a) or (b) or 601DC(1)(a) or (b) or for subparagraph 1213B(5)(a)(i), (ii), (iii) or (iv) of the Act, the following matters are to be disregarded:
 (a) the use of the definite or indefinite article as the first word in one or both of those names;
 (b) the use of ‘Proprietary’, ‘Pty’, ‘Limited’, ‘Ltd’, ‘No Liability’ or ‘NL’ in one or both of the names;
 (c) whether a word is in the plural or singular number in one or both names;
