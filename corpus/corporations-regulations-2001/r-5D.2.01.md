@@ -7,7 +7,11 @@
 (2) The licensed trustee company commits an offence if:
 (a) a person mentioned in subregulation (3) requests an annual information return; and
 (b) the company does not provide the return to the person in accordance with the requirements in subregulations (5), (6) and (8) and regulation 5D.2.02.
-Penalty: 50 penalty units.
+Penalty: 500 penalty units.
+(2A) A person commits an offence if the person is involved in a contravention of subregulation (1) by a licensed trustee company.
+Penalty:
+(a) for an individual—50 penalty units; and
+(b) for a body corporate—500 penalty units.
 (3) A person may request an annual information return if the person is one of the following:
 (a) in the case of the estate of a deceased person:
 (i) if the person died testate—a beneficiary under the deceased person’s will; or

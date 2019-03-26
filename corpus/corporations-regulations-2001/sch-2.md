@@ -725,32 +725,3 @@ to:
 Dated: (insert date)
 (signature of the registered company auditor)
 * Omit if not applicable
-
-# Form 910
-
-(section 1313)
-Corporations Act 2001
-PENALTY NOTICE
-To (insert name of person alleged to have committed offence and, if a corporation, its Australian Company Number or its Australian Registered Body Number)
-1. It is alleged that at (insert place) on (insert date) you committed an offence under or in relation to (insert provision under or in relation to which the offence is alleged to have been committed) because you (set out particulars of alleged offence, including description of alleged conduct constituting the offence. Where applicable, include the name and Australia Company Number or Australian Registered Body Number of any corporation in connection with which the offence is alleged to have been committed).
-This offence is a prescribed offence.
-2. Prescribed penalty: $
-Payable to: (insert name and address of the office of the Australian Securities and Investments Commission)
-*3. APPLIES IF THE PENALTY NOTICE RELATES TO AN OFFENCE CONSTITUTED BY A FAILURE TO DO A PARTICULAR ACT OR THING
-Take notice that:
-(a) the obligation to (see Note below) continues, despite the service of this notice or the payment of the prescribed penalty; and
-(b) if, within 21 days after the date of service of this notice, you:
-(i) pay the prescribed penalty to the authority specified in paragraph 2; and
-(ii) (see Note below);
-no further action will be taken against you in relation to the offence described in paragraph 1; and
-(c) if, at the end of 21 days after the date of service of this notice, you:
-(i) have not paid the prescribed penalty to the authority specified in paragraph 2; or
-(ii) have not (see Note below);
-proceedings may be instituted against you.
-*3. APPLIES IF THE PENALTY NOTICE RELATES TO AN OFFENCE OTHER THAN ONE CONSTITUTED BY A FAILURE TO DO A PARTICULAR ACT OR THING
-Take notice that if, within 21 days after the date of service of this notice, you pay the prescribed penalty to the authority specified in paragraph 2, no further action will be taken against you in relation to the offence described in paragraph 1.
-If, at the end of 21 days after the date of service of this notice, you have not paid the prescribed penalty to the authority specified in paragraph 2, proceedings may be instituted against you.
-4. Payment of the penalty is not an admission of liability: see subsection 1313(6).
-Given by on behalf of the Australian Securities and Investments Commission at on
-* Omit if not applicable
-Note: insert a description of the particular act or thing that the person allegedly failed to do in committing the alleged offence.

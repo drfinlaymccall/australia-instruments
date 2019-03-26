@@ -54,4 +54,3 @@ Chapter 7 Financial services and markets
 Chapter 9 Miscellaneous
 150 | Subsection 1287(1) | Particulars of cessation or change relating to person registered as an auditor under subsection 1287(1) | 905
 154A | Subsection 1302(4) | Notice of change of address | 909
-155 | Section 1313 | Penalty notice | 910

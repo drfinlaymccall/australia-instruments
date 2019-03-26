@@ -13,10 +13,14 @@
 (e) the procedure for auditing the common fund;
 (f) if the common fund is to have a limited life—the duration of the common fund;
 (g) if the common fund is to have a minimum amount that may be invested in the fund on account of each estate—the minimum amount.
-Penalty: 50 penalty units.
+Penalty: 500 penalty units.
 (2) The licensed trustee company commits an offence if it does not:
 (a) within 14 days of making the decision:
 (i) send a copy of the decision to ASIC; and
 (ii) publish a copy of the decision on its website; and
 (b) if requested by a person entitled to request an annual information return under subregulation 5D.2.01(3), make a copy of the decision available to the person within 30 days of the request being received.
-Penalty: 50 penalty units.
+Penalty: 500 penalty units.
+(3) A person commits an offence if the person is involved in a contravention of subregulation (1) or (2) by a licensed trustee company.
+Penalty:
+(a) for an individual—50 penalty units; and
+(b) for a body corporate—500 penalty units.
