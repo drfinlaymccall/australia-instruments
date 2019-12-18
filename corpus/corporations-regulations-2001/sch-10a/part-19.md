@@ -55,8 +55,8 @@ substitute
 regulated acquisition means an acquisition of a financial product pursuant to an instruction by the client under a custodial arrangement, being an acquisition:
 (a) by way of issue by the issuer (the regulated person); or
 (b) pursuant to a sale by a person (the regulated person) in circumstances:
-(i) described in subsection 1012C (5) or (8); or
-(ii) to which subsection 1012B (3), 1012C (3) or 1012C (6) would apply if those subsections were applicable in relation to a carbon unit, an Australian carbon credit unit or an eligible international emissions unit.
+(i) described in subsection 1012C(5) or (8); or
+(ii) to which subsection 1012B(3), 1012C(3) or 1012C(6) would apply if those subsections were applicable in relation to a carbon unit, an Australian carbon credit unit or an eligible international emissions unit.
 19.6 Subsection 1012IA(2), subheading
 substitute
 Obligation on provider to inform client about statements on Clean Energy Regulator’s website
@@ -88,7 +88,7 @@ substitute
 (1A) If:
 (a) carbon units are, or have been, available for acquisition (whether by issue or sale) by a person or persons as retail clients; and
 (b) the issue or sale of the carbon units is not covered by an Australian financial services licence;
-the issuer and any regulated person who is required, under subsection 1012D (1), to inform a client that the client should consider each statement about the carbon unit that is published on the website of the Clean Energy Regulator as mentioned in section 202 of the Clean Energy Act 2011, must both have a dispute resolution system complying with subsection (2).
+the issuer and any regulated person who is required, under subsection 1012D(1), to inform a client that the client should consider each statement about the carbon unit that is published on the website of the Clean Energy Regulator as mentioned in section 202 of the Clean Energy Act 2011, must both have a dispute resolution system complying with subsection (2).
 Note 1: If the issue of the carbon units is covered by an Australian financial services licence, the requirement to have a dispute resolution system relating to the issue of the units is imposed by paragraph 912A(1)(g).
 Note 2: Failure to comply with this subsection is an offence (see subsection 1311(1)).
 (1B) If:

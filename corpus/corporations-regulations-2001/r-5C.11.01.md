@@ -4,7 +4,7 @@
 # 5C.11.01  Certain schemes not managed investment schemes
 
 (1) For paragraph (n) of the definition of managed investment scheme in section 9 of the Act, each of the following schemes is declared not to be a managed investment scheme:
-(a) an approved benefit fund within the meaning given by subsection 16B (1) of the Life Insurance Act 1995;
+(a) an approved benefit fund within the meaning given by subsection 16B(1) of the Life Insurance Act 1995;
 (b) a scheme (a litigation funding scheme) that has all of the following features:
 (i) the dominant purpose of the scheme is for each of its general members to seek remedies to which the general member may be legally entitled;
 (ii) the possible entitlement of each of its general members to remedies arises out of:

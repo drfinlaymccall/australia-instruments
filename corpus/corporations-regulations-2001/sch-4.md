@@ -4,7 +4,7 @@
 Column 1 | Column 2 | Column 3
 Item | Matter | Amount ($)
 1 | Inspection of registers for the purposes of: | 
- | (a) subsection 173(2) or subsection 672DA (7): | 
+ | (a) subsection 173(2) or subsection 672DA(7): | 
  | (i) if a register is not kept on a computer—for each inspection | 5.00
  | (ii) if a register is kept on a computer—for each inspection | a reasonable amount that does not exceed the marginal cost to the company of providing an inspection
 1AA | Supply of copies for subsection 173(3) In addition, if information is provided about 5,000 or more members: | 250.00
@@ -15,13 +15,13 @@ Item | Matter | Amount ($)
  | (b) subsection 668A(3); | 
  | for each inspection | 5.00
 2 | Supply under section 139 by a company to a member of the company of a copy of the company’s constitution | 10.00
-3 | Supply of copies for subsection 672DA (8): | 
+3 | Supply of copies for subsection 672DA(8): | 
  | (a) if a register is not kept on a computer—for each page, or part of a page, not exceeding international sheet size A4 of the copy supplied or, at the option of the supplier, for each 100 words or part of 100 words | 0.50
  | (b) if a register is kept on a computer—for each inspection | a reasonable amount that does not exceed the marginal cost to the company of providing a copy
 3A | Supply of copies for: | 
- | (a) subsection 246G (3) | 
- | (b) subsection 251B (4) | 
- | (ba) subsection 253N (4) | 
+ | (a) subsection 246G(3) | 
+ | (b) subsection 251B(4) | 
+ | (ba) subsection 253N(4) | 
  | (c) subsection 271(4) | 
  | (d) subsection 812(3) | 
  | (e) paragraph 1178(3)(a); | 

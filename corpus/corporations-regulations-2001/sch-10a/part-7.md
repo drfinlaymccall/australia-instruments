@@ -5,7 +5,7 @@ insert
 (8) The trustee of a fund need not give a periodic statement or other information to a member:
 (a) in relation to any period during which the member is a life pensioner of the fund; or
 (b) if the member is a pensioner of the fund, and has requested that that information not be provided.
-(9) Subsection (8) does not apply to information mentioned in subregulation 7.9.21A (1) of the Corporations Regulations 2001.
+(9) Subsection (8) does not apply to information mentioned in subregulation 7.9.21A(1) of the Corporations Regulations 2001.
 (10) If, at the end of a reporting period, a member of a regulated superannuation fund is a protected member, the trustee need give the member only the following information in the periodic statement for that reporting period:
 (a) the contact details of the fund;
 (b) either:

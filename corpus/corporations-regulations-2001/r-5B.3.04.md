@@ -1,4 +1,4 @@
-# 5B.3.04  Notices (Act s 601DH (1))
+# 5B.3.04  Notices (Act s 601DH(1))
 
 (1) A notice in writing of a change of name in accordance with subsection 601DH(1) of the Act, must have annexed to it:
 (a) a copy of the certificate of incorporation or registration of the registered body, or a document of similar effect, being a certificate or document evidencing the change; or
