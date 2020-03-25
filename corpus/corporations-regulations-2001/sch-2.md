@@ -150,11 +150,11 @@ To (name and A.C.N. or A.R.B.N. of debtor company) of (address of the company’
 *the amount of $(insert total amount), being the total of the amounts of the debts described in the Schedule.
 *2. The amount is due and payable by the company.
 *2. Attached is the affidavit of (insert name of deponent of the affidavit), dated (insert date of affidavit), verifying that the amount is due and payable by the company
-3. The creditor requires the company, within 21 days after service on the company of this demand:
+3. The creditor requires the company, within the statutory period after service on the company of this demand:
 (a) to pay to the creditor the *amount of the debt/*total of the amounts of the debts; or
 (b) to secure or compound for the *amount of the debt/*total of the amounts of the debts, to the creditor’s reasonable satisfaction.
 4. The creditor may rely on a failure to comply with this demand within the period for compliance set out in subsection 459F(2) as grounds for an application to a court having jurisdiction under the Corporations Act 2001 for the winding up of the company.
-5. Section 459G of the Corporations Act 2001 provides that a company served with a demand may apply to a court having jurisdiction under the Corporations Act 2001 for an order setting the demand aside. An application must be made within 21 days after the demand is served and, within the same period:
+5. Section 459G of the Corporations Act 2001 provides that a company served with a demand may apply to a court having jurisdiction under the Corporations Act 2001 for an order setting the demand aside. An application must be made within the statutory period after the demand is served and, within the same period:
 (a) an affidavit supporting the application must be filed with the court; and
 (b) a copy of the application and a copy of the affidavit must be served on the person who served the demand.
 A failure to respond to a statutory demand can have very serious consequences for a company. In particular, it may result in the company being placed in liquidation and control of the company passing to the liquidator of the company.
@@ -169,14 +169,12 @@ Print name: capacity:
 Corporation or partnership name (if applicable):
 NOTES:
 1. The form must be signed by the creditor or the creditor’s solicitor. It may be signed on behalf of a partnership by a partner, and on behalf of a corporation by a director or by the secretary or an executive officer of the corporation.
-2. The amount of the debt or, if there is more than one debt, the total of the amounts of the debts, must exceed the statutory minimum of $2,000.
+2. The amount of the debt or, if there is more than one debt, the total of the amounts of the debts, must exceed the statutory minimum. The statutory minimum is $2,000 or a greater amount prescribed by the regulations. For a 6-month period in 2020, a greater amount of $20,000 is prescribed (see the Coronavirus Economic Response Package Omnibus Act 2020).
 3. Unless the debt, or each of the debts, is a judgment debt, the demand must be accompanied by an affidavit that:
 (a) verifies that the debt, or the total of the amounts of the debts, is due and payable by the company; and
 (b) complies with the rules.
 4. A person may make a demand relating to a debt that is owed to the person as assignee.
-5. This form was amended in 2006 as part of amendments of the Corporations Regulations 2001. For the period of 12 months after the commencement of those amendments a person may comply with paragraph 459E(2)(e) of the Corporations Act 2001 in relation to a statutory demand for payment of debt by using:
-(a) the version of this form that was in force immediately before the commencement of the amendments; or
-(b) this version of the form.
+5. The statutory period is 21 days or a longer period prescribed by the regulations. For a 6-month period in 2020, a longer period of 6 months is prescribed (see the Coronavirus Economic Response Package Omnibus Act 2020).
 *Omit if inapplicable
 
 # Form 5249
