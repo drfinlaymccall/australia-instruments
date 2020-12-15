@@ -571,6 +571,87 @@ Capacity |
 Entity name (if entity acting as local agent) | 
 Date signed |
 
+# Form 587
+
+(subsection 206F(3))
+
+# Form 588
+
+(subparagraph 206GAA(1)(b)(i))
+Form 588
+Corporations Act 2001
+Subparagraph 206GAA(1)(b)(i)
+Notice to demonstrate why disqualification should not occur
+IN THE MATTER of (1)__________________________________
+Notice to demonstrate why disqualification should not occur
+under section 206GAA of the Corporations Act 2001.
+To: (2) ________________________________________________________
+The records of the Australian Securities and Investments Commission (ASIC) show that you are or were an officer of ______ (3) corporations that have been wound up, being ____________________________________________________________(4)
+where money was advanced for the purposes of paying the entitlements of employees of the corporations under the Fair Entitlements Guarantee Act 2012 and:
+- the Commonwealth has received a minimal return, or no return on the advance; and
+- ASIC has reason to believe that the Commonwealth is unlikely to receive more than a minimal return on the advance; and
+- ASIC has reason to believe that either the corporations contravened the Corporations Act 2001 or Corporations (Aboriginal and Torres Strait Islander) Act 2006 and that the person failed to take reasonable steps to prevent the contravention or the person contravened the Corporations Act 2001 or Corporations (Aboriginal and Torres Strait Islander) Act 2006.
+In these circumstances you are required to demonstrate, in accordance with subparagraph 206GAA(1)(b)(i) of the Act, why you should not be disqualified from managing corporations.
+Under subsection 206GAA(1) of the Act you may be disqualified from managing corporations for a period of up to 5 years.
+In making a decision under subsection 206GAA(1) of the Act ASIC is required to give you an opportunity to be heard in relation to why you should not be disqualified from managing corporations.
+AREAS OF CONCERN
+ASIC has identified a number of concerns about your conduct which are described in Attachment "A".
+The documents on which these concerns are based are listed in Attachment "B".
+OPPORTUNITY TO BE HEARD
+If you wish to demonstrate why you should not be disqualified from managing corporations you should notify ASIC within 14 days from the date of service of this notice that you require an opportunity of being heard.
+You may exercise your right to be heard by:
+1. making a written submission; or
+2. appearing before a person ASIC has appointed to hear the matter (the delegate) and making submissions orally and appearing before the delegate to present evidence; or
+3. making submissions by telephone or video call to a person ASIC has appointed to hear the matter.
+You may exercise your right by doing one of these options.
+Once you have notified ASIC of your wish to demonstrate why you should not be disqualified a delegate will write to you with further details of the hearing procedure.
+If you do not wish to demonstrate why you should not be disqualified, a decision will be made by a delegate on the information available.
+If you wish to have access to the documents listed in Attachment "B" you should contact ASIC as soon as possible. Access to documents which are identified as "confidential" may be given subject to strict conditions of confidentiality.
+Dated this ___________________ day of __________________________
+Signed …………………………………………………………
+_____________________________________
+(5) Delegate of the Australian Securities and Investments Commission
+Attachments
+Attachment “A”
+Areas of concern
+Attachment “B”
+List of documents upon which concerns are based
+DIRECTIONS
+(1) Insert name of person subject of the notice.
+(2) Insert name of person subject of the notice.
+(3) Insert number of corporations of which the person was an officer.
+(4) Insert names and ACNs of corporations.
+(5) Insert full name of delegate signing the notice.
+
+# Form 589
+
+(subsection 206GAA(6))
+Form 589
+Corporations Act 2001
+Subsection 206GAA(6)
+Notice of disqualification from managing corporations
+IN THE MATTER of (1)__________________________________
+Notice of disqualification from managing corporations
+under subsection 206GAA(6) of the Corporations Act 2001.
+To: (2) ________________________________________________________
+ASIC has given you notice in the prescribed form requiring you to demonstrate why you should not be disqualified from managing corporations and has given you an opportunity to be heard on the question.
+TAKE NOTICE THAT having regard to the Notice to Demonstrate Why Disqualification Should Not Occur dated ___________(3) issued by _________
+____________(4) and your opportunity to be heard ASIC is satisfied that your disqualification pursuant to section 206GAA of the Corporations Act 2001 is justified.
+YOU ARE DISQUALIFIED from the time of service of this notice for a period of _______(5) years from managing corporations without the leave of ASIC.
+Please note the extent of the legal prohibitions on your management of corporations under section 206A of the Corporations Act 2001.
+Dated this ________________ day of ___________________(6)
+Signed …………………………………………………………
+_____________________________________
+(7) Delegate of the Australian Securities and Investments Commission
+DIRECTIONS
+(1) Insert the name of person being disqualified.
+(2) Insert the name of person being disqualified.
+(3) Insert date of Notice to Demonstrate Why Disqualification Should Not Occur.
+(4) Insert name of delegate who issued Notice to Demonstrate Why Disqualification Should Not Occur.
+(5) Insert number of years disqualified.
+(6) Insert date of notice.
+(7) Insert full name of delegate signing notice.
+
 # Form 719
 
 (regulations 7.5.90 and 7.5.92)

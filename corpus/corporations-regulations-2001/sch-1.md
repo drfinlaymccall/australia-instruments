@@ -9,6 +9,8 @@ Chapter 1 Introductory
 2 | Subsection 117(2) Subsection 163(3) Subsection 254X(2) Subsection 601BC(2) | Certification of compliance with stamp duty law | 207Z
 3 | Subparagraph 206F(1)(b)(i) | Notice to demonstrate why disqualification should not occur | 5249
 4 | Subsection 206F(3) | Notice of disqualification from managing corporations | 587
+4A | Subparagraph 206GAA(1)(b)(i) | Notice to demonstrate why disqualification should not occur | 588
+4B | Subsection 206GAA(6) | Notice of disqualification from managing corporations | 589
 Chapter 3 Internal administration
 23A | Section 250P | Extension of time for holding AGM | 2501
 26 | Paragraph 263(2)(b) | Notification of further issue of debentures in a series | 310
