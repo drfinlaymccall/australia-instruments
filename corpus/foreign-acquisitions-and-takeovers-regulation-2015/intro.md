@@ -3,13 +3,13 @@
 Select Legislative Instrument No. 217, 2015
 made under the
 Foreign Acquisitions and Takeovers Act 1975
-Compilation No. 10
-Compilation date: 4 September 2020
-Includes amendments up to: F2020L01131
-Registered: 10 September 2020
+Compilation No. 11
+Compilation date: 1 January 2021
+Includes amendments up to: F2020L01568
+Registered: 18 January 2021
 About this compilation
 This compilation
-This is a compilation of the Foreign Acquisitions and Takeovers Regulation 2015 that shows the text of the law as amended and in force on 4 September 2020 (the compilation date).
+This is a compilation of the Foreign Acquisitions and Takeovers Regulation 2015 that shows the text of the law as amended and in force on 1 January 2021 (the compilation date).
 The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
 Uncommenced amendments
 The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Legislation Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the series page on the Legislation Register for the compiled law.
