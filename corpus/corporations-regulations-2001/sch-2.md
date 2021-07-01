@@ -169,7 +169,7 @@ Print name: capacity:
 Corporation or partnership name (if applicable):
 NOTES:
 1. The form must be signed by the creditor or the creditor’s solicitor. It may be signed on behalf of a partnership by a partner, and on behalf of a corporation by a director or by the secretary or an executive officer of the corporation.
-2. The amount of the debt or, if there is more than one debt, the total of the amounts of the debts, must exceed the statutory minimum. The statutory minimum is $2,000 or a greater amount prescribed by the regulations. For a 7-month period in 2021, a greater amount of $20,000 is prescribed in relation to a company that is eligible for temporary restructuring relief (see the Corporations Amendment (Corporate Insolvency Reforms) Regulations 2020).
+2. The amount of the debt or, if there is more than one debt, the total of the amounts of the debts, must exceed the statutory minimum. The statutory minimum is $2,000 or a greater amount prescribed by the regulations. From 1 July 2021, a greater amount of $4,000 is prescribed. However, for a 7-month period in 2021, a greater amount of $20,000 is prescribed in relation to a company that is eligible for temporary restructuring relief (see the Corporations Amendment (Corporate Insolvency Reforms) Regulations 2020).
 3. Unless the debt, or each of the debts, is a judgment debt, the demand must be accompanied by an affidavit that:
 (a) verifies that the debt, or the total of the amounts of the debts, is due and payable by the company; and
 (b) complies with the rules.
