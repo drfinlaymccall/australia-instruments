@@ -4,7 +4,7 @@
 # 2N.2.01  Particulars ASIC may require in an extract of particulars (Act s 346B)
 
 Particulars for a company
-(1) For the purposes of section 346B of the Act, the following particulars are prescribed for a company:
+(1) For the purposes of section 346B of the Act, the following particulars are prescribed for a company (other than a CCIV):
 (a) ACN;
 (b) name;
 (c) address of registered office;
@@ -28,6 +28,23 @@ Particulars for a company
 (j) for the ultimate holding company—its name and either:
 (i) its ACN or ARBN if registered in this jurisdiction; or
 (ii) the place at which it was incorporated or formed if not registered in this jurisdiction.
+Particulars for a CCIV
+(1A) For the purposes of section 346B of the Act, the following particulars are prescribed for a CCIV:
+(a) ACN;
+(b) name;
+(c) address of registered office;
+(d) for the corporate director of the CCIV:
+(i) the ACN of the corporate director; and
+(ii) the name of the corporate director; and
+(iii) the date of appointment of the corporate director;
+(e) for each sub-fund of the CCIV:
+(i) the ARFN of the sub-fund; and
+(ii) the name of the sub-fund;
+(f) for issued shares—the sub-funds to which the shares are referable, and for each sub-fund:
+(i) the classes of shares referable to the sub-fund; and
+(ii) the number of shares referable to the sub-fund in each of those classes; and
+(iii) for each of those classes—the total amount paid up for shares referable to the sub-fund in the class; and
+(iv) for each of those classes—the total amount unpaid for shares referable to the sub-fund in the class.
 Particulars for a registered scheme
 (2) For the purposes of section 346B of the Act, the following particulars are prescribed for a registered scheme:
 (a) ARSN;

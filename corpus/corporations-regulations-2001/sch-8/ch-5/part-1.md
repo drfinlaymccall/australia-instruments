@@ -7,6 +7,12 @@ internal creditor means:
 (a) a creditor who is a member of the company; or
 (b) a relative or spouse of a member; or
 (c) a relative of the spouse of a member.
+relevant marketable securities means:
+(a) unless paragraph (b) applies—marketable securities; or
+(b) if, because of section 1235C of the Act, the subject of the Scheme is a sub-fund of a CCIV:
+(i) shares or debentures; or
+(ii) any rights or options in respect of shares.
+Note: If, because of section 1235C of the Act, the subject of the Scheme is a sub-fund of a CCIV, that section translates most of this Schedule’s references to the company so that they are references to the sub-fund.
 Scheme means the proposed compromise or arrangement.
 scheme creditors means the creditors or class of creditors of a company, to whom the Scheme would apply.
 scheme members means the members or class of members of a company, to whom the Scheme would apply.

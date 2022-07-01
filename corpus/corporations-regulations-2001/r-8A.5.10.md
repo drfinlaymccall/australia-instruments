@@ -7,6 +7,7 @@ Prescribed details of Australian passport funds
 (a) the APFRN for the fund;
 (b) the name of the fund;
 (c) the ARSN of the registered scheme that constitutes the fund;
+(ca) the ARFN of the sub-fund of a CCIV that constitutes the fund;
 (d) a statement that the fund is registered as an Australian passport fund;
 (e) the date on which the fund was registered as an Australian passport fund;
 (f) if the fund has or had a name in a participating economy (including Australia) that is different from its current name in Australia, then for each name that the fund has or had in a participating economy:

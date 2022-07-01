@@ -9,7 +9,7 @@
 (i) whether he or she recommends acceptance of the Scheme or recommends against acceptance and, in either case, his or her reasons for so recommending; or
 (ii) in any other case—that the liquidator or official manager does not wish to make a recommendation and his or her reasons for not wishing to do so.
 8302 The statement must set out:
-(a) the number, description and amount of marketable securities of the company the subject of the Scheme held by or on behalf of each director of the company or, if none are held by or on behalf of a director, a statement to that effect; and
+(a) the number, description and amount of relevant marketable securities of the company the subject of the Scheme held by or on behalf of each director of the company or, if none are held by or on behalf of a director, a statement to that effect; and
 (b) for each director of the company by whom or on whose behalf shares in that company are held, whether:
 (i) the director intends to vote in favour of, or against, the Scheme; or
 (ii) the director has not decided whether he or she will vote in favour of, or against, the Scheme; and

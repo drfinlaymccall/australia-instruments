@@ -14,6 +14,7 @@ Short-Form PDS not to be given for certain products
 (4) Subsection (1) does not apply in relation to the following:
 (a) a general insurance product;
 (b) a managed investment product in relation to an Australian passport fund;
+(ba) a security in a retail CCIV that is referable to a sub-fund of the CCIV that is an Australian passport fund;
 (c) a foreign passport fund product.
 (5) To avoid doubt, nothing in Division 5AB of Part 7.9 of the regulations or in Part 3 of Schedule 10BA to the regulations permits a regulated person to give a Short-Form PDS or a Supplementary Short-Form PDS in relation to a financial product mentioned in subsection (4).
 1017I Contents of a Short-Form PDS
@@ -24,7 +25,7 @@ Contents
 (i) notifying the retail client in relation to the product that the client may ask for the Product Disclosure Statement for the product; and
 (ii) setting out the means by which the client may ask for the Product Disclosure Statement.
 Extra contents for certain products
-(2) If the Short-Form PDS is for a superannuation product or a managed investment product the Short-Form PDS must also set out in full the information in:
+(2) If the Short-Form PDS is for a superannuation product, managed investment product or a security in a retail CCIV the Short-Form PDS must also set out in full the information in:
 (a) any regulations made for the purposes of paragraph 1013D(4)(c) relating to the details of fees and costs; and
 (b) any regulations made for the purposes of paragraph 1015C(5)(b) that relate to the presentation, structure and format of information required by paragraphs 1013D(1)(d) and (e).
 Other information may be included in Short-Form PDS
