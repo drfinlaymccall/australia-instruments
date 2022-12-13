@@ -1,6 +1,6 @@
 # Schedule 8AA—Trustee companies
 
-(regulation 5D.1.01)
+(regulation 5D.1.01A)
 Item | Trustee companies
 1 | ANZ Trustees (Canberra) Limited
 2 | ANZ Trustees Limited
