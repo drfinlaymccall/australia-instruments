@@ -18,4 +18,4 @@
 (k) comparative information for the previous period for each of paragraphs (a) to (j).
 (2) The disclosures in subregulation (1) must be calculated in accordance with accounting standards in force in the financial year to which the disclosure relates.
 (3) In this regulation:
-parent entity means a company, registered scheme or disclosing entity that is required by the accounting standards to prepare financial statements in relation to a consolidated entity.
+parent entity means a company, registered scheme, registrable superannuation entity or disclosing entity that is required by the accounting standards to prepare financial statements in relation to a consolidated entity.
