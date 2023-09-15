@@ -172,12 +172,10 @@ NOTES:
 2. The amount of the debt or, if there is more than one debt, the total of the amounts of the debts, must exceed the statutory minimum. The statutory minimum is $2,000 or a greater amount prescribed by the regulations. From 1 July 2021, a greater amount of $4,000 is prescribed. However, for a 7-month period in 2021, a greater amount of $20,000 is prescribed in relation to a company that is eligible for temporary restructuring relief (see the Corporations Amendment (Corporate Insolvency Reforms) Regulations 2020).
 3. Unless the debt, or each of the debts, is a judgment debt, the demand must be accompanied by an affidavit that:
 (a) verifies that the debt, or the total of the amounts of the debts, is due and payable by the company; and
-(b) complies with the rules.
+(b) complies with the rules of court.
 4. A person may make a demand relating to a debt that is owed to the person as assignee.
 5. The statutory period is 21 days or a longer period prescribed by the regulations. For a 7-month period in 2021, a longer period of 6 months is prescribed in relation to a company that is eligible for temporary restructuring relief (see the Corporations Amendment (Corporate Insolvency Reforms) Regulations 2020).
 *Omit if inapplicable
-
-# Form 5249
 
 # Form 527
 
@@ -571,6 +569,49 @@ Capacity |
 Entity name (if entity acting as local agent) | 
 Date signed |
 
+# Form 586
+
+(subparagraph 206F(1)(b)(i))
+Form 586
+Corporations Act 2001
+Subparagraph 206F(1)(b)(i)
+Notice to demonstrate why disqualification should not occur
+IN THE MATTER of (1)__________________________________
+Notice to demonstrate why disqualification should not occur
+under section 206F of the Corporations Act 2001.
+To: (2) ________________________________________________________
+The records of the Australian Securities and Investments Commission (ASIC) show that you are or were an officer of ______ (3) corporations that have been wound up, being ____________________________________________________________(4),
+where a liquidator has reported under subsection 533(1) of the Corporations Act 2001 (the Act) that each of the corporations may be unable to pay its unsecured creditors more than 50 cents in the dollar.
+In these circumstances you are required to demonstrate, in accordance with subparagraph 206F(1)(b)(i) of the Act, why you should not be disqualified from managing corporations.
+Under subsection 206F(1) of the Act you may be disqualified from managing corporations for a period of up to 5 years.
+In making a decision under subsection 206F(1) of the Act ASIC is required to give you an opportunity to be heard in relation to why you should not be disqualified from managing corporations.
+AREAS OF CONCERN
+ASIC has identified a number of concerns about your conduct which are described in Attachment "A".
+The documents on which these concerns are based are listed in Attachment "B".
+OPPORTUNITY TO BE HEARD
+If you wish to demonstrate why you should not be disqualified from managing corporations you should notify ASIC within 14 days from the date of service of this notice that you require an opportunity of being heard.
+You may exercise your right to be heard by:
+making a written submission;
+appearing before a person ASIC has appointed to hear the matter (the delegate) and making submissions orally and appearing before the delegate to present evidence.
+You may exercise your right by doing any or all of these options.
+Once you have notified ASIC of your wish to demonstrate why you should not be disqualified a delegate will write to you with further details of the hearing procedure. The delegate will also inform you of the delegate’s decision as to whether the hearing will take place at one or more physical venues and/or by means of virtual enquiry technology.
+If you do not wish to demonstrate why you should not be disqualified, a decision will be made by a delegate on the information available.
+If you wish to have access to the documents listed in Attachment "B" you should contact ASIC as soon as possible. Access to documents which are identified as "confidential" may be given subject to strict conditions of confidentiality.
+Dated this ___________________ day of __________________________20_________
+Signed _____________________________________________________________
+(5) Delegate of the Australian Securities and Investments Commission
+Attachments
+Attachment “A”
+Areas of concern
+Attachment “B”
+List of documents upon which concerns are based
+DIRECTIONS
+Insert name of person subject of the notice.
+Insert name of person subject of the notice.
+Insert number of corporations of which person was an officer.
+Insert names and ACNs of corporations.
+Insert full name of delegate signing the notice.
+
 # Form 587
 
 (subsection 206F(3))
@@ -588,9 +629,9 @@ under section 206GAA of the Corporations Act 2001.
 To: (2) ________________________________________________________
 The records of the Australian Securities and Investments Commission (ASIC) show that you are or were an officer of ______ (3) corporations that have been wound up, being ____________________________________________________________(4)
 where money was advanced for the purposes of paying the entitlements of employees of the corporations under the Fair Entitlements Guarantee Act 2012 and:
-- the Commonwealth has received a minimal return, or no return on the advance; and
-- ASIC has reason to believe that the Commonwealth is unlikely to receive more than a minimal return on the advance; and
-- ASIC has reason to believe that either the corporations contravened the Corporations Act 2001 or Corporations (Aboriginal and Torres Strait Islander) Act 2006 and that the person failed to take reasonable steps to prevent the contravention or the person contravened the Corporations Act 2001 or Corporations (Aboriginal and Torres Strait Islander) Act 2006.
+the Commonwealth has received a minimal return, or no return on the advance; and
+ASIC has reason to believe that the Commonwealth is unlikely to receive more than a minimal return on the advance; and
+ASIC has reason to believe that either the corporations contravened the Corporations Act 2001 or Corporations (Aboriginal and Torres Strait Islander) Act 2006 and that the person failed to take reasonable steps to prevent the contravention or the person contravened the Corporations Act 2001 or Corporations (Aboriginal and Torres Strait Islander) Act 2006.
 In these circumstances you are required to demonstrate, in accordance with subparagraph 206GAA(1)(b)(i) of the Act, why you should not be disqualified from managing corporations.
 Under subsection 206GAA(1) of the Act you may be disqualified from managing corporations for a period of up to 5 years.
 In making a decision under subsection 206GAA(1) of the Act ASIC is required to give you an opportunity to be heard in relation to why you should not be disqualified from managing corporations.
@@ -600,11 +641,10 @@ The documents on which these concerns are based are listed in Attachment "B".
 OPPORTUNITY TO BE HEARD
 If you wish to demonstrate why you should not be disqualified from managing corporations you should notify ASIC within 14 days from the date of service of this notice that you require an opportunity of being heard.
 You may exercise your right to be heard by:
-1. making a written submission; or
-2. appearing before a person ASIC has appointed to hear the matter (the delegate) and making submissions orally and appearing before the delegate to present evidence; or
-3. making submissions by telephone or video call to a person ASIC has appointed to hear the matter.
-You may exercise your right by doing one of these options.
-Once you have notified ASIC of your wish to demonstrate why you should not be disqualified a delegate will write to you with further details of the hearing procedure.
+making a written submission; or
+appearing before a person ASIC has appointed to hear the matter (the delegate) and making submissions orally and appearing before the delegate to present evidence.
+You may exercise your right by doing any or all of these options.
+Once you have notified ASIC of your wish to demonstrate why you should not be disqualified a delegate will write to you with further details of the hearing procedure. The delegate will also inform you of the delegate’s decision as to whether the hearing will take place at one or more physical venues and/or by means of virtual enquiry technology.
 If you do not wish to demonstrate why you should not be disqualified, a decision will be made by a delegate on the information available.
 If you wish to have access to the documents listed in Attachment "B" you should contact ASIC as soon as possible. Access to documents which are identified as "confidential" may be given subject to strict conditions of confidentiality.
 Dated this ___________________ day of __________________________
@@ -617,11 +657,11 @@ Areas of concern
 Attachment “B”
 List of documents upon which concerns are based
 DIRECTIONS
-(1) Insert name of person subject of the notice.
-(2) Insert name of person subject of the notice.
-(3) Insert number of corporations of which the person was an officer.
-(4) Insert names and ACNs of corporations.
-(5) Insert full name of delegate signing the notice.
+Insert name of person subject of the notice.
+Insert name of person subject of the notice.
+Insert number of corporations of which the person was an officer.
+Insert names and ACNs of corporations.
+Insert full name of delegate signing the notice.
 
 # Form 589
 
