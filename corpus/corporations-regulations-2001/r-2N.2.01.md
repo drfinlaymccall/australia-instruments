@@ -80,6 +80,3 @@ Particulars for a notified foreign passport fund
 (i) that name; and
 (ii) the name of each participating economy in which the fund has or had that name; and
 (iii) for each such economy—the start date and (if applicable) the end date of each period during which the fund has or had that name in that economy.
-Definitions
-(5) In this regulation:
-participating economy has the same meaning as in Chapter 8A of the Act.

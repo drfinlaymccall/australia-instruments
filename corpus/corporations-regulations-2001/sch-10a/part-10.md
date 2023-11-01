@@ -3,7 +3,7 @@
 10.1 After subsection 1017B(5)
 insert
 Provision of advice before event
-(5A) For a superannuation product or an RSA product, if a product holder would reasonably be expected to be informed of:
+(5A) For a superannuation product or an RSA, if a product holder would reasonably be expected to be informed of:
 (a) a decision of the issuer; or
 (b) the winding-up or termination of the superannuation entity;
 before it occurs, the issuer must give the product holder information about the event as soon as practicable after it becomes reasonable for the issuer to expect that the event will happen (except that the information does not need to be given more than 3 months before the expected date of the event).
@@ -31,12 +31,12 @@ Fund and RSA transfers
 (5E) For subsections (5), (6) and (7), a reference to an event includes:
 (a) in relation to a superannuation product:
 (i) the transfer of a member to a different category of membership or to a different fund; and
-(ii) the transfer of the benefits of a member to an RSA or EPSSS (otherwise than under a payment split); and
-(b) in relation to an RSA product—the transfer of an amount of an RSA (otherwise than under a payment split) to:
-(i) another RSA offered by an RSA product issuer; or
+(ii) the transfer of the benefits of a member to an RSA or exempt public sector superannuation scheme (otherwise than under a payment split); and
+(b) in relation to an RSA—the transfer of an amount of an RSA (otherwise than under a payment split) to:
+(i) another RSA offered by an RSA issuer; or
 (ii) a superannuation entity; or
-(iii) an EPSSS.
+(iii) an exempt public sector superannuation scheme.
 10.2 After subsection 1017B(9)
 insert
-(10) This section does not apply to a change or event in relation to a superannuation product or an RSA product that relates to a payment split in respect of the product.
-(11) This section does not apply to a change or event in relation to a superannuation product or an RSA product if the change or event happens because of a transfer in accordance with paragraph 6.29(1)(ba) of the Superannuation Industry (Supervision) Regulations 1994 in respect of the product.
+(10) This section does not apply to a change or event in relation to a superannuation product or an RSA that relates to a payment split in respect of the product.
+(11) This section does not apply to a change or event in relation to a superannuation product or an RSA if the change or event happens because of a transfer in accordance with paragraph 6.29(1)(ba) of the Superannuation Industry (Supervision) Regulations 1994 in respect of the product.

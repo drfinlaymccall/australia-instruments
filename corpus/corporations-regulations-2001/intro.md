@@ -3,13 +3,13 @@
 Statutory Rules No. 193, 2001
 made under the
 Corporations Act 2001
-Compilation No. 191
-Compilation date: 28 October 2023
-Includes amendments up to: F2023L01423
-Registered: 15 November 2023
+Compilation No. 192
+Compilation date: 1 November 2023
+Includes amendments up to: F2023L01458
+Registered: 28 November 2023
 This compilation is in 7 volumes
 Volume 1: regulations 1.0.01–6D.5.03
-Volume 2: regulations 7.1.02–7.6.08E
+Volume 2: regulations 7.1.04–7.6.08E
 Volume 3: regulations 7.7.01–8B.5.20
 Volume 4: regulations 9.1.01–12.9.03
 Volume 5: Schedules 1, 2 and 2A
@@ -18,7 +18,7 @@ Volume 7: Endnotes
 Each volume has its own contents
 About this compilation
 This compilation
-This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 28 October 2023 (the compilation date).
+This is a compilation of the Corporations Regulations 2001 that shows the text of the law as amended and in force on 1 November 2023 (the compilation date).
 The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
 Uncommenced amendments
 The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law.

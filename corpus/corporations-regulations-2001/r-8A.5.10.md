@@ -45,7 +45,7 @@ Prescribed details of notified foreign passport funds
 (i) that other name or ARBN; and
 (ii) the start date and the end date of each period during which an operator of the fund has had that other name or ARBN;
 (i) the review date for the fund;
-(j) for each financial year for the fund—the name of each auditor of a report for the fund for that year that is prepared in accordance with the financial reporting requirements applying to the fund under the Passport Rules for the home economy of the fund;
+(j) for each financial year for the fund—the name of each auditor of a report for the fund for that year that is prepared in accordance with the financial reporting requirements applying to the fund under the Passport Rules for the home economy for the fund;
 (k) for each review period for the fund for which the fund is required under section 15 of the Passport Rules for this jurisdiction to conduct an implementation review—the name of the implementation reviewer.
 (4) For the purposes of paragraph 1214(3)(b) of the Act, the following details are prescribed for each fund that has been removed as a notified foreign passport fund:
 (a) the details that were prescribed for the fund under subregulation (3) immediately before the fund was removed, except for the details that were prescribed under paragraph (3)(c);
@@ -57,5 +57,4 @@ Prescribed details of notified foreign passport funds
 Definitions
 (5) In this regulation:
 implementation reviewer, for a passport fund, has the same meaning as in the Passport Rules for this jurisdiction.
-participating economy has the same meaning as in Chapter 8A of the Act.
 review period, for a passport fund, has the meaning given by subsection 15(1) of the Passport Rules for this jurisdiction.

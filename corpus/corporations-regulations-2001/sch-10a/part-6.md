@@ -18,5 +18,5 @@ insert
 insert
 Recommendation, issue or sale situation—successor fund
 (9A) In a recommendation situation, issue situation or sale situation, a regulated person does not have to give the client a Product Disclosure Statement if:
-(a) the financial product is an RSA product; and
+(a) the financial product is an RSA; and
 (b) subsection 1012I(2) applies.

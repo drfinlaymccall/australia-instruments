@@ -5,11 +5,9 @@
 (b) as trustee of a trust established for purposes that include issuing debt securities (including loan-backed securities and mortgage-backed securities) or managing or servicing the assets of the trust;
 (c) as trustee for the benefit of present or future creditors of another person when holding:
 (i) mortgages, charges, guarantees, indemnities or other rights or benefits that have been given to secure debts owing to the creditors; and
-(ii) the proceeds from the enforcement of any of the securities mentioned in subparagraph (i);
-Note: Securities is defined in section 92 of the Act.
+(ii) the proceeds from the enforcement of any of those things that have been given in subparagraph (i);
 (d) as custodian for another trustee or for the responsible entity of a registered scheme or other commercial entity;
 (e) as trustee of a managed investment scheme the main assets of which consist of land and improvements on the land where the trustee is not responsible for the daily management of the land or any business conducted on the land;
-Note: Managed investment scheme is defined in section 9 of the Act.
 (f) as trustee for employee share or benefit schemes;
 (g) as trustee for trusts the main activities of which consist of making loans to, or otherwise investing in, companies or other commercial entities;
 (h) as an escrow agent;
@@ -17,8 +15,8 @@ Note: Managed investment scheme is defined in section 9 of the Act.
 (j) as a person named in a power of attorney as an attorney when not actively providing a service or function;
 (k) preparing a power of attorney for a person’s medical treatment or for guardianship of a person’s affairs;
 (l) preparing a living will or advance health directive of any kind.
+(1A) Paragraph (1)(d) does not apply to a custodian that is a trustee establishing and operating a common fund.
 (2) In this regulation:
-custodian does not include a trustee establishing and operating a common fund.
 debt security means:
 (a) any debenture, debenture stock, bond, note or other security of a corporation or body; or
 (b) any convertible note issued by a company or any convertible note in a unit trust scheme issued by the trustee of a unit trust scheme; or

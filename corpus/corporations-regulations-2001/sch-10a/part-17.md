@@ -15,7 +15,7 @@ insert
 (ii) persons who become members of the fund in circumstances mentioned in regulation 7.9.06B of the Corporations Regulations 2001.
 17.2 After subsection 1012I(2B)
 insert
-(2C) If a trustee of an EPSSS:
+(2C) If a trustee of an exempt public sector superannuation scheme:
 (a) applies, in circumstances mentioned in regulation 7.9.06B of the Corporations Regulations 2001, on behalf of a person for the issue of an interest in a relevant superannuation entity; and
 (b) has not previously applied in those circumstances for the issue of an interest in that entity on behalf of any person;
 the person (the issuer) who is to issue the interest to the person must, at or before the time when the interest is issued to the person, give the trustee a Product Disclosure Statement in accordance with this Division for the interest.

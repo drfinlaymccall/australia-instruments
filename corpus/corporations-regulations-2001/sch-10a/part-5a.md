@@ -1,11 +1,8 @@
-# Part 5A—Modifications for margin loan
+# Part 5A—Modifications for standard margin lending facilities
 
-5A.1 Section 1011B, after definition of regulated person
-insert
-Regulations means the Corporations Regulations 2001.
 5A.2 Subsection 1013C(1)
 substitute
-(1) A Product Disclosure Statement for a margin loan to which Subdivision 4.2A of Division 4 of Part 7.9 of the Corporations Regulations 2001 applies must:
+(1) A Product Disclosure Statement for a standard margin lending facility to which Subdivision 4.2A of Division 4 of Part 7.9 of the Corporations Regulations 2001 applies must:
 (a) include the statements and information required by regulations made for this paragraph; and
 (b) be in the form required by regulations made for this paragraph.
 (1A) If a law other than this Act or regulations under this Act requires the responsible person for the Product Disclosure Statement:

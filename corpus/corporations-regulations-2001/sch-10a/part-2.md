@@ -1,4 +1,4 @@
-# Part 2—Modifications relating to Product Disclosure Statements for RSA products
+# Part 2—Modifications relating to Product Disclosure Statements for RSAs
 
 2.1 After subsection 1012D(9B)
 insert

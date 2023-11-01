@@ -1,8 +1,5 @@
 # Part 5D—Modifications for simple sub-fund product
 
-5D.1 Section 1011B, after definition of regulated person
-insert
-Regulations means the Corporations Regulations 2001.
 5D.2 Subsection 1013C(1)
 substitute
 (1) A Product Disclosure Statement for a simple sub-fund product, to which Subdivision 4.2D of Division 4 of Part 7.9 of the Regulations applies, for a retail CCIV must:

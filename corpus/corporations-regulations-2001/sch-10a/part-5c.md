@@ -1,8 +1,5 @@
 # Part 5C—Modifications for simple managed investment scheme
 
-5C.1 Section 1011B, after definition of regulated person
-insert
-Regulations means the Corporations Regulations 2001.
 5C.2 Subsection 1013C(1)
 substitute
 (1) A Product Disclosure Statement for a simple managed investment scheme to which Subdivision 4.2C of Division 4 of Part 7.9 of the Corporations Regulations 2001 applies must:

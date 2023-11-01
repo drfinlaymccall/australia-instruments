@@ -1,8 +1,5 @@
 # Part 5B—Modifications for superannuation products to which Subdivision 4.2B of Division 4 of Part 7.9 applies
 
-5B.1 Section 1011B, after definition of regulated person
-insert
-Regulations means the Corporations Regulations 2001.
 5B.2 Subsection 1013C(1)
 substitute
 (1) A Product Disclosure Statement for a superannuation product to which Subdivision 4.2B of Division 4 of Part 7.9 of the Corporations Regulations 2001 applies must:

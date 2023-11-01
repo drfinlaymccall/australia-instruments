@@ -1,12 +1,12 @@
 # Schedule 8C—Modifications of Part 7.5 of the Act—compensation regimes
 
 (regulation 7.5.01A)
-1 Subsection 880B(1), definition of fidelity fund, subparagraph (b)(ii)
+1 Section 880B, definition of fidelity fund, subparagraph (b)(ii)
 omit
 markets;
 insert
 markets; or
-2 Subsection 880B(1), definition of fidelity fund, after paragraph (b)
+2 Section 880B, definition of fidelity fund, after paragraph (b)
 insert
 (c) the operator of the market or related body corporate of the operator of the market;
 3 Subsection 881A(2)
