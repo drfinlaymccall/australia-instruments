@@ -1,3 +1,6 @@
+## Chapter 5D—Licensed trustee companies
+## Part 5D.1—Preliminary
+
 # 5D.1.01A  Meaning of trustee company
 
 (1) For subsection 601RAB(1) of the Act, a company that is listed in Schedule 8AA is a trustee company for the purpose of the Act.
