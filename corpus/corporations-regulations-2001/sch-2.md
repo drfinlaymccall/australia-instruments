@@ -517,7 +517,7 @@ Business placed indirectly through another general insurance intermediary, by th
 Total |  |  |  | 
 General insurer is defined in subsection 3(1) of the Insurance Act 1973.
 Lloyd’s underwriter is defined in subsection 3(1) of the Insurance Act 1973.
-Unauthorised foreign insurer is defined in regulation 4 of the Insurance Regulations 2002.
+Unauthorised foreign insurer is defined in the Insurance Regulations 2024.
 table 2: Transaction level data on intermediated business placed directly, or indirectly through a foreign intermediary, with unauthorised foreign insurers
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
 Policy transaction type | Client code | Policy code | Invoice date | Effective date | APRA class of business | Premium | Currency of premium | UFI name | UFI country code | Exemption type | HVI limb | HVI value (#) | Atypical risk class | Customised reason
