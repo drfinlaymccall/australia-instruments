@@ -1,12 +1,12 @@
 # ASIC Corporations (Takeover Bids) Instrument 2023/683
 
 made under subsections 655A(1), 669(1) and 673(1) of the Corporations Act 2001
-Compilation No. 2
-Compilation date: 8 November 2023
-Includes amendments up to: F2023L01475
+Compilation No. 3
+Compilation date: 15/05/2024
+Includes amendments: F2024L00542
 About this compilation
 This compilation
-This is a compilation of the ASIC Corporations (Takeover Bids) Instrument 2023/683 that shows the text of the law as amended and in force on 8/11/2023 (the compilation date).
+This is a compilation of the ASIC Corporations (Takeover Bids) Instrument 2023/683 that shows the text of the law as amended and in force on 15/05/2024 (the compilation date).
 The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
 Uncommenced amendments
 The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law.
