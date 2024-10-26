@@ -45,7 +45,7 @@ Particulars for a CCIV
 (iii) for each of those classes—the total number and value of shares referable to the sub-fund in the class; and
 (iv) for each of those classes—the total amount paid up for shares referable to the sub-fund in the class; and
 (v) for each of those classes—the total amount unpaid for shares referable to the sub-fund in the class;
-(d) for each sub-fund of the CCIV—a statement that the sub-fund is listed (or not listed) and, if the sub-fund is listed, the name of the prescribed financial market for which the sub-fund or the CCIV is included in the official list;
+(d) for each sub-fund of the CCIV—a statement that the sub-fund is listed (or not listed) and, if the sub-fund is listed, the name of the declared financial market for which the sub-fund or the CCIV is included in the official list;
 (e) for each financial year specified in the return of particulars for each sub-fund of a retail CCIV—the name of each auditor of a financial report for the sub-fund for that year;
 (f) for a retail CCIV—the name of the auditor of the compliance plan for the retail CCIV;
 (g) if a sub-fund of the CCIV is an Australian passport fund—the name of the implementation reviewer for the Australian passport fund for each review period for the Australian passport fund specified in the return of particulars.

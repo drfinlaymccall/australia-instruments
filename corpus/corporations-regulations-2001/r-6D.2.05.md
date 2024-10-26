@@ -30,7 +30,7 @@ Section 2: Key dates and offer details
 (x) details of any existing security;
 (xi) the structure of the offer;
 (xii) the minimum size of an application for the bonds;
-(xiii) the prescribed financial market on which the bonds will be listed;
+(xiii) the declared financial market on which the bonds will be listed;
 (b) a short explanation of the circumstances in which the bonds can be redeemed;
 (c) any fees and costs associated with the offer;
 (d) either:
