@@ -15,5 +15,5 @@ Item | State or Territory law and provisions
 11 | Guardianship and Custody of Infants Act 1934 (Tas)
 12 | Guardianship and Management of Property Act 1991 (ACT)
 13 | Testamentary Guardianship Act 1984 (ACT)
-14 | Adult Guardianship Act (NT)
-15 | Guardianship of Infants Act (NT)
+14 | Guardianship of Adults Act 2016 (NT)
+15 | Guardianship of Infants Act 1972 (NT)

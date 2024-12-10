@@ -6,4 +6,4 @@ Item | State or Territory law and provisions
 2 | Trustee Companies Act 1987 (WA), Part IV and section 34
 3 | Trustee Companies Act 1988 (SA), sections 15–15B and 19–21
 4 | Trustee Companies Act 1953 (Tas), subsections 18C(1), (3)–(13)
-5 | Companies (Trustees and Personal Representatives) Act (NT), section 25
+5 | Companies (Trustees and Personal Representatives) Act 1981 (NT), section 25
