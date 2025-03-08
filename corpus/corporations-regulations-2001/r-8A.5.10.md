@@ -52,7 +52,7 @@ Prescribed details of notified foreign passport funds
 (b) a statement that the fund has been removed;
 (c) the date on which the fund was removed;
 (d) a statement indicating which of the following the fund was removed under:
-(i) Subdivision A of Division 2 of Part 8A.7 of the Act (voluntarily denotification);
+(i) Subdivision A of Division 2 of Part 8A.7 of the Act (voluntary denotification);
 (ii) Subdivision B of Division 2 of Part 8A.7 of the Act (denotification as a result of deregistration as a passport fund in the home economy for the fund).
 Definitions
 (5) In this regulation:
