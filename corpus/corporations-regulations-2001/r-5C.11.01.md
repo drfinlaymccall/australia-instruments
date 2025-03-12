@@ -60,3 +60,5 @@ general member:
 (b) in relation to a litigation funding arrangement—means the party to the arrangement who:
 (i) is not the funder; and
 (ii) is not a lawyer providing services for the purposes of the arrangement.
+Sunset of subregulation (2A)
+(7) Subregulation (2A) is repealed on 1 December 2032.
