@@ -70,6 +70,11 @@ though the record were continuous.
 The server defaults to the repository it sits in. Set
 `AU_INSTRUMENTS_CORPUS` to read a different clone or build.
 
+A worked application of this corpus is the
+[australian-deal-review](https://github.com/drfinlaymccall/australian-deal-review)
+plugin, which puts these tools behind the Australian checks on an M&A
+transaction. The corpus does not depend on it.
+
 ## Layout
 
 ```
