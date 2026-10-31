@@ -485,12 +485,22 @@ what it is.
 
 The repo is at %s.
 It ships a `corpus.json` declaring `corpus: "au/federal/instruments"`, so
-`tools/build.py` places it without a fallback entry. It is not in the `lexifina` organisation, so `discover()` will
-not find it from `gh repo list` alone. It needs to be listed under Australia as
-a `more_repos` entry in the `countries.json` that `tools/build.py` reads from
-`world-law/`, which is not part of the repository, or the repo moved into the
-organisation. That is the only change needed outside this diff, and it is one
-only a maintainer can make.
+`tools/build.py` places it without a fallback entry. What it needs is to be in
+the organisation. `discover()` takes the repos `gh repo list lexifina` returns,
+keeps the names ending `-law` or `-regulations`, and reads each one's own
+`corpus.json`, so a repo in the organisation is found and placed with no
+`countries.json` change at all -- and a repo outside it is dropped by that same
+name check whether or not `countries.json` names it, since the names it keeps
+all come from the organisation's own listing.
+
+Transferred in as `lexifina/australia-regulations` this corpus is picked up by
+the next build and placed at `australia/federal/instruments`, which is free:
+`australia-law` holds `australia/federal/acts` and the seven state repos hold
+the states. Under its present name it is not picked up, because
+`australia-instruments` matches neither suffix. No repo in the organisation
+ends in `-regulations` today, so this is the first corpus to use that half of
+the filter. The transfer is the only change needed outside this diff, and it is
+one only a maintainer can make.
 
 ## The code change in this PR
 
