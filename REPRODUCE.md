@@ -80,7 +80,7 @@ exist on a date, which is the question a longstop clause turns on.
 - **Documents downloaded:** 1028 (1309 MB, 1061 cached responses)
 - **Retrieved:** 2026-10-30 to 2026-10-30
 - **Tags:** 169
-- **HEAD at generation:** `29eb8bbc2b069656df4f4a99ef2e803eee072165`
+- **HEAD at generation:** `c30ee60b413fcf2a053ef157e47c0660b76ad5ef`
 
 ## How verification works
 
@@ -123,15 +123,15 @@ document the build never reads. The compilation's own table of contents
 names every provision it holds, so the check is to take the provision
 numbers out of the contents, take the provision files out of git, and
 report any number the contents list whose text is nowhere in the tree.
-A prescribed Schedule written as a flat run of numbered items -- Schedule
-10B of the Corporations Regulations prescribes the contents of a Product
-Disclosure Statement that way -- carries no heading on its item numbers,
-so it is one file for the whole Schedule and the check looks for the item
-inside that file before calling it missing. It shares the
-build's character handling on purpose -- hyphenation and whitespace are
-already covered twice over -- and what is independent is which
-paragraphs count as provisions: contents entries here, drafting styles
-there.
+A prescribed Schedule written as a flat run of numbered items carries no
+heading on its item numbers, so it is one file for the whole Schedule and
+the check looks for the item inside that file before calling it missing.
+Schedule 10B of the Corporations Regulations set out the contents of a
+Product Disclosure Statement that way, from 2002 until its repeal on
+2015-07-01. The check shares the build's character handling on purpose --
+hyphenation and whitespace are already covered twice over -- and what is
+independent is which paragraphs count as provisions: contents entries
+here, drafting styles there.
 
 ## What is not verified
 
