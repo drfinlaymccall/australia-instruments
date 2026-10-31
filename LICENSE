@@ -1,0 +1,115 @@
+# Licences
+
+This repository holds two kinds of material under two different
+licences. Which one applies depends on the folder.
+
+## The law text: `corpus/`
+
+Everything under `corpus/` is derived from Commonwealth legislative
+instruments published on the Federal Register of Legislation, which
+makes them available under the
+[Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/)
+(CC BY 4.0).
+
+The Register requires attribution in a set form. Because this
+repository changes the presentation of the material, the required form
+is the one for changed content:
+
+> Based on content from the Federal Register of Legislation at
+> 31 October 2026. For the latest information on Australian Government
+> legislation please go to https://www.legislation.gov.au.
+
+Source: the Federal Register of Legislation, https://www.legislation.gov.au.
+Each instrument's own page on the Register is linked from
+[`corpus.json`](corpus.json) and named in every commit message by its
+compilation identifier.
+
+The Commonwealth Coat of Arms is not covered by the CC BY licence and
+does not appear here; neither does any material the Register marks as
+third-party copyright.
+
+### Changes made
+
+Required by the licence, and listed in full so a reader can judge what
+has been done to the text:
+
+1. **Format.** Converted from the Register's Word (`.docx`) files to
+   Markdown, one file per provision, with headings as `#` and `##`
+   lines. No HTML, fonts, page layout, pagination or styling survives.
+2. **Splitting.** Each instrument is split into one file per section,
+   regulation or schedule clause, named by its number. Where a Part,
+   Division or Schedule carries law text with no provision heading
+   beneath it -- the notification forms in the merger determinations are
+   whole Divisions written that way -- that text is filed under the
+   containers that hold it, as `part-6/div-2.md`. A prescribed Schedule
+   written as a flat run of numbered items, such as Schedule 10B of the
+   Corporations Regulations prescribing the contents of a Product
+   Disclosure Statement, is one file for the whole Schedule
+   (`sch-10b.md`) rather than one per item, because the item numbers
+   carry no heading in the source. Every item is in it, in source order.
+   The file names are this repository's, not the Register's.
+3. **Provisions the source numbers alike.** The 2001 compilation of the
+   Corporations Regulations heads two consecutive regulations 5.2.01
+   ("Controller's notice to owner or lessor of property -- how given" and
+   "Certified copies of reports"); later compilations number the second
+   5.2.02. The number is left exactly as that compilation prints it and
+   both regulations are kept, in print order, in the file their shared
+   number names. Nothing is renumbered. A Schedule whose text runs past
+   the end of a volume is joined to its continuation in the next volume.
+4. **Characters.** Soft hyphens and zero-width characters are removed.
+   The non-breaking hyphen (U+2011) becomes an ordinary hyphen, and the
+   non-breaking and thin spaces become ordinary spaces.
+5. **Whitespace.** Runs of whitespace are collapsed to one space, and
+   each paragraph becomes one line. Tabs that indented paragraph
+   numbering are therefore gone.
+6. **Tables.** Each row becomes one line, with cells separated by
+   ` | `. Merged cells, borders and column widths are not represented.
+7. **Omitted.** The table of contents, running page headers and footers,
+   and the Register's endnotes (about the endnotes, abbreviation key,
+   legislation history, amendment history) are not included. The
+   endnotes are the Register's editorial apparatus rather than the law,
+   and the same information is carried here by the commit history. The
+   compilation's own "About this compilation" front matter is kept, in
+   `intro.md`, and it refers to endnotes that are therefore not here;
+   read them on the Register, or read the commit history instead.
+8. **History.** The commits, their dates and their authorship are
+   reconstructed by this repository's tooling from the Register's
+   version records. They are not part of the Register's published
+   material.
+
+**No word of the legislative text has been added, removed or altered.**
+That claim is tested rather than asserted: see
+[REPRODUCE.md](REPRODUCE.md).
+
+This repository is not endorsed by the Office of Parliamentary Counsel
+or the Commonwealth of Australia.
+
+### Not a substitute for the Register
+
+The Register is authoritative; this is a derived copy, and a compiled
+instrument is not the whole law in any event. Use it to find and track
+provisions, and read the Register before relying on the words.
+
+## The code: everything else
+
+All other material, including everything under `tools/`, is licensed
+under the Apache License, Version 2.0. The full text is in
+[`LICENSES/Apache-2.0.txt`](LICENSES/Apache-2.0.txt).
+
+    Copyright 2026 Finlay McCall
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+    implied. See the License for the specific language governing
+    permissions and limitations under the License.
+
+No code from `lexifina/australia-law` has been copied or adapted. The
+layout convention this repository follows is described in
+`lexifina/global-law`, which is public domain (CC0).
