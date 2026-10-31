@@ -17,12 +17,14 @@ what it is.
 | ASIC Corporations (Takeover Bids) Instrument 2023/683 | `F2023L01310` | 4 | 2023-09-27 to 2024-05-15 |
 | Corporations Regulations 2001 | `F2001B00274` | 138 | 2001-07-15 to 2026-09-01 |
 
-The repo is at https://github.com/drfinlaymccall/australia-instruments and it ships a `corpus.json` declaring
-`corpus: "au/federal/instruments"`, so `tools/build.py` places it without a
-fallback entry. It is not in the `lexifina` organisation, so `discover()` will
-not find it from `gh repo list` alone -- it needs an entry in
-`scripts/world-law/countries.json` under Australia (`more_repos`), or the repo
-moved into the organisation. That is the only change needed outside this diff.
+The repo is at https://github.com/drfinlaymccall/australia-instruments.
+It ships a `corpus.json` declaring `corpus: "au/federal/instruments"`, so
+`tools/build.py` places it without a fallback entry. It is not in the `lexifina` organisation, so `discover()` will
+not find it from `gh repo list` alone. It needs to be listed under Australia as
+a `more_repos` entry in the `countries.json` that `tools/build.py` reads from
+`world-law/`, which is not part of the repository, or the repo moved into the
+organisation. That is the only change needed outside this diff, and it is one
+only a maintainer can make.
 
 ## The code change in this PR
 

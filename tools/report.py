@@ -483,12 +483,14 @@ what it is.
 | --- | --- | --- | --- |
 %s
 
-The repo is at %s and it ships a `corpus.json` declaring
-`corpus: "au/federal/instruments"`, so `tools/build.py` places it without a
-fallback entry. It is not in the `lexifina` organisation, so `discover()` will
-not find it from `gh repo list` alone -- it needs an entry in
-`scripts/world-law/countries.json` under Australia (`more_repos`), or the repo
-moved into the organisation. That is the only change needed outside this diff.
+The repo is at %s.
+It ships a `corpus.json` declaring `corpus: "au/federal/instruments"`, so
+`tools/build.py` places it without a fallback entry. It is not in the `lexifina` organisation, so `discover()` will
+not find it from `gh repo list` alone. It needs to be listed under Australia as
+a `more_repos` entry in the `countries.json` that `tools/build.py` reads from
+`world-law/`, which is not part of the repository, or the repo moved into the
+organisation. That is the only change needed outside this diff, and it is one
+only a maintainer can make.
 
 ## The code change in this PR
 
