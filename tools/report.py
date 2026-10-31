@@ -184,8 +184,9 @@ def reproduce_md(build, verify, cache, corpus, complete):
         return sorted((i["folder"], n.get("start", ""), n.get("scope", "main"))
                       for i in build["instruments"] for n in i.get("notes", [])
                       if n.get("kind") == kind)
+    notext = noted("no-document")
     nopublish = "\n".join("  - `%s` at %s (on `%s`)" % row
-                          for row in noted("no-document")) or "  - None."
+                          for row in notext) or "  - None."
     unchanged = noted("no-change")
     nochange = "\n".join("  - `%s` at %s (on `%s`)" % row
                          for row in unchanged) or "  - None."
@@ -272,8 +273,9 @@ exist on a date, which is the question a longstop clause turns on.
 
 - **Versions in the register's lists:** %(versions)d, which the corpus
   accounts for as %(oncommits)d commits (%(onmain)d on `main`,
-  %(onfuture)d on `future`), %(outofscope)d out of scope by format and
-  %(unchanged)d with no textual change
+  %(onfuture)d on `future`), %(outofscope)d out of scope by format,
+  %(notext)d the register publishes no text for and %(unchanged)d with
+  no textual change
 - **Compilations checked:** %(checked)d
 - **Compilations with mismatches:** %(bad)d
 - **Compilations skipped:** %(skipped)d
@@ -388,6 +390,7 @@ and check reports named above.
         "skipped": verify["skipped"],
         "outside": verify.get("out_of_scope", 0),
         "nopublish": nopublish,
+        "notext": len(notext),
         "nochange": nochange,
         "unchanged": len(unchanged),
         "versions": sum(i["versions"] for i in build["instruments"]),

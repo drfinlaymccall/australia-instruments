@@ -68,8 +68,9 @@ exist on a date, which is the question a longstop clause turns on.
 
 - **Versions in the register's lists:** 248, which the corpus
   accounts for as 169 commits (166 on `main`,
-  3 on `future`), 72 out of scope by format and
-  1 with no textual change
+  3 on `future`), 72 out of scope by format,
+  6 the register publishes no text for and 1 with
+  no textual change
 - **Compilations checked:** 166
 - **Compilations with mismatches:** 0
 - **Compilations skipped:** 77
@@ -79,7 +80,7 @@ exist on a date, which is the question a longstop clause turns on.
 - **Documents downloaded:** 1028 (1309 MB, 1061 cached responses)
 - **Retrieved:** 2026-10-30 to 2026-10-30
 - **Tags:** 169
-- **HEAD at generation:** `9c0d7a4de12ae5c8c310912dede931852b0c6978`
+- **HEAD at generation:** `29eb8bbc2b069656df4f4a99ef2e803eee072165`
 
 ## How verification works
 
