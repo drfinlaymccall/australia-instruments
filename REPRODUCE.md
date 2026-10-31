@@ -78,9 +78,9 @@ exist on a date, which is the question a longstop clause turns on.
 - **Compilations checked against the official contents:** 166
 - **Compilations with a contents entry whose text is nowhere in the tree:** 0
 - **Documents downloaded:** 1028 (1309 MB, 1061 cached responses)
-- **Retrieved:** 2026-10-30 to 2026-10-30
+- **Retrieved:** 2026-10-30 to 2026-10-30 (UTC; the Register's own dates, and the attribution date in LICENSE, are Canberra time)
 - **Tags:** 169
-- **HEAD at generation:** `c30ee60b413fcf2a053ef157e47c0660b76ad5ef`
+- **HEAD at generation:** `835366ebce43967e5006a5bb7df11849506d64a2`
 
 ## How verification works
 

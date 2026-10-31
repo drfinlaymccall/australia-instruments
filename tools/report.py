@@ -283,7 +283,7 @@ exist on a date, which is the question a longstop clause turns on.
 - **Compilations checked against the official contents:** %(complete_checked)d
 - **Compilations with a contents entry whose text is nowhere in the tree:** %(complete_gaps)d
 - **Documents downloaded:** %(documents)d (%(megabytes).0f MB, %(responses)d cached responses)
-- **Retrieved:** %(first)s to %(last)s
+- **Retrieved:** %(first)s to %(last)s (UTC; the Register's own dates, and the attribution date in LICENSE, are Canberra time)
 - **Tags:** %(tagcount)d
 - **HEAD at generation:** `%(head)s`
 

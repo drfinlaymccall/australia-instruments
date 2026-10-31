@@ -41,11 +41,10 @@ has been done to the text:
    Division or Schedule carries law text with no provision heading
    beneath it -- the notification forms in the merger determinations are
    whole Divisions written that way -- that text is filed under the
-   containers that hold it, as `part-6/div-2.md`. A prescribed Schedule
-   written as a flat run of numbered items, such as Schedule 10B of the
-   Corporations Regulations prescribing the contents of a Product
-   Disclosure Statement, is one file for the whole Schedule
-   (`sch-10b.md`) rather than one per item, because the item numbers
+   containers that hold it, as `part-6/div-2.md`. A Schedule written as a
+   flat run of numbered items, such as Schedule 13 of the Corporations
+   Regulations with its 45 items, is one file for the whole Schedule
+   (`sch-13.md`) rather than one per item, because the item numbers
    carry no heading in the source. Every item is in it, in source order.
    The file names are this repository's, not the Register's.
 3. **Provisions the source numbers alike.** The 2001 compilation of the
