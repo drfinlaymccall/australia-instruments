@@ -43,8 +43,12 @@ def reset_history(repo):
     Determinism only means anything from an empty history. Replaying onto a
     history that is already built writes no commits at all: every file
     already holds the text the build would give it, so write_tree reports no
-    change and every compilation is skipped. Untracked files -- the tools,
-    the licence, the cache -- are left where they are.
+    change and every compilation is skipped.
+
+    Everything outside corpus/ is left on disk, but this unstages it: in a
+    clone, where the tools, the licence and the record are tracked, that
+    means the commits carrying them are gone from the history as well. It
+    is how a release is built, not something to run in a clone.
     """
     def run(*args, **kw):
         return subprocess.run(["git", "-C", repo] + list(args),

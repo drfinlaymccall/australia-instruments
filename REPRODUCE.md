@@ -45,6 +45,26 @@ python3 tools/completeness.py --today 2026-10-31 --report completeness-report.js
 python3 tools/report.py                        # regenerate this file
 ```
 
+Run in a clone, the build finds the history already there and writes
+nothing: every file already holds the text it would give it. The two
+checks still do their work, against the history that is there. To build
+the history again from nothing and compare it, build into an empty
+repository:
+
+```bash
+git init -q -b main /tmp/rebuild
+python3 tools/build.py --repo /tmp/rebuild --today 2026-10-31
+git -C /tmp/rebuild rev-parse main   # the commit named below
+```
+
+The cache stays where it is: `tools/fetch.py` reads it from beside the
+tools rather than from `--repo`, so nothing is downloaded twice.
+
+`tools/build.py --fresh` does the same thing in place, which is how a
+release is built. It deletes `main`, `future` and every tag in the
+repository it is pointed at, so do not run it in a clone you want to
+keep.
+
 `--today` is what divides the record: compilations starting after it go
 to the `future` branch, and `main` holds only what is in force. Passing
 the same `--today` against the same cache gives the same commit hashes.
@@ -80,7 +100,10 @@ exist on a date, which is the question a longstop clause turns on.
 - **Documents downloaded:** 1028 (1309 MB, 1061 cached responses)
 - **Retrieved:** 2026-10-30 to 2026-10-30 (UTC; the Register's own dates, and the attribution date in LICENSE, are Canberra time)
 - **Tags:** 169
-- **HEAD at generation:** `835366ebce43967e5006a5bb7df11849506d64a2`
+- **The generated history ends at:**
+  `9c0d7a4de12ae5c8c310912dede931852b0c6978`. The tooling, licence and record commits sit on top of that;
+  the build does not write them, and a rebuild from the same cache
+  reproduces that commit.
 
 ## How verification works
 

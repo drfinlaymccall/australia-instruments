@@ -205,7 +205,17 @@ def reproduce_md(build, verify, cache, corpus, complete):
                "%d checked, %d mismatches"
                % (result.get("checked", 0), len(result.get("mismatches", [])))))
 
-    head = git("rev-parse", "HEAD")
+    # What a rebuild reproduces is the end of the generated history, not
+    # HEAD: the tooling, licence and record commits sit on top of it and the
+    # build does not write them. Where two instruments have a commit on the
+    # same last day, the one with more history behind it is the later.
+    main_tags = [tag for i in build["instruments"]
+                 for tag, _n, scope in i["commits"] if scope == "main"]
+    last_day = max((tag.rsplit("/", 1)[1] for tag in main_tags), default="")
+    last = [tag for tag in main_tags if tag.endswith("/" + last_day)]
+    tip = (git("rev-parse", "%s^{commit}"
+               % max(last, key=lambda t: int(git("rev-list", "--count", t))))
+           if last else "-")
     tags = git("tag")
     return """# Reproducing this corpus
 
@@ -254,6 +264,26 @@ python3 tools/completeness.py --today %(today)s --report completeness-report.jso
 python3 tools/report.py                        # regenerate this file
 ```
 
+Run in a clone, the build finds the history already there and writes
+nothing: every file already holds the text it would give it. The two
+checks still do their work, against the history that is there. To build
+the history again from nothing and compare it, build into an empty
+repository:
+
+```bash
+git init -q -b main /tmp/rebuild
+python3 tools/build.py --repo /tmp/rebuild --today 2026-10-31
+git -C /tmp/rebuild rev-parse main   # the commit named below
+```
+
+The cache stays where it is: `tools/fetch.py` reads it from beside the
+tools rather than from `--repo`, so nothing is downloaded twice.
+
+`tools/build.py --fresh` does the same thing in place, which is how a
+release is built. It deletes `main`, `future` and every tag in the
+repository it is pointed at, so do not run it in a clone you want to
+keep.
+
 `--today` is what divides the record: compilations starting after it go
 to the `future` branch, and `main` holds only what is in force. Passing
 the same `--today` against the same cache gives the same commit hashes.
@@ -285,7 +315,10 @@ exist on a date, which is the question a longstop clause turns on.
 - **Documents downloaded:** %(documents)d (%(megabytes).0f MB, %(responses)d cached responses)
 - **Retrieved:** %(first)s to %(last)s (UTC; the Register's own dates, and the attribution date in LICENSE, are Canberra time)
 - **Tags:** %(tagcount)d
-- **HEAD at generation:** `%(head)s`
+- **The generated history ends at:**
+  `%(tip)s`. The tooling, licence and record commits sit on top of that;
+  the build does not write them, and a rebuild from the same cache
+  reproduces that commit.
 
 ## How verification works
 
@@ -408,7 +441,7 @@ and check reports named above.
         "first": (cache["first_fetch"] or "")[:10],
         "last": (cache["last_fetch"] or "")[:10],
         "tagcount": len(tags.split("\n")) if tags else 0,
-        "head": head,
+        "tip": tip,
         "python": platform.python_version(),
         "implementation": platform.python_implementation(),
         "git": git("--version").replace("git version ", ""),
