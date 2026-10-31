@@ -135,13 +135,13 @@ and the provision is simply absent. `tools/completeness.py` checks that
 against the one part of the document the build never reads. The
 compilation's own table of contents names every provision it holds, so
 any number listed there whose text is nowhere in the tree is a gap. (A
-prescribed Schedule written as a flat run of numbered items is filed as
-one file for the whole Schedule, so the check looks for the item there
-before calling it missing.) That check exists
-because this build had such a gap: about five hundred paragraphs of the
-ACCC's prescribed notification forms, which are whole Divisions of law
-written with no section heading beneath them, and the word-for-word
-comparison was clean the whole time they were missing.
+Schedule written as a flat run of numbered items is filed as one file
+for the whole Schedule, so the check looks for the item there before
+calling it missing.) That check exists because this build had such a
+gap: about five hundred paragraphs of the ACCC's prescribed notification
+forms, which are whole Divisions of law written with no section heading
+beneath them, and the word-for-word comparison was clean the whole time
+they were missing.
 
 [REPRODUCE.md](REPRODUCE.md) carries both results, the counts and the
 software versions.
