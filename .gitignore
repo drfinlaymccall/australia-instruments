@@ -1,0 +1,21 @@
+# Downloaded documents. The index that records every URL and its sha256
+# is tracked; the bytes themselves are not, because they run to gigabytes
+# and the register is the authoritative copy. tools/fetch_all.py refills
+# this from the index.
+cache/blobs/
+cache/.last-request
+logs/
+__pycache__/
+*.pyc
+cache/.fetch-lock
+
+# Per-run reports from the build and the two checks. report.py reads all
+# three to write REPRODUCE.md, which is the tracked record of what they
+# measured. The build and verify reports carry a wall-clock built_at and
+# an elapsed time, so tracking them would make two otherwise identical
+# builds differ; the completeness report carries neither, but it is the
+# same kind of thing and tracking it alone would leave the tree dirty
+# after every run.
+build-report.json
+verify-report.json
+completeness-report.json
