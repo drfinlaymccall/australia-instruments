@@ -30,6 +30,46 @@ See [`corpus.json`](corpus.json) for the machine-readable record of
 coverage, and [`REPRODUCE.md`](REPRODUCE.md) for the counts and the
 verification result.
 
+## Using it from an AI model (MCP)
+
+`tools/mcp_server.py` is a Model Context Protocol server for this corpus.
+It makes the two questions above into tools, so Claude or any other MCP
+client can read a provision as it stood on a date and say which
+instrument last changed it. Python 3.11+ and git, standard library only,
+over stdio. It reads this clone and makes no network calls.
+
+```bash
+git clone https://github.com/drfinlaymccall/australia-instruments
+cd australia-instruments
+claude mcp add au-instruments -- python3 -I tools/mcp_server.py
+```
+
+For other MCP clients, add this to their settings:
+
+```json
+{ "mcpServers": { "au-instruments": { "command": "python3",
+  "args": ["-I", "/path/to/australia-instruments/tools/mcp_server.py"] } } }
+```
+
+Four read-only tools -- `provision_on_date`, `instrument_on_date`,
+`what_changed`, `find_in_law` -- and then plain words:
+
+- "What was the combined acquirer/target revenue test on 1 January 2026,
+  and which instrument set that figure?"
+- "What has changed in the Foreign Acquisitions and Takeovers Regulation
+  since 1 July 2023?"
+- "Show me the short-form notification the ACCC requires."
+- "Will the Takeover Bids Instrument still exist in October 2029?"
+
+Every answer names the compilation it was read from. Where the record is
+weaker than the answer looks -- a date before that instrument's
+`no_gaps_from`, or a compilation much older than the date asked about --
+the answer carries a `caveats` list that says so, rather than reading as
+though the record were continuous.
+
+The server defaults to the repository it sits in. Set
+`AU_INSTRUMENTS_CORPUS` to read a different clone or build.
+
 ## Layout
 
 ```
