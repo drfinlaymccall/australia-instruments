@@ -151,6 +151,14 @@
   "reason": "Not Found",
   "status": 404
  },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=contains(name,'Fees%20Imposition')": {
+  "bytes": 13831,
+  "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+  "fetched_at": "2026-11-02T02:11:11Z",
+  "label": "scope fees imposition",
+  "sha256": "471f64d5e5922c66c0ea2a5be2088841c6bf9c42bec4c5f11ada3781866912cd",
+  "status": 200
+ },
  "https://api.prod.legislation.gov.au/v1/Titles?$filter=id%20eq%20'F2001B00274'": {
   "bytes": 1148,
   "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
@@ -189,6 +197,52 @@
   "fetched_at": "2026-10-30T20:35:51Z",
   "label": "title F2025L01604",
   "sha256": "a8be6b58a63dadb1cbdbe343c0c6d0c2e0cd8f96a9550bdcc8366d747209cc55",
+  "status": 200
+ },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=startswith(name,'A%20New%20Tax%20System%20(Goods%20and%20Services%20Tax)%20Regulations')": {
+  "bytes": 3265,
+  "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+  "fetched_at": "2026-11-02T02:10:36Z",
+  "label": "scope A New Tax System (Goods and Services Tax",
+  "sha256": "2b210de97909a3dae2b0f6c0cee9e087c23fc1f8f887e3464eb4718559ead804",
+  "status": 200
+ },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=startswith(name,'Anti-Money%20Laundering%20and%20Counter-Terrorism%20Financing%20Rules')": {
+  "bytes": 93130,
+  "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+  "fetched_at": "2026-11-02T02:10:21Z",
+  "label": "scope Anti-Money Laundering and Counter-Terror",
+  "sha256": "3a002188003e2473b1ad5b16f58fe649d4593cbe056305053c0053c3be5656fb",
+  "status": 200
+ },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=startswith(name,'Foreign%20Acquisitions%20and%20Takeovers%20Fees')": {
+  "fetched_at": "2026-11-02T02:09:59Z",
+  "label": "scope Foreign Acquisitions and Takeovers Fees",
+  "reason": "Forbidden",
+  "status": 403
+ },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=startswith(name,'Foreign%20Acquisitions')": {
+  "bytes": 93652,
+  "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+  "fetched_at": "2026-11-02T02:11:22Z",
+  "label": "scope foreign acq short",
+  "sha256": "d4f0c82ae1c5c7c08d4e168c26d8bab1d37e56a07b672f6bd9dcec5b0f24fb57",
+  "status": 200
+ },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=startswith(name,'National%20Consumer%20Credit%20Protection%20Regulations')": {
+  "bytes": 1094,
+  "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+  "fetched_at": "2026-11-02T02:10:48Z",
+  "label": "scope National Consumer Credit Protection Regu",
+  "sha256": "6e044192a489ea7f4eb750ebe9bb75855a67c8908400ed54ecc4c34ea72b94ec",
+  "status": 200
+ },
+ "https://api.prod.legislation.gov.au/v1/Titles?$filter=startswith(name,'Taxation%20Administration')": {
+  "bytes": 283467,
+  "content_type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+  "fetched_at": "2026-11-02T02:10:28Z",
+  "label": "scope Taxation Administration",
+  "sha256": "574ff85e6f30bdf9f2fc6571dd4c64187d5332e76884b13ba4e4bfaba3ec8f8a",
   "status": 200
  },
  "https://api.prod.legislation.gov.au/v1/Versions?$filter=titleId%20eq%20'F2001B00274'&$orderby=start%20asc": {
