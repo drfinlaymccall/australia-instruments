@@ -39,8 +39,8 @@ instrument last changed it. Python 3.11+ and git, standard library only,
 over stdio. It reads this clone and makes no network calls.
 
 ```bash
-git clone https://github.com/drfinlaymccall/australia-instruments
-cd australia-instruments
+git clone https://github.com/drfinlaymccall/australia-regulations
+cd australia-regulations
 claude mcp add au-instruments -- python3 -I tools/mcp_server.py
 ```
 
@@ -48,7 +48,7 @@ For other MCP clients, add this to their settings:
 
 ```json
 { "mcpServers": { "au-instruments": { "command": "python3",
-  "args": ["-I", "/path/to/australia-instruments/tools/mcp_server.py"] } } }
+  "args": ["-I", "/path/to/australia-regulations/tools/mcp_server.py"] } } }
 ```
 
 Four read-only tools -- `provision_on_date`, `instrument_on_date`,
